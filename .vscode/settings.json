@@ -1,0 +1,22 @@
+{
+  "markdownlint.config": {
+    "no-inline-html": false,
+    "single-trailing-newline": false,
+    "no-multiple-blanks": true,
+    "no-blanks-blockquote": false,
+    "no-trailing-punctuation": false,
+    "ol-prefix": false
+  },
+  "prettier.printWidth": 100,
+  "prettier.endOfLine": "auto",
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": false,
+    "editor.rulers": [
+      100
+    ],
+  },
+  "files.associations": {
+    "ATTRIBUTION": "yaml"
+  }
+}

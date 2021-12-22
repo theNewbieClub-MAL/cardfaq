@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "DavidAnson.vscode-markdownlint",
+    "EditorConfig.EditorConfig",
+    "rickvansloten.bbcode",
+    "redhat.vscode-yaml",
+    "IronGeek.vscode-env",
+    "wmaurer.change-case"
+  ]
+}
