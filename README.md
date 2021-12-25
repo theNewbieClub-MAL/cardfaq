@@ -17,3 +17,6 @@
 </p><br />
 
 ## Localization
+
+* [Bahasa Indonesia](i18n/id_ID.md)
+* [English](i18n/en_US.md)

@@ -16,7 +16,17 @@
       100
     ],
   },
+  "[bbcode]": {
+    "editor.wordWrap": "on"
+  },
   "files.associations": {
-    "ATTRIBUTION": "yaml"
-  }
+    "ATTRIBUTION": "yaml",
+    "LICENSE": "plaintext"
+  },
+  "cSpell.words": [
+    "Barakamon",
+    "Irasutoya",
+    "Lumzing",
+    "markdownlint"
+  ]
 }

@@ -1,0 +1,255 @@
+{
+  "b": {
+    "prefix": [
+      "b",
+      "[b]",
+      "[bold]",
+      "bold"
+    ],
+    "body": "[b]$1[/b]",
+    "scope": "bbcode",
+    "description": "Bold"
+  },
+  "i": {
+    "prefix": [
+      "i",
+      "[i]",
+      "italic",
+      "[italic]"
+    ],
+    "body": "[i]$1[/i]",
+    "scope": "bbcode",
+    "description": "Italic"
+  },
+  "s": {
+    "prefix": [
+      "s",
+      "[s]",
+      "strike",
+      "[strike]"
+    ],
+    "body": "[s]$1[/s]",
+    "scope": "bbcode",
+    "description": "Strikethrough"
+  },
+  "u": {
+    "prefix": [
+      "u",
+      "[u]",
+      "underline",
+      "[underline]"
+    ],
+    "body": "[u]$1[/u]",
+    "scope": "bbcode",
+    "description": "Underline"
+  },
+  "center": {
+    "prefix": [
+      "center",
+      "[center]",
+      "align-center"
+    ],
+    "body": "[center]$1[/center]",
+    "scope": "bbcode",
+    "description": "Align text to center"
+  },
+  "right": {
+    "prefix": [
+      "right",
+      "[right]",
+      "align-right"
+    ],
+    "body": "[right]$1[/right]",
+    "scope": "bbcode",
+    "description": "Align text to right"
+  },
+  "color": {
+    "prefix": [
+      "color",
+      "[color]"
+    ],
+    "body": "[color=$1]$2[/color]",
+    "scope": "bbcode",
+    "description": "Add color"
+  },
+  "size": {
+    "prefix": [
+      "size",
+      "[size]"
+    ],
+    "body": "[size=$1]$2[/size]",
+    "scope": "bbcode",
+    "description": "Configure font size"
+  },
+  "img": {
+    "prefix": [
+      "img",
+      "[img]"
+    ],
+    "body": "[img]$1[/img]",
+    "scope": "bbcode",
+    "description": "Embed an image"
+  },
+  "img-left": {
+    "prefix": [
+      "imgleft",
+      "il",
+      "[il]",
+      "[img left]"
+    ],
+    "body": "[img align=left]$1[/img]",
+    "scope": "bbcode",
+    "description": "Image, align left"
+  },
+  "img-right": {
+    "prefix": [
+      "imgright",
+      "ir",
+      "[ir]",
+      "[img right]"
+    ],
+    "body": "[img align=right]$1[/img]",
+    "scope": "bbcode",
+    "description": "Image, align right"
+  },
+  "url": {
+    "prefix": [
+      "url",
+      "[url]"
+    ],
+    "body": "[url=$1]$2[/url]",
+    "scope": "bbcode",
+    "description": "Hyperlink a text"
+  },
+  "url-mal": {
+    "prefix": [
+      "mal",
+      "[mal]",
+      "url mal",
+      "[url mal]"
+    ],
+    "body": "[url=https://myanimelist.net/profile/$1]$2[/url]",
+    "scope": "bbcode",
+    "description": "Hyperlink a text to MAL profile"
+  },
+  "youtube": {
+    "prefix": [
+      "yt",
+      "[yt]",
+      "youtube",
+      "[youtube]"
+    ],
+    "body": "[yt]$1[/yt]",
+    "scope": "bbcode",
+    "description": "Embed a YouTube video"
+  },
+  "code": {
+    "prefix": [
+      "code",
+      "[code]"
+    ],
+    "body": "[code]$1[/code]",
+    "scope": "bbcode",
+    "description": "Insert a code source"
+  },
+  "quote-who": {
+    "prefix": [
+      "quote?",
+      "[quote?]",
+      "[q?]",
+      "q?"
+    ],
+    "body": "[quote$1]$2[/quote]",
+    "scope": "bbcode",
+    "description": "Quoting `x`"
+  },
+  "quote": {
+    "prefix": [
+      "quote",
+      "[quote]",
+      "[q]",
+      "q"
+    ],
+    "body": "[quote]$1[/quote]",
+    "scope": "bbcode",
+    "description": "Quote, without quoting `x`"
+  },
+  "spoiler-what": {
+    "prefix": [
+      "spoiler?",
+      "sp?",
+      "[spoiler?]",
+      "[sp?]"
+    ],
+    "body": "[spoiler=$1]$2[/spoiler]",
+    "scope": "bbcode",
+    "description": "Add a spoiler warning with a message"
+  },
+  "spoiler": {
+    "prefix": [
+      "spoiler",
+      "sp",
+      "[spoiler]",
+      "[sp]"
+    ],
+    "body": "[spoiler]$2[/spoiler]",
+    "scope": "bbcode",
+    "description": "Add a spoiler warning **without** a message"
+  },
+  "ul": {
+    "prefix": [
+      "ul",
+      "list",
+      "unordered",
+      "[ul]",
+      "[list]"
+    ],
+    "body": [
+      "[list]",
+      "[*]$1",
+      "[/list]"
+    ],
+    "scope": "bbcode",
+    "description": "Unordered List"
+  },
+  "ol": {
+    "prefix": [
+      "ol",
+      "ordered",
+      "[ol]"
+    ],
+    "body": [
+      "[list=1]",
+      "[*]$1",
+      "[/list]"
+    ],
+    "scope": "bbcode",
+    "description": "Ordered List"
+  },
+  "li": {
+    "prefix": [
+      "li",
+      "*",
+      "[*]",
+      "[li]"
+    ],
+    "body": "[*]$1",
+    "scope": "bbcode",
+    "description": "Add list child"
+  },
+  "comment": {
+    "prefix": [
+      "comment",
+      "#",
+      "//",
+      ";",
+      "/*",
+      "[comment]",
+      "[#]",
+      "[;]"
+    ],
+    "body": "[size=1][color=#FFFFFF]$1[/color][/size]",
+    "scope": "bbcode",
+    "description": "Add commenting support"
+  }
+}

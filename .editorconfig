@@ -6,9 +6,12 @@ indent_style = space
 indent_size = 4
 root = false
 
-[**.{md,yaml,yml,bbcode}]
+[**.{md,yaml,yml,json,bbcode,code-snippets}]
 indent_size = 2
 
 [**.md]
 trim_trailing_whitespace = true
 max_line_length = 100
+
+[**.bbcode]
+indent_size = 3
