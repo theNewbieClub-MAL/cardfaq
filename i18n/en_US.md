@@ -1,7 +1,12 @@
 <!-- markdownlint-disable MD041 MD034 -->
 
-![banner][banner]\
-*[Barakamon][a22789] banner by [@Yes_Im_Lumzing][bannerAttribution]*
+<p align="center">
+  <img src="../assets/banner/banner.png" alt="banner" align="center"><br/>
+  <sup><em>
+    <a href="https://myanimelist.net/anime/22789">Barakamon</a> banner by
+    <a href="https://myanimelist.net/profile/Yes_Im_Lumzing">@Yes_Im_Lumzing</a>
+  </em></sup>
+</p>
 
 # The Newbie Club Card Guides and FAQ
 
