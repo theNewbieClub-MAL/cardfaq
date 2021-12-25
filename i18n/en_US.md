@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 MD034 -->
 
-![banner][banner]
+![banner][banner]\
 *[Barakamon][a22789] banner by [@Yes_Im_Lumzing][bannerAttribution]*
 
 # The Newbie Club Card Guides and FAQ
@@ -22,6 +22,8 @@ To begin, read contents below one-by-one.
 
 We also provide translation for this work. To read this in your language, check
 [languageContent.md](languageContent.md).
+
+<br/><br/>
 
 ## 📃 Index
 
