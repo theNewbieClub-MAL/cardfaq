@@ -18,7 +18,7 @@ jobs:
         uses: lycheeverse/lychee-action@v1.2.0
         id: lychee
         with:
-          args: --verbose --config "config/lychee.toml" --exclude-mail --no-progress **/*.md **/*.html **/*.bbcode
+          args: --verbose --config "config/lychee.toml" --exclude-mail --no-progress **/*.md **/*.html
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
