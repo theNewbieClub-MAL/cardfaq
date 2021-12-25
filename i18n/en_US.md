@@ -11,7 +11,7 @@
 
 **Welcome to The Newbie Club's Guideline for card request and frequently asked questions.**
 
-This work will assist you on how to request card(s) on this club and any questions that may
+This documentation will assist you on how to request card(s) on this club and any questions that may
 frequently asked about.
 
 To begin, read contents below one-by-one.
@@ -20,7 +20,7 @@ To begin, read contents below one-by-one.
 
 ### 🌐 Translation
 
-We also provide translation for this work. To read this in your language, check
+We also provide translation for this documentation. To read this in your language, check
 [languageContent.md](languageContent.md).
 
 <br/><br/>
@@ -41,9 +41,9 @@ We also provide translation for this work. To read this in your language, check
 
 <img src="../assets/irasutoya/original/auction_hammer.png" align="right" width="150">
 
-This work is published under [Creative Commons Attribution (BY) 4.0][CCBY40] license.
+This documentation is published under [Creative Commons Attribution (BY) 4.0][CCBY40] license.
 
-Clip arts on this work are copyrighted materials used under non-commercial purpose.
+Clip arts on this documentation are copyrighted materials used under non-commercial purpose.
 
 <!-- START: DO NOT TRANSLATE THIS COPYRIGHT NOTICE -->
 **COPYRIGHT © 2021 Irasutoya. All Rights Reserved.**\
@@ -60,7 +60,7 @@ Homepage/ホームページ: https://irasutoya.com
 
 <hr/>
 
-<img src="../assets/irasutoya/original/pointcard.png" align="left" width="150">
+<img src="../assets/irasutoya/original/pointcard.png" align="left" width="125">
 
 # About: Cards
 
