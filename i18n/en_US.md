@@ -10,9 +10,9 @@
 
 # The Newbie Club Card Guides and FAQ
 
-<img src="../assets/irasutoya/original/aisatsu_boushi_nimotsu.png" width="150" align="right">
-
 ## 💬 Introduction
+
+<img src="../assets/irasutoya/original/aisatsu_boushi_nimotsu.png" width="150" align="right">
 
 **Welcome to The Newbie Club's Guideline for card request and frequently asked questions.**
 
@@ -20,6 +20,8 @@ This documentation will assist you on how to request card(s) on this club and an
 frequently asked about.
 
 To begin, read contents below one-by-one.
+
+*We encourage you to use desktop version for better experience.*
 
 <img src="../assets/irasutoya/original/sekaichizu.png" width="200" align="left">
 
@@ -36,11 +38,22 @@ We also provide translation for this documentation. To read this in your languag
   * [💬 Introduction](#-introduction)
     * [🌐 Translation](#-translation)
   * [📃 Index](#-index)
+  * [🎉 Acknowledgement](#-acknowledgement)
   * [⚖ Legal](#-legal)
 * [About: Cards](#about-cards)
   * [💳 What is card?](#-what-is-card)
-  * [Lorem Ipsum](#lorem-ipsum)
+  * [✉ How to get the cards?](#-how-to-get-the-cards)
   * [👣 Footnotes](#-footnotes)
+
+## 🎉 Acknowledgement
+
+<img src="../assets/irasutoya/original/shinnen_aisatsu_man.png" align="right" width="120">
+
+Thanks to these awesome people to help us writing this documentation. They are the best!
+
+* [Allegedshrimp](https://myanimelist.net/profile/Allegedshrimp) - FAQ Provider
+* [Karasian](https://myanimelist.net/profile/Karasian) - The Newbie Club Owner
+* [kunminer123](https://myanimelist.net/profile/kunminer123) - FAQ Provider
 
 ## ⚖ Legal
 
@@ -52,7 +65,7 @@ Clip arts on this documentation are copyrighted materials used under non-commerc
 
 <!-- START: DO NOT TRANSLATE THIS COPYRIGHT NOTICE -->
 **COPYRIGHT © 2021 Irasutoya. All Rights Reserved.**\
-**© 2021 いらすとや**
+**© 2021 いらすとや/みふねたかし**
 
 Homepage/ホームページ: https://irasutoya.com
 <!-- END: TRANSLATION RESTRICTION -->
@@ -92,7 +105,30 @@ Members collect them for these vary reasons:
 The card design you will get is same as what you requested with your username in
 it.<sup><a href="#fn2">2</a></sup>
 
-## Lorem Ipsum
+## ✉ How to get the cards?
+
+Requesting an card is easy by following this step:
+
+* Check if the edition still open.
+  > You can check it by looking up thread title. If it says `[CLOSED]` or `[HALTED]`, then you're
+  > out of luck. ;-;
+
+<img src="../assets/irasutoya/original/hidarikiki.png" align="right" width="150">
+
+* Read carefully the instruction and rules included on the edition.
+  > These instructions will assist you on how to request the cards while abiding rules.
+
+1. Copy the form provided on the edition thread.
+   > In some cases, user required to **not modify** the template at all.
+2. Go to the bottom/top of thread, and look for "Post New Reply"/"Quick Reply" button/link, and
+   click that button/link to reply.
+
+<img src="../assets/irasutoya/original/post_tegami_toukan.png" align="right" width="150">
+
+3. Paste the form to the text box, and fill the form based what the instruction suggests.
+   * Make sure total amount cards you requested for each staff is not exceeded from limit specified.
+4. Submit the request.
+5. You're done!
 
 ## 👣 Footnotes
 
