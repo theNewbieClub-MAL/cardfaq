@@ -290,12 +290,17 @@ compared to regular member.
 
 ### What is edition suggestion?
 
+Edition suggestion is suggestion to helps us which topic will be released next.
+
+The suggestion field is open for everyone, including staff, and each of them are able to suggest one
+topic/title per submission.
+
 ### Which one I can suggest to the team?
 
 We accept anything\*!
 
-You can suggest us your favorite anime/manga title, director, voice actors, event, or even
-general topic. <!-- pun unintended, ngl. -->
+You can suggest us **one** of your favorite anime/manga title, director, voice actors, event, or
+even general topic. <!-- pun unintended, ngl. -->
 
 Please note that the chances we picked specific director's/VA's works is very low, as we are more
 embracing in introducing animanga and Japanese culture to newcomers.
@@ -304,7 +309,38 @@ embracing in introducing animanga and Japanese culture to newcomers.
 
 ### Can I suggest more than one titles/subject in one reply/request?
 
-Unfortunately, **no**.
+Unfortunately, **no**. We want to be fair as possible and considering of this club's main purpose,
+this is our approach for it.
+
+<!-- ### How long will suggested edition take to be released?
+
+Imagine like a *demand and supply graph*, the more people want it (demand), the less time will take
+for the edition to be released (we will assume this as supply).
+
+Due to how we implement the system, it is a little bit different.
+
+In TNC, there is three steps before the edition release, and it is happening after second edition
+released to public:
+
+1. Requesters suggested the editions up to minimum threshold.
+   > Minimum threshold may vary by the general topic and/or audience of the suggestion is.
+   >
+   > If the suggested topic is about recurrence event, threshold will be skipped, and automatically
+   > jumps to the second steps.
+2. When threshold reached, it will be listed as an option for inner team tally. As the club will
+   hold 2 edition in every month, options in each tally is 4 up to 6.
+3. Any staff of graphic designing and delivery team, deputies of each section, and admin of each
+   section will decide which edition will be released. The most votes will be released on first
+   week.
+   > Also, staff might will not vote the suggestion even if the edition itself was suggested for
+   > double or more times than minimum threshold.
+
+As our suggestion list is growing faster, unfortunately it will take 5 months to a year if demand
+rate is 1.<a href="#fn4"><sup>4</sup></a>
+
+We want those suggestions were relesed completely, but considering the main purpose of the club
+exist, it can't be helped. You might want to suggest your specific edition suggestion to another
+club with their main purpose is collecting collectibles. -->
 
 ## Production
 
@@ -353,6 +389,8 @@ If you want to learn more, visit [The Newbie Club's GFX Encyclopedia][encycloped
 1. <a id="fn1"></a> [The Newbie Club Discussion - FAQs][faq]
 2. <a id="fn2"></a> [TY answers regarding cards][tyDiscord]
 3. <a id="fn3"></a> [\[CARDS\] \[CLOSED\] 🎃 TNC X HNE Halloween Collab][tncCollab]
+4. <a id="fn4"></a> 1 person requested that particular edition in each edition releases, and
+   assuming if the threshold is 10.
 
 <!-- LINKS -->
 [encyclopedia]: https://thenewbieclub-mal.github.io/gfxEncyclopedia
