@@ -15,3 +15,6 @@ max_line_length = 100
 
 [**.bbcode]
 indent_size = 3
+
+[bbcode/README]
+indent_size = 5

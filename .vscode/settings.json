@@ -21,15 +21,20 @@
   },
   "files.associations": {
     "ATTRIBUTION": "yaml",
-    "LICENSE": "plaintext"
+    "LICENSE": "plaintext",
+    "README": "plaintext"
   },
   "cSpell.words": [
     "Allegedshrimp",
     "Barakamon",
+    "Cliptsu",
+    "Collab",
     "Irasutoya",
     "Karasian",
+    "Krita",
     "kunminer",
     "Lumzing",
-    "markdownlint"
+    "markdownlint",
+    "Photoshop"
   ]
 }

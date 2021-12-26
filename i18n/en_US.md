@@ -1,12 +1,10 @@
 <!-- markdownlint-disable MD041 MD034 -->
 
-<p align="center">
-  <img src="../assets/banner/banner.png" alt="banner" align="center" width="100%"><br/>
-  <sup><em>
-    <a href="https://myanimelist.net/anime/22789">Barakamon</a> banner by
-    <a href="https://myanimelist.net/profile/Yes_Im_Lumzing">@Yes_Im_Lumzing</a>
-  </em></sup>
-</p>
+<img src="../assets/banner/banner.png" alt="banner" align="center" width="100%"><br/>
+<sup><em>
+  <a href="https://myanimelist.net/anime/22789">Barakamon</a> banner by
+  <a href="https://myanimelist.net/profile/Yes_Im_Lumzing">@Yes_Im_Lumzing</a>
+</em></sup>
 
 # The Newbie Club Card Guides and FAQ
 
@@ -48,14 +46,15 @@ We also provide translation for this documentation. To read this in your languag
   * [❓ What are those random text inside brackets?](#-what-are-those-random-text-inside-brackets)
   * [🤔 Can I remove some "questions" on the forms?](#-can-i-remove-some-questions-on-the-forms)
   * [↩️ Can I get cards from previous edition?](#️-can-i-get-cards-from-previous-edition)
-  * [🉑 Do I still have a chance to get cards if I sent request after card limit and/or after deadline?](#-do-i-still-have-a-chance-to-get-cards-if-i-sent-request-after-card-limit-andor-after-deadline)
+  * [🉑 Do I still have a chance to get cards if I sent request after request limit and/or after deadline?](#-do-i-still-have-a-chance-to-get-cards-if-i-sent-request-after-request-limit-andor-after-deadline)
 * [About: Limit](#about-limit)
   * [🛑 What is card limit?](#-what-is-card-limit)
-  * [What is request limit?](#what-is-request-limit)
-  * [Why the card limit for staff is greater than regular member?](#why-the-card-limit-for-staff-is-greater-than-regular-member)
+  * [⛔ What is request limit?](#-what-is-request-limit)
+  * [🆙 Why is the card limit for staff greater than regular member?](#-why-is-the-card-limit-for-staff-greater-than-regular-member)
 * [About: Scheduling and Edition Theme](#about-scheduling-and-edition-theme)
   * [When is usually an edition released?](#when-is-usually-an-edition-released)
   * [How long the period for each edition release?](#how-long-the-period-for-each-edition-release)
+  * [Which theme The Newbie Club usually release for the card edition?](#which-theme-the-newbie-club-usually-release-for-the-card-edition)
 * [About: Rules Enforcement](#about-rules-enforcement)
   * [What rules for requesting the cards, can you explain it?](#what-rules-for-requesting-the-cards-can-you-explain-it)
   * [Why one of the staff sent me a warning to my PM?](#why-one-of-the-staff-sent-me-a-warning-to-my-pm)
@@ -68,6 +67,10 @@ We also provide translation for this documentation. To read this in your languag
   * [Can I ask the deliverer to lookup delivery link on my forum signature?](#can-i-ask-the-deliverer-to-lookup-delivery-link-on-my-forum-signature)
   * [Is there any guideline for it?](#is-there-any-guideline-for-it)
 * [About: Miscellaneous](#about-miscellaneous)
+  * [Suggestion](#suggestion)
+    * [What is edition suggestion?](#what-is-edition-suggestion)
+    * [Which one I can suggest to the team?](#which-one-i-can-suggest-to-the-team)
+    * [Can I suggest more than one titles/subject in one reply/request?](#can-i-suggest-more-than-one-titlessubject-in-one-replyrequest)
   * [Production](#production)
     * [How do your team create the card?](#how-do-your-team-create-the-card)
   * [Staff](#staff)
@@ -76,20 +79,22 @@ We also provide translation for this documentation. To read this in your languag
   * [Slip card](#slip-card)
     * [What is slip card?](#what-is-slip-card)
     * [How to get slip card?](#how-to-get-slip-card)
-  * [👣 Footnotes](#-footnotes)
+* [👣 Footnotes](#-footnotes)
 
 </details>
 
 ## 🎉 Acknowledgement
 
-<img src="../assets/irasutoya/original/shinnen_aisatsu_man.png" align="right" width="120">
+<img src="../assets/irasutoya/original/shinnen_aisatsu_man.png" align="right" width="150">
 
 Thanks to these awesome people to help us writing this documentation. They are the best!
 
 * [Allegedshrimp](https://myanimelist.net/profile/Allegedshrimp) - FAQ Provider
+* [Cliptsu](https://myanimelist.net/profile/Cliptsu) - Proofread
 * [Karasian](https://myanimelist.net/profile/Karasian) - The Newbie Club Owner
 * [kunminer123](https://myanimelist.net/profile/kunminer123) - FAQ Provider
 * [Sp3ctr](https://myanimelist.net/profile/Sp3ctr) - Quality Check &amp; FAQ Provider
+* [Yes_Im_Lumzing](https://myanimelist.net/profile/Yes_Im_Lumzing) - Proofread
 
 ## ⚖️ Legal
 
@@ -200,7 +205,7 @@ However, you can leave it blank as to avoid any *conflict*.
 However, the designing staff might reuse/carry the design language from previous edition they
 participated.
 
-## 🉑 Do I still have a chance to get cards if I sent request after card limit and/or after deadline?
+## 🉑 Do I still have a chance to get cards if I sent request after request limit and/or after deadline?
 
 **No**. Your request will be considered invalid.
 
@@ -212,17 +217,31 @@ participated.
 
 ## 🛑 What is card limit?
 
-A card limit is the maximum amount of cards a member can order/request from particular designing
+A card limit is the maximum amount of cards a member can order/request from a particular designing
 staff OR edition.
 
 In default, The Newbie Club card limit is set to staff. But in some case, the limit is set
 globally (applied to the edition).<sup><a href="#fn3">3</a></sup>
 
-## What is request limit?
+## ⛔ What is request limit?
 
-## Why the card limit for staff is greater than regular member?
+<img src="../assets/irasutoya/original/businessman2_kangaechu.png" align="right" width="200">
+
+Request limit is the maximum amount of replies/requests in an edition.
+
+It is usually set to 100 requests per edition.
+
+Please note that due to how MyAnimeList count replies, you can calculate by subtracting replies with
+main/first post instead, and another 2<sup>nd</sup> post by poster, if any.
+
+## 🆙 Why is the card limit for staff greater than regular member?
+
+In short: they *work* for club, so it is absolutely understandable if they would like more cards
+compared to regular member.
 
 <hr/>
+
+<img src="../assets/irasutoya/original/calender_takujou.png" align="left" width="120">
 
 # About: Scheduling and Edition Theme
 
@@ -230,7 +249,11 @@ globally (applied to the edition).<sup><a href="#fn3">3</a></sup>
 
 ## How long the period for each edition release?
 
+## Which theme The Newbie Club usually release for the card edition?
+
 <hr/>
+
+<img src="../assets/irasutoya/original/document_rule_book.png" align="left" width="120">
 
 # About: Rules Enforcement
 
@@ -254,6 +277,8 @@ globally (applied to the edition).<sup><a href="#fn3">3</a></sup>
 
 <hr/>
 
+<img src="../assets/irasutoya/original/mark_chain_kusari.png" align="left" width="120">
+
 # About: Signature Shortcut
 
 ## Can I ask the deliverer to lookup delivery link on my forum signature?
@@ -262,7 +287,17 @@ globally (applied to the edition).<sup><a href="#fn3">3</a></sup>
 
 <hr/>
 
+<img src="../assets/irasutoya/original/saikoro_3set.png" align="left" width="120">
+
 # About: Miscellaneous
+
+## Suggestion
+
+### What is edition suggestion?
+
+### Which one I can suggest to the team?
+
+### Can I suggest more than one titles/subject in one reply/request?
 
 ## Production
 
@@ -280,7 +315,7 @@ globally (applied to the edition).<sup><a href="#fn3">3</a></sup>
 
 ### How to get slip card?
 
-## 👣 Footnotes
+# 👣 Footnotes
 
 1. <a id="fn1"></a> [The Newbie Club Discussion - FAQs](https://myanimelist.net/forum/?topicid=1779538)
 2. <a id="fn2"></a> [TY answers regarding cards](https://discord.com/channels/449172244724449290/534122024860123182/546412983417307154)
