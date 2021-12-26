@@ -39,10 +39,13 @@ We also provide translation for this documentation. To read this in your languag
     * [🌐 Translation](#-translation)
   * [📃 Index](#-index)
   * [🎉 Acknowledgement](#-acknowledgement)
-  * [⚖ Legal](#-legal)
+  * [⚖️ Legal](#️-legal)
 * [About: Cards](#about-cards)
   * [💳 What is card?](#-what-is-card)
-  * [✉ How to get the cards?](#-how-to-get-the-cards)
+  * [✉️ How to get the cards?](#️-how-to-get-the-cards)
+  * [❓ What are those random text inside brackets?](#-what-are-those-random-text-inside-brackets)
+  * [🤔 Can I remove some "questions" on the forms?](#-can-i-remove-some-questions-on-the-forms)
+  * [1️⃣ What is slip card?](#1️⃣-what-is-slip-card)
   * [👣 Footnotes](#-footnotes)
 
 ## 🎉 Acknowledgement
@@ -55,7 +58,7 @@ Thanks to these awesome people to help us writing this documentation. They are t
 * [Karasian](https://myanimelist.net/profile/Karasian) - The Newbie Club Owner
 * [kunminer123](https://myanimelist.net/profile/kunminer123) - FAQ Provider
 
-## ⚖ Legal
+## ⚖️ Legal
 
 <img src="../assets/irasutoya/original/auction_hammer.png" align="right" width="150">
 
@@ -105,30 +108,59 @@ Members collect them for these vary reasons:
 The card design you will get is same as what you requested with your username in
 it.<sup><a href="#fn2">2</a></sup>
 
-## ✉ How to get the cards?
-
+## ✉️ How to get the cards?
+<!-- markdownlint-disable MD032 -->
 Requesting an card is easy by following this step:
+
+<img src="../assets/irasutoya/original/computer_mail.png" align="right" width="200">
 
 * Check if the edition still open.
   > You can check it by looking up thread title. If it says `[CLOSED]` or `[HALTED]`, then you're
   > out of luck. ;-;
-
-<img src="../assets/irasutoya/original/hidarikiki.png" align="right" width="150">
-
 * Read carefully the instruction and rules included on the edition.
   > These instructions will assist you on how to request the cards while abiding rules.
-
 1. Copy the form provided on the edition thread.
    > In some cases, user required to **not modify** the template at all.
 2. Go to the bottom/top of thread, and look for "Post New Reply"/"Quick Reply" button/link, and
    click that button/link to reply.
-
-<img src="../assets/irasutoya/original/post_tegami_toukan.png" align="right" width="150">
-
 3. Paste the form to the text box, and fill the form based what the instruction suggests.
    * Make sure total amount cards you requested for each staff is not exceeded from limit specified.
 4. Submit the request.
 5. You're done!
+
+<!-- markdownlint-enable MD032 -->
+
+## ❓ What are those random text inside brackets?
+
+Those are known as BBCode tags. Simply saying, those are instructions to tell MyAnimeList which text
+we want to format.
+
+For example, if we want to make the text **bold**, we can do it by typing:
+
+```ini
+[b]bold[/b]
+```
+
+You can learn more about BBCode from:
+
+* [The Newbie Club BBCode Guide](https://myanimelist.net/forum/?topicid=1844723)
+* [MyAnimeList's Official Formatting Tips](https://myanimelist.net/info.php?go=bbcode)
+* [Shishio's BBCode Guide (with Video)](https://myanimelist.net/forum/?topicid=496203)
+
+## 🤔 Can I remove some "questions" on the forms?
+
+<img src="../assets/irasutoya/original/dame_man.png" align="left" width="150">
+
+Short answer, **no**.
+
+All of those questions, excluding comments, suggestion, and feedback (if any),
+are required in request form.
+
+In The Newbie Club, the structure must stay as if, due to implementation on bot.
+
+However, you can leave it blank as to avoid any *conflict*.
+
+## 1️⃣ What is slip card?
 
 ## 👣 Footnotes
 
