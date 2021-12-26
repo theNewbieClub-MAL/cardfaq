@@ -137,7 +137,7 @@ we want to format.
 
 For example, if we want to make the text **bold**, we can do it by typing:
 
-```ini
+```as
 [b]bold[/b]
 ```
 
