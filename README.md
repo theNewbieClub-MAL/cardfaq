@@ -16,6 +16,10 @@
   <a href="CODE_OF_CONDUCT.md"><img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2FtheNewbieClub-MAL%2Fcardfaq%2Fmain%2Fconfig%2Fcc.shield.json"></a>
 </p><br />
 
+## Contributing
+
+SEE [CONTRIBUTING.md](CONTRIBUTING.md). For translation guide, READ [TRANSLATION.md](TRANSLATION.md).
+
 ## Localization
 
 * [Bahasa Indonesia](i18n/id_ID.md)

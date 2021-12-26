@@ -34,6 +34,8 @@ We also provide translation for this documentation. To read this in your languag
 
 ## 📃 Index
 
+<details><summary>See the index</summary>
+
 * [The Newbie Club Card Guides and FAQ](#the-newbie-club-card-guides-and-faq)
   * [💬 Introduction](#-introduction)
     * [🌐 Translation](#-translation)
@@ -45,8 +47,38 @@ We also provide translation for this documentation. To read this in your languag
   * [✉️ How to get the cards?](#️-how-to-get-the-cards)
   * [❓ What are those random text inside brackets?](#-what-are-those-random-text-inside-brackets)
   * [🤔 Can I remove some "questions" on the forms?](#-can-i-remove-some-questions-on-the-forms)
-  * [1️⃣ What is slip card?](#1️⃣-what-is-slip-card)
+  * [↩️ Can I get cards from previous edition?](#️-can-i-get-cards-from-previous-edition)
+  * [🉑 Do I still have a chance to get cards if I sent request after card limit and/or after deadline?](#-do-i-still-have-a-chance-to-get-cards-if-i-sent-request-after-card-limit-andor-after-deadline)
+* [About: Limit](#about-limit)
+  * [🛑 What is card limit?](#-what-is-card-limit)
+  * [What is request limit?](#what-is-request-limit)
+  * [Why the card limit for staff is greater than regular member?](#why-the-card-limit-for-staff-is-greater-than-regular-member)
+* [About: Scheduling and Edition Theme](#about-scheduling-and-edition-theme)
+  * [When is usually an edition released?](#when-is-usually-an-edition-released)
+  * [How long the period for each edition release?](#how-long-the-period-for-each-edition-release)
+* [About: Rules Enforcement](#about-rules-enforcement)
+  * [What rules for requesting the cards, can you explain it?](#what-rules-for-requesting-the-cards-can-you-explain-it)
+  * [Why one of the staff sent me a warning to my PM?](#why-one-of-the-staff-sent-me-a-warning-to-my-pm)
+  * [I have issue with one or more cards, where I can speak to?](#i-have-issue-with-one-or-more-cards-where-i-can-speak-to)
+  * [My content was being used without permission, where I can submit takedown request?](#my-content-was-being-used-without-permission-where-i-can-submit-takedown-request)
+* [About: Delivery and Usage](#about-delivery-and-usage)
+  * [When I can get my cards?](#when-i-can-get-my-cards)
+  * [What do I do when I didn't receive the card?](#what-do-i-do-when-i-didnt-receive-the-card)
+* [About: Signature Shortcut](#about-signature-shortcut)
+  * [Can I ask the deliverer to lookup delivery link on my forum signature?](#can-i-ask-the-deliverer-to-lookup-delivery-link-on-my-forum-signature)
+  * [Is there any guideline for it?](#is-there-any-guideline-for-it)
+* [About: Miscellaneous](#about-miscellaneous)
+  * [Production](#production)
+    * [How do your team create the card?](#how-do-your-team-create-the-card)
+  * [Staff](#staff)
+    * [How I can join as GFX Staff?](#how-i-can-join-as-gfx-staff)
+    * [How I can join as Card Deliverer?](#how-i-can-join-as-card-deliverer)
+  * [Slip card](#slip-card)
+    * [What is slip card?](#what-is-slip-card)
+    * [How to get slip card?](#how-to-get-slip-card)
   * [👣 Footnotes](#-footnotes)
+
+</details>
 
 ## 🎉 Acknowledgement
 
@@ -57,6 +89,7 @@ Thanks to these awesome people to help us writing this documentation. They are t
 * [Allegedshrimp](https://myanimelist.net/profile/Allegedshrimp) - FAQ Provider
 * [Karasian](https://myanimelist.net/profile/Karasian) - The Newbie Club Owner
 * [kunminer123](https://myanimelist.net/profile/kunminer123) - FAQ Provider
+* [Sp3ctr](https://myanimelist.net/profile/Sp3ctr) - Quality Check &amp; FAQ Provider
 
 ## ⚖️ Legal
 
@@ -81,7 +114,7 @@ Homepage/ホームページ: https://irasutoya.com
 
 <hr/>
 
-<img src="../assets/irasutoya/original/pointcard.png" align="left" width="125">
+<img src="../assets/irasutoya/original/money_ic_card.png" align="left" width="125">
 
 # About: Cards
 
@@ -114,17 +147,17 @@ Requesting an card is easy by following this step:
 
 <img src="../assets/irasutoya/original/computer_mail.png" align="right" width="200">
 
-* Check if the edition still open.
+* **Check if the edition still open.**
   > You can check it by looking up thread title. If it says `[CLOSED]` or `[HALTED]`, then you're
   > out of luck. ;-;
-* Read carefully the instruction and rules included on the edition.
+* **Read carefully the instruction and rules included on the edition.**
   > These instructions will assist you on how to request the cards while abiding rules.
 1. Copy the form provided on the edition thread.
    > In some cases, user required to **not modify** the template at all.
 2. Go to the bottom/top of thread, and look for "Post New Reply"/"Quick Reply" button/link, and
    click that button/link to reply.
 3. Paste the form to the text box, and fill the form based what the instruction suggests.
-   * Make sure total amount cards you requested for each staff is not exceeded from limit specified.
+   > Make sure total amount cards you requested for each staff is not exceeded from limit specified.
 4. Submit the request.
 5. You're done!
 
@@ -160,9 +193,95 @@ In The Newbie Club, the structure must stay as if, due to implementation on bot.
 
 However, you can leave it blank as to avoid any *conflict*.
 
-## 1️⃣ What is slip card?
+## ↩️ Can I get cards from previous edition?
+
+**No**. It is not possible to get previous edition's cards, UNLESS if there's ongoing re-run event.
+
+However, the designing staff might reuse/carry the design language from previous edition they
+participated.
+
+## 🉑 Do I still have a chance to get cards if I sent request after card limit and/or after deadline?
+
+**No**. Your request will be considered invalid.
+
+<hr/>
+
+<img src="../assets/irasutoya/original/kouji_yuudoubou_versawriter.png" align="left" width="120">
+
+# About: Limit
+
+## 🛑 What is card limit?
+
+A card limit is the maximum amount of cards a member can order/request from particular designing
+staff OR edition.
+
+In default, The Newbie Club card limit is set to staff. But in some case, the limit is set
+globally (applied to the edition).<sup><a href="#fn3">3</a></sup>
+
+## What is request limit?
+
+## Why the card limit for staff is greater than regular member?
+
+<hr/>
+
+# About: Scheduling and Edition Theme
+
+## When is usually an edition released?
+
+## How long the period for each edition release?
+
+<hr/>
+
+# About: Rules Enforcement
+
+## What rules for requesting the cards, can you explain it?
+
+## Why one of the staff sent me a warning to my PM?
+
+## I have issue with one or more cards, where I can speak to?
+
+## My content was being used without permission, where I can submit takedown request?
+
+<hr/>
+
+<img src="../assets/irasutoya/original/cardboard.png" align="left" width="125">
+
+# About: Delivery and Usage
+
+## When I can get my cards?
+
+## What do I do when I didn't receive the card?
+
+<hr/>
+
+# About: Signature Shortcut
+
+## Can I ask the deliverer to lookup delivery link on my forum signature?
+
+## Is there any guideline for it?
+
+<hr/>
+
+# About: Miscellaneous
+
+## Production
+
+### How do your team create the card?
+
+## Staff
+
+### How I can join as GFX Staff?
+
+### How I can join as Card Deliverer?
+
+## Slip card
+
+### What is slip card?
+
+### How to get slip card?
 
 ## 👣 Footnotes
 
 1. <a id="fn1"></a> [The Newbie Club Discussion - FAQs](https://myanimelist.net/forum/?topicid=1779538)
 2. <a id="fn2"></a> [TY answers regarding cards](https://discord.com/channels/449172244724449290/534122024860123182/546412983417307154)
+3. <a id="fn3"></a> [[CARDS] [CLOSED] 🎃 TNC X HNE Halloween Collab](https://myanimelist.net/forum/?topicid=1967957)
