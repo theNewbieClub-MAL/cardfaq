@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 MD034 -->
 
-<img src="../assets/banner/banner.png" alt="banner" align="center" width="100%"><br/>
+<img src="../assets/banner/banner.png" alt="banner" align="center" width="100%"><br />
 <sup><em>
   <a href="https://myanimelist.net/anime/22789">Barakamon</a> banner by
   <a href="https://myanimelist.net/profile/Yes_Im_Lumzing">@Yes_Im_Lumzing</a>
@@ -28,7 +28,7 @@ To begin, read contents below one-by-one.
 We also provide translation for this documentation. To read this in your language, check
 [languageContent.md][i18n].
 
-<br/><br/>
+<br /><br />
 
 ## 📃 Index
 
@@ -112,7 +112,7 @@ Clip arts on this documentation are copyrighted materials used under non-commerc
 Homepage/ホームページ: https://irasutoya.com
 <!-- END: TRANSLATION RESTRICTION -->
 
-<hr/>
+<hr />
 
 <img src="../assets/irasutoya/original/money_ic_card.png" align="left" width="125">
 
@@ -204,7 +204,7 @@ participated.
 
 **No**. Your request will be considered invalid.
 
-<hr/>
+<hr />
 
 <img src="../assets/irasutoya/original/kouji_yuudoubou_versawriter.png" align="left" width="120">
 
@@ -234,7 +234,7 @@ main/first post instead, and another 2<sup>nd</sup> post by poster, if any.
 In short: they *work* for club, so it is absolutely understandable if they would like more cards
 compared to regular member.
 
-<hr/>
+<hr />
 
 <img src="../assets/irasutoya/original/calender_takujou.png" align="left" width="120">
 
@@ -246,7 +246,7 @@ compared to regular member.
 
 ## Which theme The Newbie Club usually release for the card edition?
 
-<hr/>
+<hr />
 
 <img src="../assets/irasutoya/original/document_rule_book.png" align="left" width="120">
 
@@ -260,7 +260,7 @@ compared to regular member.
 
 ## My content was being used without permission, where I can submit takedown request?
 
-<hr/>
+<hr />
 
 <img src="../assets/irasutoya/original/cardboard.png" align="left" width="125">
 
@@ -270,7 +270,7 @@ compared to regular member.
 
 ## What do I do when I didn't receive the card?
 
-<hr/>
+<hr />
 
 <img src="../assets/irasutoya/original/mark_chain_kusari.png" align="left" width="120">
 
@@ -280,7 +280,7 @@ compared to regular member.
 
 ## Is there any guideline for it?
 
-<hr/>
+<hr />
 
 <img src="../assets/irasutoya/original/saikoro_3set.png" align="left" width="120">
 
@@ -295,7 +295,7 @@ compared to regular member.
 We accept anything\*!
 
 You can suggest us your favorite anime/manga title, director, voice actors, event, or even
-<!-- pun unintended -->topic.
+general topic. <!-- pun unintended, ngl. -->
 
 Please note that the chances we picked specific director's/VA's works is very low, as we are more
 embracing in introducing animanga and Japanese culture to newcomers.
