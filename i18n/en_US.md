@@ -26,7 +26,7 @@ To begin, read contents below one-by-one.
 ### 🌐 Translation
 
 We also provide translation for this documentation. To read this in your language, check
-[languageContent.md](languageContent.md).
+[languageContent.md][i18n].
 
 <br/><br/>
 
@@ -73,6 +73,7 @@ We also provide translation for this documentation. To read this in your languag
     * [Can I suggest more than one titles/subject in one reply/request?](#can-i-suggest-more-than-one-titlessubject-in-one-replyrequest)
   * [Production](#production)
     * [How do your team create the card?](#how-do-your-team-create-the-card)
+    * [Can I know the technical information to create card?](#can-i-know-the-technical-information-to-create-card)
   * [Staff](#staff)
     * [How I can join as GFX Staff?](#how-i-can-join-as-gfx-staff)
     * [How I can join as Card Deliverer?](#how-i-can-join-as-card-deliverer)
@@ -110,12 +111,6 @@ Clip arts on this documentation are copyrighted materials used under non-commerc
 
 Homepage/ホームページ: https://irasutoya.com
 <!-- END: TRANSLATION RESTRICTION -->
-
-<!-- Links -->
-[banner]: ../assets/banner/banner.png
-[CCBY40]: ../LICENSE
-[a22789]: https://myanimelist.net/anime/22789
-[bannerAttribution]: https://myanimelist.net/profile/Yes_Im_Lumzing
 
 <hr/>
 
@@ -181,9 +176,9 @@ For example, if we want to make the text **bold**, we can do it by typing:
 
 You can learn more about BBCode from:
 
-* [The Newbie Club BBCode Guide](https://myanimelist.net/forum/?topicid=1844723)
-* [MyAnimeList's Official Formatting Tips](https://myanimelist.net/info.php?go=bbcode)
-* [Shishio's BBCode Guide (with Video)](https://myanimelist.net/forum/?topicid=496203)
+* [The Newbie Club BBCode Guide][tncBBCode]
+* [MyAnimeList's Official Formatting Tips][malBBCode]
+* [Shishio's BBCode Guide (with Video)][shishioBBCode]
 
 ## 🤔 Can I remove some "questions" on the forms?
 
@@ -297,11 +292,49 @@ compared to regular member.
 
 ### Which one I can suggest to the team?
 
+We accept anything\*!
+
+You can suggest us your favorite anime/manga title, director, voice actors, event, or even
+<!-- pun unintended -->topic.
+
+Please note that the chances we picked specific director's/VA's works is very low, as we are more
+embracing in introducing animanga and Japanese culture to newcomers.
+
+\* *It should be inside ACG (Animation, Comic, Game) and Japanese culture*
+
 ### Can I suggest more than one titles/subject in one reply/request?
+
+Unfortunately, **no**.
 
 ## Production
 
 ### How do your team create the card?
+
+### Can I know the technical information to create card?
+
+Sure!
+
+We use this configuration for our cards:
+
+* Allowed file format for card: PNG, A-PNG (Animated PNG), GIF, and JPEG. However, PNG is
+  recommended.
+* Ratio (orientation) can be landscape, portrait, or square (1:1).
+* Resolution/size for card can not exceed, based on orientation:
+  * Landscape: 360x240px (3:2).
+  * Portrait: 240x360px (2:3).
+  * Square: 240x240px (1:1).
+    > **Note:**
+    >
+    > Create your card with twice of resolution on your draft, and then rescale it back. This
+    > method is to avoid any visual lost after you created it.
+* Recommended to use 300dpi, minimum 90dpi.
+* Card should *at least* contains 3 (three) text fields/spaces:
+  1. **Edition name**, e.g: "School Edition."
+  2. **Club Name**, e.g: "The Newbie Club" or "TNC."
+  3. **Username/Nickname**, This will be where you write the names of people who requested cards
+     from the edition before delivering them.
+
+If you want to learn more, visit [The Newbie Club's GFX Encyclopedia][encyclopedia].
 
 ## Staff
 
@@ -317,6 +350,17 @@ compared to regular member.
 
 # 👣 Footnotes
 
-1. <a id="fn1"></a> [The Newbie Club Discussion - FAQs](https://myanimelist.net/forum/?topicid=1779538)
-2. <a id="fn2"></a> [TY answers regarding cards](https://discord.com/channels/449172244724449290/534122024860123182/546412983417307154)
-3. <a id="fn3"></a> [[CARDS] [CLOSED] 🎃 TNC X HNE Halloween Collab](https://myanimelist.net/forum/?topicid=1967957)
+1. <a id="fn1"></a> [The Newbie Club Discussion - FAQs][faq]
+2. <a id="fn2"></a> [TY answers regarding cards][tyDiscord]
+3. <a id="fn3"></a> [\[CARDS\] \[CLOSED\] 🎃 TNC X HNE Halloween Collab][tncCollab]
+
+<!-- LINKS -->
+[encyclopedia]: https://thenewbieclub-mal.github.io/gfxEncyclopedia
+[CCBY40]: ../LICENSE
+[faq]: https://myanimelist.net/forum/?topicid=1779538
+[tyDiscord]: https://discord.com/channels/449172244724449290/534122024860123182/546412983417307154
+[tncCollab]: https://myanimelist.net/forum/?topicid=1967957
+[tncBBCode]: https://myanimelist.net/forum/?topicid=1844723
+[malBBCode]: https://myanimelist.net/info.php?go=bbcode
+[shishioBBCode]: https://myanimelist.net/forum/?topicid=496203
+[i18n]: languageContent.md
