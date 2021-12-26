@@ -149,7 +149,7 @@ You can learn more about BBCode from:
 
 ## 🤔 Can I remove some "questions" on the forms?
 
-<img src="../assets/irasutoya/original/dame_man.png" align="left" width="150">
+<img src="../assets/irasutoya/original/dame_man.png" align="left" width="125">
 
 Short answer, **no**.
 
