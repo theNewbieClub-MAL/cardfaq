@@ -1,6 +1,8 @@
 <!-- markdownlint-disable MD041 MD034 -->
 <!-- cSpell:ignore aisatsu, boushi, kangaechu, kouji, nimotsu, saikoro, sekaichizu, shinnen, takujou, touhyou, yuudoubou -->
 
+<!-- CARDFAQ:PAGE 1 /-->
+
 <img src="../assets/banner/banner.png" alt="banner" align="center" width="100%"><br />
 <sup><em>
   <a href="https://myanimelist.net/anime/22789">Barakamon</a> banner by
@@ -15,8 +17,8 @@
 
 **Welcome to The Newbie Club's Guideline for card request and frequently asked questions.**
 
-This documentation will assist you on how to request card(s) on this club and any questions that may
-frequently asked about.
+This documentation will assist you on how to request cards on this club and any questions that may
+frequently asked.
 
 To begin, read contents below one-by-one.
 
@@ -122,11 +124,15 @@ Homepage/ホームページ: https://irasutoya.com
 
 <hr />
 
+<!-- CARDFAQ:PAGE 2 /-->
+
 <img src="../assets/irasutoya/original/money_ic_card.png" align="left" width="125">
 
 # About: Cards
 
 ## 💳 What is card?
+
+<img src="../assets/irasutoya/original/job_illustrator_pc_man.png" align="right" width="200">
 
 **Cards** or **card editions** are a club thing that don’t serve a real purpose, but are rather
 collectibles that you can, for example, just save, show off in a blog post on MAL such as in this
@@ -135,12 +141,7 @@ example here, or display them in your MAL profile, your forum signature, etc.<su
 We don't have a definite answer on how it became a thing but it's in a lot of other clubs as well.
 This is just one of them.
 
-<img src="../assets/irasutoya/original/job_illustrator_pc_man.png" align="right" width="200">
-
-Graphic designers use programs such as Adobe Photoshop, Krita, GIMP, and Paint.NET (or any editing
-program<!-- including Microsoft PowerPoint :o-->) to make cards.
-
-Members collect them for these vary reasons:
+Members collect them for these reasons:
 
 1. Show off in a blog.
 2. The sake of having a collection.
@@ -162,8 +163,8 @@ Requesting an card is easy by following this step:
   > These instructions will assist you on how to request the cards while abiding rules.
 1. Copy the form provided on the edition thread.
    > In some cases, user required to **not modify** the template at all.
-2. Go to the bottom/top of thread, and look for "Post New Reply"/"Quick Reply" button/link, and
-   click that button/link to reply.
+2. Go to the bottom/top of thread, and look for "Post New Reply" or "Quick Reply" button/link, and
+   click it to reply.
 3. Paste the form to the text box, and fill the form based what the instruction suggests.
    > Make sure total amount cards you requested for each staff is not exceeded from limit specified.
 4. Submit the request.
@@ -199,7 +200,7 @@ are required in request form.
 
 In The Newbie Club, the structure must stay as if, due to implementation on bot.
 
-However, you can leave it blank as to avoid any *conflict*.
+However, you can leave it blank as to avoid any conflict.
 
 ## ↩️ Can I get cards from previous edition?
 
@@ -213,6 +214,8 @@ participated.
 **No**. Your request will be considered invalid.
 
 <hr />
+
+<!-- CARDFAQ:PAGE 3 /-->
 
 <img src="../assets/irasutoya/original/kouji_yuudoubou_versawriter.png" align="left" width="120">
 
@@ -240,9 +243,11 @@ main/first post instead, and another 2<sup>nd</sup> post by poster, if any.
 ## 🆙 Why is the card limit for staff greater than regular member?
 
 In short: they *work* for club, so it is absolutely understandable if they would like more cards
-compared to regular member.
+compared to regular members.
 
 <hr />
+
+<!-- CARDFAQ:PAGE 4 /-->
 
 <img src="../assets/irasutoya/original/calender_takujou.png" align="left" width="120">
 
@@ -255,6 +260,8 @@ compared to regular member.
 ## Which theme The Newbie Club usually release for the card edition?
 
 <hr />
+
+<!-- CARDFAQ:PAGE 5 /-->
 
 <img src="../assets/irasutoya/original/document_rule_book.png" align="left" width="120">
 
@@ -272,6 +279,8 @@ compared to regular member.
 
 <hr />
 
+<!-- CARDFAQ:PAGE 6 /-->
+
 <img src="../assets/irasutoya/original/cardboard.png" align="left" width="125">
 
 # About: Delivery and Usage
@@ -282,6 +291,8 @@ compared to regular member.
 
 <hr />
 
+<!-- CARDFAQ:PAGE 7 /-->
+
 <img src="../assets/irasutoya/original/mark_chain_kusari.png" align="left" width="120">
 
 # About: Signature Shortcut
@@ -291,6 +302,8 @@ compared to regular member.
 ## Is there any guideline for it?
 
 <hr />
+
+<!-- CARDFAQ:PAGE 8 /-->
 
 <img src="../assets/irasutoya/original/saikoro_3set.png" align="left" width="120">
 
@@ -331,7 +344,7 @@ for the edition to be released, thus the rate is greater.
 
 Due to how we implement the system, it is a little bit different.
 
-In TNC, there is three steps before the edition release, and it is happening after second edition
+In TNC, there are three steps before the edition release, and it is happening after second edition
 released to public:
 
 1. Requesters suggested the editions up to minimum threshold.
@@ -339,8 +352,8 @@ released to public:
    >
    > If the suggested topic is about recurrence event, threshold will be skipped, and automatically
    > jumps to the second steps.
-2. When threshold reached, it will be listed as an option for inner team tally. As the club will
-   hold 2 edition in every month, options in each tally is 4 up to 6.
+2. When the threshold is reached, it will be listed as an option for the inner team tally. As the
+   club will hold 2 editions in every month, options in each tally is 4 up to 6.
 3. Any staff of graphic designing and delivery team, deputies of each section, and admin of each
    section will decide which edition will be released. The most votes will be released on first
    week.
@@ -415,6 +428,10 @@ If you want to learn more, visit [The Newbie Club's GFX Encyclopedia][encycloped
 ### What is slip card?
 
 ### How to get slip card?
+
+<hr />
+
+<!-- CARDFAQ:PAGE 9 /-->
 
 # Footnotes
 
