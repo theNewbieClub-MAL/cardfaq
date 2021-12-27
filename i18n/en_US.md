@@ -427,7 +427,38 @@ If you want to learn more, visit [The Newbie Club's GFX Encyclopedia][encycloped
 
 ### What is slip card?
 
+<img src="../assets/irasutoya/original/pointcard.png" width="200" align="right">
+
+A slip card is a card that allows requesters to bypass the limit woth specified amount on the card
+itself. Basically the slip card is like loyalty/membership cards applied on stores.
+
+The reason why it exist is unclear, but by looking the pattern of usage, it become clear:
+
+1. The requester is regular *customer*.
+2. The requester adores the design made by particular staff.
+3. They just likes to collect cards.
+
+On TNC, you can attach your slip card into your request by adding image inside spoiler box, and then
+explicitly stating on request if they own slip card by adding addition (+) symbol to cards.
+
+For example:
+
+```as
+[...]
+Natsu: 1, 3 + 5, 7 [spoiler="slip card"][img]https://i.imgur.com/CqaSw61.png[/img][/spoiler]
+```
+
+Above code snippet will be rendered as:
+
+> Natsu: 1, 3 + 5, 7 <details><summary>Show slip card</summary><img src="https://i.imgur.com/CqaSw61.png"></details>
+
 ### How to get slip card?
+
+You can get the slip card by checking designer's profile. Club does not provide first party slip
+card store, and you must check it manually.
+
+To ease the progress, check any link given by designer/deliverer in their delivery message if they
+have slip card store store.
 
 <hr />
 
