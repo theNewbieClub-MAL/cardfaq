@@ -29,13 +29,12 @@
     "animanga",
     "Barakamon",
     "Cliptsu",
-    "Collab",
     "Irasutoya",
     "Karasian",
     "Krita",
     "kunminer",
     "Lumzing",
-    "markdownlint",
     "Photoshop"
-  ]
+  ],
+  "cSpell.allowCompoundWords": true
 }

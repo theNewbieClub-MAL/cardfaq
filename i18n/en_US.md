@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD041 MD034 -->
+<!-- cSpell:ignore aisatsu, boushi, kangaechu, kouji, nimotsu, saikoro, sekaichizu, shinnen, takujou, touhyou, yuudoubou -->
 
 <img src="../assets/banner/banner.png" alt="banner" align="center" width="100%"><br />
 <sup><em>
@@ -32,6 +33,8 @@ We also provide translation for this documentation. To read this in your languag
 
 ## 📃 Index
 
+<!-- cSpell:disable -->
+
 <details><summary>See the index</summary>
 
 * [The Newbie Club Card Guides and FAQ](#the-newbie-club-card-guides-and-faq)
@@ -58,6 +61,7 @@ We also provide translation for this documentation. To read this in your languag
 * [About: Rules Enforcement](#about-rules-enforcement)
   * [What rules for requesting the cards, can you explain it?](#what-rules-for-requesting-the-cards-can-you-explain-it)
   * [Why one of the staff sent me a warning to my PM?](#why-one-of-the-staff-sent-me-a-warning-to-my-pm)
+  * [I saw someone *bypassed* the limit by adding plus (+), what is it?](#i-saw-someone-bypassed-the-limit-by-adding-plus--what-is-it)
   * [I have issue with one or more cards, where I can speak to?](#i-have-issue-with-one-or-more-cards-where-i-can-speak-to)
   * [My content was being used without permission, where I can submit takedown request?](#my-content-was-being-used-without-permission-where-i-can-submit-takedown-request)
 * [About: Delivery and Usage](#about-delivery-and-usage)
@@ -68,21 +72,25 @@ We also provide translation for this documentation. To read this in your languag
   * [Is there any guideline for it?](#is-there-any-guideline-for-it)
 * [About: Miscellaneous](#about-miscellaneous)
   * [Suggestion](#suggestion)
-    * [What is edition suggestion?](#what-is-edition-suggestion)
-    * [Which one I can suggest to the team?](#which-one-i-can-suggest-to-the-team)
-    * [Can I suggest more than one titles/subject in one reply/request?](#can-i-suggest-more-than-one-titlessubject-in-one-replyrequest)
+    * [🗳️ What is edition suggestion?](#️-what-is-edition-suggestion)
+    * [✍ Which one I can suggest to the team?](#-which-one-i-can-suggest-to-the-team)
+    * [🙋‍♂️ Can I suggest more than one titles/subject in one reply/request?](#️-can-i-suggest-more-than-one-titlessubject-in-one-replyrequest)
+    * [🕔 How long will suggested edition take to be released?](#-how-long-will-suggested-edition-take-to-be-released)
   * [Production](#production)
-    * [How do your team create the card?](#how-do-your-team-create-the-card)
-    * [Can I know the technical information to create card?](#can-i-know-the-technical-information-to-create-card)
+    * [🎨 How do your team create the card?](#-how-do-your-team-create-the-card)
+    * [🔎 Can I know the technical information to create card?](#-can-i-know-the-technical-information-to-create-card)
+    * [🤖 Writing one-by-one requester's names seems very tedious, isn't there any automation to do it?](#-writing-one-by-one-requesters-names-seems-very-tedious-isnt-there-any-automation-to-do-it)
   * [Staff](#staff)
     * [How I can join as GFX Staff?](#how-i-can-join-as-gfx-staff)
     * [How I can join as Card Deliverer?](#how-i-can-join-as-card-deliverer)
   * [Slip card](#slip-card)
     * [What is slip card?](#what-is-slip-card)
     * [How to get slip card?](#how-to-get-slip-card)
-* [👣 Footnotes](#-footnotes)
+* [Footnotes](#footnotes)
 
 </details>
+
+<!-- cSpell:enable -->
 
 ## 🎉 Acknowledgement
 
@@ -256,6 +264,8 @@ compared to regular member.
 
 ## Why one of the staff sent me a warning to my PM?
 
+## I saw someone *bypassed* the limit by adding plus (+), what is it?
+
 ## I have issue with one or more cards, where I can speak to?
 
 ## My content was being used without permission, where I can submit takedown request?
@@ -288,14 +298,16 @@ compared to regular member.
 
 ## Suggestion
 
-### What is edition suggestion?
+### 🗳️ What is edition suggestion?
 
 Edition suggestion is suggestion to helps us which topic will be released next.
 
 The suggestion field is open for everyone, including staff, and each of them are able to suggest one
 topic/title per submission.
 
-### Which one I can suggest to the team?
+### ✍ Which one I can suggest to the team?
+
+<img src="../assets/irasutoya/original/touhyou_man.png" width="200" align="right">
 
 We accept anything\*!
 
@@ -305,17 +317,17 @@ even general topic. <!-- pun unintended, ngl. -->
 Please note that the chances we picked specific director's/VA's works is very low, as we are more
 embracing in introducing animanga and Japanese culture to newcomers.
 
-\* *It should be inside ACG (Animation, Comic, Game) and Japanese culture*
+\* *It should be inside ACG (Animation, Comic, Game) and Japanese culture.*
 
-### Can I suggest more than one titles/subject in one reply/request?
+### 🙋‍♂️ Can I suggest more than one titles/subject in one reply/request?
 
 Unfortunately, **no**. We want to be fair as possible and considering of this club's main purpose,
 this is our approach for it.
 
-<!-- ### How long will suggested edition take to be released?
+### 🕔 How long will suggested edition take to be released?
 
-Imagine like a *demand and supply graph*, the more people want it (demand), the less time will take
-for the edition to be released (we will assume this as supply).
+Imagine like a *demand rate theory*, the more people want it (demand), the less time will take
+for the edition to be released, thus the rate is greater.
 
 Due to how we implement the system, it is a little bit different.
 
@@ -336,17 +348,27 @@ released to public:
    > double or more times than minimum threshold.
 
 As our suggestion list is growing faster, unfortunately it will take 5 months to a year if demand
-rate is 1.<a href="#fn4"><sup>4</sup></a>
+rate is 0.5/month.<a href="#fn4"><sup>4</sup></a>
 
-We want those suggestions were relesed completely, but considering the main purpose of the club
+We want those suggestions were released completely, but considering the main purpose of the club
 exist, it can't be helped. You might want to suggest your specific edition suggestion to another
-club with their main purpose is collecting collectibles. -->
+club with their main purpose is collecting collectibles.
 
 ## Production
 
-### How do your team create the card?
+<img src="../assets/irasutoya/original/illustrator.png" width="200" align="right">
 
-### Can I know the technical information to create card?
+### 🎨 How do your team create the card?
+
+We use Adobe Photoshop for our work, but it's not the requirement.
+
+We allow staff to use other apps than Photoshop, like Affinity Designer, Krita, GIMP, Paint.NET,
+ibisPaint, etc.
+
+*Heck*, the GFX head himself <!--, @nattadasu, --> uses Microsoft Office PowerPoint to design his
+cards, and barely no one noticed it.
+
+### 🔎 Can I know the technical information to create card?
 
 Sure!
 
@@ -359,16 +381,26 @@ We use this configuration for our cards:
   * Landscape: 360x240px (3:2).
   * Portrait: 240x360px (2:3).
   * Square: 240x240px (1:1).
-    > **Note:**
-    >
+    > **Note:**\
     > Create your card with twice of resolution on your draft, and then rescale it back. This
     > method is to avoid any visual lost after you created it.
 * Recommended to use 300dpi, minimum 90dpi.
 * Card should *at least* contains 3 (three) text fields/spaces:
   1. **Edition name**, e.g: "School Edition."
   2. **Club Name**, e.g: "The Newbie Club" or "TNC."
-  3. **Username/Nickname**, This will be where you write the names of people who requested cards
+  3. **Username/Nickname**, This will be where we write the names of people who requested cards
      from the edition before delivering them.
+
+If you want to learn more, visit [The Newbie Club's GFX Encyclopedia][encyclopedia].
+
+<img src="../assets/irasutoya/original/ai_computer_sousa_robot.png" width="210" align="left">
+
+### 🤖 Writing one-by-one requester's names seems very tedious, isn't there any automation to do it?
+
+As you expect, **yes**, there is an automation method to ease the progress in creating cards.
+
+However, this method is currently limited to Adobe Photoshop. We can't find any automation feature
+or script for another program.
 
 If you want to learn more, visit [The Newbie Club's GFX Encyclopedia][encyclopedia].
 
@@ -384,7 +416,7 @@ If you want to learn more, visit [The Newbie Club's GFX Encyclopedia][encycloped
 
 ### How to get slip card?
 
-# 👣 Footnotes
+# Footnotes
 
 1. <a id="fn1"></a> [The Newbie Club Discussion - FAQs][faq]
 2. <a id="fn2"></a> [TY answers regarding cards][tyDiscord]
