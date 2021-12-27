@@ -1,6 +1,10 @@
 <!-- markdownlint-disable MD041 -->
 
-![banner](assets/banner/banner.png)
+<img src="assets/banner/banner.png" alt="banner" align="center" width="100%"><br />
+<sup><em>
+  <a href="https://myanimelist.net/anime/22789">Barakamon</a> banner by
+  <a href="https://myanimelist.net/profile/Yes_Im_Lumzing">@Yes_Im_Lumzing</a>
+</em></sup>
 
 <h1 align="center">The Newbie Club Card Guides and FAQ</h1>
 
