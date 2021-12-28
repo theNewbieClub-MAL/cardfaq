@@ -179,7 +179,7 @@ we want to format.
 
 For example, if we want to make the text **bold**, we can do it by typing:
 
-```as
+```css
 [b]bold[/b]
 ```
 
@@ -427,9 +427,9 @@ If you want to learn more, visit [The Newbie Club's GFX Encyclopedia][encycloped
 
 ### What is slip card?
 
-<img src="../assets/irasutoya/original/pointcard.png" width="200" align="right">
+<img src="../assets/irasutoya/original/pointcard.png" width="150" align="right">
 
-A slip card is a card that allows requesters to bypass the limit woth specified amount on the card
+A slip card is a card that allows requesters to bypass the limit with specified amount on the card
 itself. Basically the slip card is like loyalty/membership cards applied on stores.
 
 The reason why it exist is unclear, but by looking the pattern of usage, it become clear:
@@ -443,7 +443,7 @@ explicitly stating on request if they own slip card by adding addition (+) symbo
 
 For example:
 
-```as
+```css
 [...]
 Natsu: 1, 3 + 5, 7 [spoiler="slip card"][img]https://i.imgur.com/CqaSw61.png[/img][/spoiler]
 ```
