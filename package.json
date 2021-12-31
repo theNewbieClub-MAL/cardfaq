@@ -1,0 +1,26 @@
+{
+  "name": "cardfaq",
+  "version": "1.0.0",
+  "description": "Official Source Code for Card Guides and FAQ Forum Thread by The Newbie Club on MyAnimeList",
+  "private": "true",
+  "scripts": {
+    "lint": "markdownlint **/*.md -c config/markdownlint.yaml -i _404.md -i _sidebar.md -i node_modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theNewbieClub-MAL/cardfaq.git"
+  },
+  "keywords": [
+    "faq",
+    "myanimelist"
+  ],
+  "author": "The Newbie Club",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/theNewbieClub-MAL/cardfaq/issues"
+  },
+  "homepage": "https://github.com/theNewbieClub-MAL/cardfaq#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.30.0"
+  }
+}
