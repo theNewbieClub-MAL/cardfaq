@@ -18,9 +18,9 @@
 **Welcome to The Newbie Club's Guideline for card request and frequently asked questions.**
 
 This documentation will assist you on how to request cards on this club and any questions that may
-frequently asked.
+be frequently asked.
 
-To begin, read contents below one-by-one.
+To begin, read the contents below one-by-one.
 
 *We encourage you to use desktop version for better experience.*
 
@@ -28,7 +28,7 @@ To begin, read contents below one-by-one.
 
 ### 🌐 Translation
 
-We also provide translation for this documentation. To read this in your language, check
+We also provide translations for this documentation. To read this in your language, check
 [languageContent.md][i18n].
 
 <br /><br />
@@ -46,7 +46,7 @@ We also provide translation for this documentation. To read this in your languag
   * [🎉 Acknowledgement](#-acknowledgement)
   * [⚖️ Legal](#️-legal)
 * [About: Cards](#about-cards)
-  * [💳 What is card?](#-what-is-card)
+  * [💳 What is a card?](#-what-is-a-card)
   * [✉️ How to get the cards?](#️-how-to-get-the-cards)
   * [❓ What are those random text inside brackets?](#-what-are-those-random-text-inside-brackets)
   * [🤔 Can I remove some "questions" on the forms?](#-can-i-remove-some-questions-on-the-forms)
@@ -99,7 +99,7 @@ We also provide translation for this documentation. To read this in your languag
 
 <img src="../assets/irasutoya/original/shinnen_aisatsu_man.png" align="right" width="150">
 
-Thanks to these awesome people to help us writing this documentation. They are the best!
+Thanks to these awesome people who helped us write this documentation. They are the best!
 
 * [Allegedshrimp](https://myanimelist.net/profile/Allegedshrimp) - FAQ Provider
 * [Cliptsu](https://myanimelist.net/profile/Cliptsu) - Proofread
@@ -135,13 +135,13 @@ Homepage/ホームページ: https://irasutoya.com
 
 # About: Cards
 
-## 💳 What is card?
+## 💳 What is a card?
 
 <img src="../assets/irasutoya/original/job_illustrator_pc_man.png" align="right" width="200">
 
 **Cards** or **card editions** are a club thing that don’t serve a real purpose, but are rather
 collectibles that you can, for example, just save, show off in a blog post on MAL such as in this
-example here, or display them in your MAL profile, your forum signature,
+example here, or display them on your MAL profile, your forum signature,
 etc.<sup><a href="#fn2">2</a></sup>
 
 We don't have a definite answer on how it became a thing but it's in a lot of other clubs as well.
@@ -153,12 +153,12 @@ Members collect them for these reasons:
 2. The sake of having a collection.
 3. Admire the cards made by different designers.
 
-The card design you will get is same as what you requested with your username in
+The card design you will get is the same as what you requested, but with your username on
 it.<sup><a href="#fn3">3</a></sup>
 
 ## ✉️ How to get the cards?
 <!-- markdownlint-disable MD032 -->
-Requesting an card is easy by following this step:
+Requesting a card is easy by following this step:
 
 <img src="../assets/irasutoya/original/computer_mail.png" align="right" width="200">
 
@@ -309,31 +309,31 @@ Below are the rules of each edition and their definition (if required):
 
 <!-- START: DO NOT TRANSLATE CLAUSES. ONLY DESCRIPTION ALLOWED, FEEL FREE TO ADD EXPLANATIONS -->
 
-> 1. Request your cards by <u>commenting on this forum thread</u> and using a list number instead of
->    naming the card.
->    > This clause is self explanatory.
->    >
->    > However, for "using a list number instead of naming the card," we saw some members named the
->    > card by featured figure on that card. This can result in ambiguity by bot, and the bot will
->    > ignore this as it assumes as comment.
-> 2. Do not request cards if you have no intention of saving them AND/OR request for someone else.
->    > This clause is self explanatory.
-> 3. Please **follow the format and respect the limits given by each card maker**, or the request
->    will be deleted.
->    > Limit stated on this clause is [card limit](#-what-is-card-limit).
-> 4. Due to our current automation limitation, **do not change or remove query names**. We will warn
->    you if find any infringement.
->    > In short, anything inside request template can not be deleted or modified. This behavior will
->    > affect our bot when fetching/taking data from forum thread to database.
-> 5. If you want to claim additional card(s) using slip card AND/OR by requirement from designer,
->    please use plus symbol (+) on additional card(s).
->    > See [Slip Card](#slip-card).
-> 6. In cases where your username is long and ensure your name fits, it's advised to **leave a short
->    name/nickname no more than 12 characters/words**.
->    > Most of card designs have limited space for text field, usually only available around 12
->    > characters.
-> 7. **Editions are limited to** *`x`* **requests**, so it's first come, first served!
->    > This clause is self explanatory.
+1. Request your cards by <u>commenting on this forum thread</u> and using a list number instead of
+   naming the card.
+   > This clause is self explanatory.
+   >
+   > However, for "using a list number instead of naming the card," we saw some members named the
+   > card by featured figure on that card. This can result in ambiguity by bot, and the bot will
+   > ignore this as it assumes as comment.
+2. Do not request cards if you have no intention of saving them AND/OR request for someone else.
+   > This clause is self explanatory.
+3. Please **follow the format and respect the limits given by each card maker**, or the request
+   will be deleted.
+   > Limit stated on this clause is [card limit](#-what-is-card-limit).
+4. Due to our current automation limitation, **do not change or remove query names**. We will warn
+   you if find any infringement.
+   > In short, anything inside request template can not be deleted or modified. This behavior will
+   > affect our bot when fetching/taking data from forum thread to database.
+5. If you want to claim additional card(s) using slip card AND/OR by requirement from designer,
+   please use plus symbol (+) on additional card(s).
+   > See [Slip Card](#slip-card).
+6. In cases where your username is long and ensure your name fits, it's advised to **leave a short
+   name/nickname no more than 12 characters/words**.
+   > Most of card designs have limited space for text field, usually only available around 12
+   > characters.
+7. **Editions are limited to** *`x`* **requests**, so it's first come, first served!
+   > This clause is self explanatory.
 
 <!-- END: TRANSLATION RESTRICTION -->
 
