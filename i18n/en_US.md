@@ -72,12 +72,12 @@ We also provide translation for this documentation. To read this in your languag
 * [About: Signature Shortcut](#about-signature-shortcut)
   * [Can I ask the deliverer to lookup delivery link on my forum signature?](#can-i-ask-the-deliverer-to-lookup-delivery-link-on-my-forum-signature)
   * [Is there any guideline for it?](#is-there-any-guideline-for-it)
+* [About: Suggestion](#about-suggestion)
+  * [🗳️ What is edition suggestion?](#️-what-is-edition-suggestion)
+  * [✍ Which one I can suggest to the team?](#-which-one-i-can-suggest-to-the-team)
+  * [🙋‍♂️ Can I suggest more than one titles/subject in one reply/request?](#️-can-i-suggest-more-than-one-titlessubject-in-one-replyrequest)
+  * [🕔 How long will suggested edition take to be released?](#-how-long-will-suggested-edition-take-to-be-released)
 * [About: Miscellaneous](#about-miscellaneous)
-  * [Suggestion](#suggestion)
-    * [🗳️ What is edition suggestion?](#️-what-is-edition-suggestion)
-    * [✍ Which one I can suggest to the team?](#-which-one-i-can-suggest-to-the-team)
-    * [🙋‍♂️ Can I suggest more than one titles/subject in one reply/request?](#️-can-i-suggest-more-than-one-titlessubject-in-one-replyrequest)
-    * [🕔 How long will suggested edition take to be released?](#-how-long-will-suggested-edition-take-to-be-released)
   * [Production](#production)
     * [🎨 How do your team create the card?](#-how-do-your-team-create-the-card)
     * [🔎 Can I know the technical information to create card?](#-can-i-know-the-technical-information-to-create-card)
@@ -305,20 +305,18 @@ compared to regular members.
 
 <!-- CARDFAQ:PAGE 8 /-->
 
-<img src="../assets/irasutoya/original/saikoro_3set.png" align="left" width="120">
+<img src="../assets/irasutoya/original/senkyo_bako.png" align="left" width="80">
 
-# About: Miscellaneous
+# About: Suggestion
 
-## Suggestion
-
-### 🗳️ What is edition suggestion?
+## 🗳️ What is edition suggestion?
 
 Edition suggestion is suggestion to helps us which topic will be released next.
 
 The suggestion field is open for everyone, including staff, and each of them are able to suggest one
 topic/title per submission.
 
-### ✍ Which one I can suggest to the team?
+## ✍ Which one I can suggest to the team?
 
 <img src="../assets/irasutoya/original/touhyou_man.png" width="200" align="right">
 
@@ -332,12 +330,12 @@ embracing in introducing animanga and Japanese culture to newcomers.
 
 \* *It should be inside ACG (Animation, Comic, Game) and Japanese culture.*
 
-### 🙋‍♂️ Can I suggest more than one titles/subject in one reply/request?
+## 🙋‍♂️ Can I suggest more than one titles/subject in one reply/request?
 
 Unfortunately, **no**. We want to be fair as possible and considering of this club's main purpose,
 this is our approach for it.
 
-### 🕔 How long will suggested edition take to be released?
+## 🕔 How long will suggested edition take to be released?
 
 Imagine like a *demand rate theory*, the more people want it (demand), the less time will take
 for the edition to be released, thus the rate is greater.
@@ -366,6 +364,14 @@ rate is 0.5/month.<a href="#fn4"><sup>4</sup></a>
 We want those suggestions were released completely, but considering the main purpose of the club
 exist, it can't be helped. You might want to suggest your specific edition suggestion to another
 club with their main purpose is collecting collectibles.
+
+<hr />
+
+<!-- CARDFAQ:PAGE 9 /-->
+
+<img src="../assets/irasutoya/original/saikoro_3set.png" align="left" width="120">
+
+# About: Miscellaneous
 
 ## Production
 

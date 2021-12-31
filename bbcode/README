@@ -1,12 +1,13 @@
 Files on this folder were separated based on ../i18n/en_US.md's h1.
 
 post[*].bbcode:
-     1: Front Page
-     2: About: Cards
-     3: About: Limit
-     4: About: Scheduling and Edition Theming
-     5: About: Rules Enforcement
-     6: About: Delivery and Usage
-     7: About: Signature Shortcut
-     8: About: Miscellaneous
-     9: Footnotes
+     1 : Front Page
+     2 : About: Cards
+     3 : About: Limit
+     4 : About: Scheduling and Edition Theming
+     5 : About: Rules Enforcement
+     6 : About: Delivery and Usage
+     7 : About: Signature Shortcut
+     8 : About: Suggestion
+     9 : About: Miscellaneous
+     10: Footnotes
