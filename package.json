@@ -4,7 +4,7 @@
   "description": "Official Source Code for Card Guides and FAQ Forum Thread by The Newbie Club on MyAnimeList",
   "private": "true",
   "scripts": {
-    "lint": "markdownlint **/*.md -c config/markdownlint.yaml -i _404.md -i _sidebar.md -i node_modules"
+    "lint": "markdownlint **/*.md -c config/markdownlint.yaml -i node_modules"
   },
   "repository": {
     "type": "git",
