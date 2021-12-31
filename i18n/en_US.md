@@ -458,7 +458,7 @@ topic/title per submission.
 
 <img src="../assets/irasutoya/original/touhyou_man.png" width="200" align="right">
 
-We accept anything!<a href="#fn5"><sup>5</sup></a>
+We accept anything!<sup><a href="#fn5">5</a></sup>
 
 You can suggest us **one** of your favorite anime/manga title, director, voice actors, event, or
 even general topic. <!-- pun unintended, ngl. -->
