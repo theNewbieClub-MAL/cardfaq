@@ -20,7 +20,8 @@ headers = [
 # Exclude URLs from checking (supports regex)
 exclude = [
     "myanimelist.net/profile",
-    "thenewbieclub.net"
+    "thenewbieclub.net",
+    "mailto:"
 ]
 
 # Exclude link-local IP address range from checking

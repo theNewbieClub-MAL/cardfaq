@@ -458,7 +458,7 @@ topic/title per submission.
 
 <img src="../assets/irasutoya/original/touhyou_man.png" width="200" align="right">
 
-We accept anything!<a href="fn5"><sup>5</sup></a>
+We accept anything!<a href="#fn5"><sup>5</sup></a>
 
 You can suggest us **one** of your favorite anime/manga title, director, voice actors, event, or
 even general topic. <!-- pun unintended, ngl. -->
@@ -646,7 +646,7 @@ have slip card store store.
 <!-- LINKS -->
 [cardTrack]: https://myanimelist.net/forum/?topicid=1981019
 [CCBY40]: ../LICENSE
-[discEncyclopediaUserID]: https://support.discord.com/hc/en-us/articles/206346498
+[discEncyclopediaUserID]: https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
 [encyclopedia]: https://thenewbieclub-mal.github.io/gfxEncyclopedia
 [faq]: https://myanimelist.net/forum/?topicid=1779538
 [i18n]: languageContent.md
