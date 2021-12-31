@@ -21,6 +21,11 @@ headers = [
 exclude = [
     "myanimelist.net/profile",
     "thenewbieclub.net",
+    "mailto:",
+    "support.discord.com"
+]
+
+exclude_file = [
     "mailto:"
 ]
 
