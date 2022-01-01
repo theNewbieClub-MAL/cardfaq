@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD041 MD034 MD027 -->
-<!-- cSpell:ignore aisatsu, boushi, kangaechu, kouji, nimotsu, saikoro, sekaichizu, shinnen, takujou, touhyou, yuudoubou -->
+<!-- cSpell:ignore aisatsu, boushi, kangaechu, kouji, nimotsu, saikoro, sekaichizu, shinnen, takujou, touhyou, yuudoubou, chuui, senkyo -->
 
 <!-- CARDFAQ:PAGE 1 /-->
 
