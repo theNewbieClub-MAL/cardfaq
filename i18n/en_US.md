@@ -231,7 +231,7 @@ However, the designing staff might reuse/carry the design language from the prev
 
 <!-- markdownlint-disable MD022 MD024 -->
 
-A card limit is a maximum amount of cards a member can order/request from an individual designing
+A card limit is the maximum number of cards a member can order/request from an individual designing
 staff OR edition.
 
 In default, The Newbie Club card limit is set to staff. But in some cases, the limit is set
@@ -378,7 +378,7 @@ It is indeed taking much time the for designer to do it by themselves, so we fac
 new subsection: card deliverer.
 
 However, in some cases, the designer cannot finish it in a week and probably will take months to
-finish due to works they need to finish first.
+complete due to works they need to finish first.
 
 Note that most of our club staff are teenagers and undergrad students, and we focus more on our
 education.
@@ -422,7 +422,7 @@ respective delivery blog instead.
 
 ## 📜 Is there any guideline for it?
 
-We do have guides for it, but it is most likely common sense or gives the designer/deliverer more
+We have guides for it, but it is most likely common sense or gives the designer/deliverer more
 accessibility.
 
 If you are interested to know more, read the guide below:
@@ -474,8 +474,8 @@ purpose, this is our approach.
 
 ## 🕔 How long will the suggested edition take to be released?
 
-Imagine a *demand rate theory*' the more people want it (demand), the less time will take for the
-edition to be released; thus, the rate is greater.
+Imagine a *demand rate theory*' the more people want it (demand), the less time it takes to release
+the edition; thus, the rate is greater.
 
 Due to how we implement the system, it is a little bit different.
 
@@ -485,15 +485,15 @@ edition is released to the public:
 1. Requesters suggested the editions up to the minimum threshold.
    > The minimum threshold may vary by the general topic and/or audience of the suggestion is.
    >
-   > If the suggested topic is about a recurrence event, the threshold will be skipped and
-   > automatically jump to the second step.
+   > If the suggested topic is a recurrence event, the threshold will be skipped and automatically
+   > jump to the second step.
 2. When the threshold is reached, it will be listed as an option for the internal team tally. As the
    club will hold 2 editions in every month, votes in each tally are 4 up to 6.
 3. Any staff of the graphic designing and delivery team, deputies of each section, and admin of each
    section will decide which edition will be released. The most votes will be released in the first
    week.
-   > Also, staff might not vote the suggestion even if the edition itself was suggested double or
-   > more times than the minimum threshold.
+   > Also, staff might not vote the suggestion even if the edition was suggested double or more
+   > times than the minimum threshold.
 
 As our suggestion list is growing faster, unfortunately, it will take 5 months up to a year if the
 demand rate is 0.5/month.<a href="#fn6"><sup>5</sup></a>
@@ -568,7 +568,7 @@ Visit [The Newbie Club's GFX Encyclopedia][encyclopedia] if you want to learn mo
 
 Thanks for your interest!
 
-If you want to join our team, please head out to [Application Thread][staffRecruitment].
+Please head out to [Application Thread][staffRecruitment] if you want to join our team.
 
 ### 🎖 I saw an ex-staff get their personalized card for their contribution; Can I apply to get it?
 
@@ -608,8 +608,7 @@ The reason why it exists is unclear, but by looking the pattern of usage, it bec
 3. They just like to collect cards.
 
 On TNC, you can attach your slip card to your request by adding an image inside the spoiler box and
-then explicitly stating on request if they own a slip card by adding an addition (+) symbol to
-cards.
+then explicitly stating if they own a slip card by adding an addition (+) symbol to cards.
 
 For example:
 
@@ -642,8 +641,8 @@ they have a slip card store.
 3. <a id="fn3"></a> [TY answers regarding cards][tyDiscord]
 4. <a id="fn4"></a> [\[CARDS\] \[CLOSED\] 🎃 TNC X HNE Halloween Collab][tncCollab]
 5. <a id="fn5"></a> It must be inside ACG (Animation, Comic, Game) and Japanese culture.
-6. <a id="fn6"></a> 1 person requested that particular edition in each edition releases, and
-   assuming if the threshold is 10.
+6. <a id="fn6"></a> 1 person requested that particular edition in each release, and assuming the
+   threshold is 10.
 
 <!-- LINKS -->
 [cardTrack]: https://myanimelist.net/forum/?topicid=1981019
