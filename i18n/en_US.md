@@ -158,22 +158,22 @@ it.<sup><a href="#fn3">3</a></sup>
 
 ## ✉️ How to get the cards?
 <!-- markdownlint-disable MD032 -->
-Requesting a card is easy by following this step:
+Requesting a card is easy and can be done by following these steps:
 
 <img src="../assets/irasutoya/original/computer_mail.png" align="right" width="200">
 
 * **Check if the edition is still open.**
   > You can check it by looking up the thread title. If it says `[CLOSED]` or `[HALTED]`, then
   > you're out of luck. ;-;
-* **Read carefully the instruction and rules included in the edition.**
+* **Read the instructions and rules included in the edition carefully.**
   > These instructions will assist you in requesting the cards while abiding by the rules.
 1. Copy the form provided on the edition thread.
    > In some cases, user is required **not to modify** the template at all.
 2. Go to the bottom/top of the thread, and look for the "Post New Reply" or "Quick Reply"
    button/link, and click it to reply.
 3. Paste the form to the text box, and fill the form based on what the instruction suggests.
-   > Make sure the total amount cards you requested for each staff is not exceeded from the limit
-   > specified.
+   > Make sure the total amount of cards you requested from each staff does not exceed the specified
+   > limit.
 4. Submit the request.
 5. You're done!
 
@@ -205,7 +205,7 @@ Short answer, **no**.
 All of those questions, excluding comments, suggestions, and feedback (if any), are required in the
 request form.
 
-In The Newbie Club, the structure must stay as if due to implementation on the bot.
+In The Newbie Club, the structure must stay as it is due to the implementation of the bot.
 
 However, you can leave it blank to avoid any conflict.
 
