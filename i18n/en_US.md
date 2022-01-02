@@ -101,12 +101,14 @@ We also provide translations for this documentation. To read this in your langua
 
 Thanks to these incredible people who helped us write this documentation. They are the best!
 
-* [Allegedshrimp](https://myanimelist.net/profile/Allegedshrimp) - FAQ Provider
-* [Cliptsu](https://myanimelist.net/profile/Cliptsu) - Proofread
-* [Karasian](https://myanimelist.net/profile/Karasian) - The Newbie Club Owner
-* [kunminer123](https://myanimelist.net/profile/kunminer123) - FAQ Provider
-* [Sp3ctr](https://myanimelist.net/profile/Sp3ctr) - Quality Check &amp; FAQ Provider
-* [Yes_Im_Lumzing](https://myanimelist.net/profile/Yes_Im_Lumzing) - Proofread
+* [Allegedshrimp](https://myanimelist.net/profile/Allegedshrimp) — FAQ Provider
+* [Cliptsu](https://myanimelist.net/profile/Cliptsu) — Proofread
+* [Exelero64](https://myanimelist.net/profile/Exelero64) — Proofread
+* [Karasian](https://myanimelist.net/profile/Karasian) — The Newbie Club Owner
+* [kunminer123](https://myanimelist.net/profile/kunminer123) — FAQ Provider
+* [Sp3ctr](https://myanimelist.net/profile/Sp3ctr) — Quality Check &amp; FAQ Provider
+* [Tachiiiii](https://myanimelist.net/profile/Tachiiiii) — Proofread
+* [Yes_Im_Lumzing](https://myanimelist.net/profile/Yes_Im_Lumzing) — Proofread
 
 ## ⚖️ Legal
 
