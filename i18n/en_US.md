@@ -360,7 +360,7 @@ Please send a MAL PM to [@nattadasu][nattadasu] for further investigation.
 ## 🙅‍♂️ My content was being used without permission; where can I submit a takedown request?
 
 Please send a takedown request to [dmca@nattadasu.my.id][mailTo]. We will try our best to take it
-down within a day or earlier.
+down within a day.
 
 Unfortunately, the club does not have a dedicated email address at the moment.
 
