@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD041 MD034 MD027 -->
+<!-- markdownlint-disable MD041 MD034 MD027 MD013 -->
 <!-- cSpell:ignore aisatsu, boushi, kangaechu, kouji, nimotsu, saikoro, sekaichizu, shinnen, takujou, touhyou, yuudoubou, chuui, senkyo -->
 
 <!-- CARDFAQ:PAGE 1 /-->
@@ -68,7 +68,7 @@ We also provide translations for this documentation. To read this in your langua
   * [🙅‍♂️ My content was being used without permission; where can I submit a takedown request?](#️-my-content-was-being-used-without-permission-where-can-i-submit-a-takedown-request)
 * [About: Delivery and Usage](#about-delivery-and-usage)
   * [🚛 When can I get my cards?](#-when-can-i-get-my-cards)
-  * [😢 What did I do when I didn't receive the card?](#-what-did-i-do-when-i-didnt-receive-the-card)
+  * [😢 What should I do when I didn't receive the card?](#-what-should-i-do-when-i-didnt-receive-the-card)
   * [🖼 Where can I put the cards?](#-where-can-i-put-the-cards)
 * [About: Signature Shortcut](#about-signature-shortcut)
   * [🔗 Can I ask the deliverer to look up the delivery link on my forum signature?](#-can-i-ask-the-deliverer-to-look-up-the-delivery-link-on-my-forum-signature)
@@ -80,7 +80,7 @@ We also provide translations for this documentation. To read this in your langua
   * [🕔 How long will the suggested edition take to be released?](#-how-long-will-the-suggested-edition-take-to-be-released)
 * [About: Miscellaneous](#about-miscellaneous)
   * [Production](#production)
-    * [🖌️ How do your team create the card?](#️-how-do-your-team-create-the-card)
+    * [🖌️ How does your team create the card?](#️-how-does-your-team-create-the-card)
     * [🔎 Can I know the technical information to create a card?](#-can-i-know-the-technical-information-to-create-a-card)
     * [🤖 Writing one-by-one requester's names looks pretty tedious; isn't there any automation to do it?](#-writing-one-by-one-requesters-names-looks-pretty-tedious-isnt-there-any-automation-to-do-it)
   * [Staff](#staff)
@@ -106,6 +106,7 @@ Thanks to these incredible people who helped us write this documentation. They a
 * [Exelero64](https://myanimelist.net/profile/Exelero64) — Proofread
 * [Karasian](https://myanimelist.net/profile/Karasian) — The Newbie Club Owner
 * [kunminer123](https://myanimelist.net/profile/kunminer123) — FAQ Provider
+* [RockValRon](https://myanimelist.net/profile/RockValRon) — Proofread
 * [Sp3ctr](https://myanimelist.net/profile/Sp3ctr) — Quality Check &amp; FAQ Provider
 * [Tachiiiii](https://myanimelist.net/profile/Tachiiiii) — Proofread
 * [Yes_Im_Lumzing](https://myanimelist.net/profile/Yes_Im_Lumzing) — Proofread
@@ -213,7 +214,7 @@ However, you can leave it blank to avoid any conflict.
 
 ## ↩️ Can I get cards from the previous edition?
 
-**No**. It is impossible to get previous edition's cards, UNLESS if there's an ongoing re-run event.
+**No**. It is impossible to get previous edition's cards, UNLESS there's an ongoing re-run event.
 
 However, the designing staff might reuse/carry the design language from the previous edition.
 
@@ -236,7 +237,7 @@ However, the designing staff might reuse/carry the design language from the prev
 A card limit is the maximum number of cards a member can order/request from an individual designing
 staff OR edition.
 
-In default, The Newbie Club card limit is set to staff. But in some cases, the limit is set
+By default, The Newbie Club card limit is set to staff. But in some cases, the limit is set
 globally (applied to the edition).<sup><a href="#fn4">4</a></sup>
 
 You can see the limit specified by staff under their name, usually written as:
@@ -359,9 +360,9 @@ Please send a MAL PM to [@nattadasu][nattadasu] for further investigation.
 ## 🙅‍♂️ My content was being used without permission; where can I submit a takedown request?
 
 Please send a takedown request to [dmca@nattadasu.my.id][mailTo]. We will try our best to take it
-down in a day or earlier.
+down within a day or earlier.
 
-Unfortunately,  the club does not have its dedicated email address for a moment.
+Unfortunately, the club does not have a dedicated email address at the moment.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -376,27 +377,27 @@ Unfortunately,  the club does not have its dedicated email address for a moment.
 Usually designer requires a week or more to finish all of the request, upload the files, and
 distribute the cards one by one to each requester.
 
-It is indeed taking much time the for designer to do it by themselves, so we facilitated by adding a
-new subsection: card deliverer.
+Since it was taking too much of the designers' time to deliver the cards by themselves, we
+facilitated by adding a new subsection: card deliverer.
 
 However, in some cases, the designer cannot finish it in a week and probably will take months to
 complete due to works they need to finish first.
 
-Note that most of our club staff are teenagers and undergrad students, and we focus more on our
+Note that most of our club staff are teenagers and undergraduate students, and we focus more on our
 education.
 
-## 😢 What did I do when I didn't receive the card?
+## 😢 What should I do when I didn't receive the card?
 
 Before filing a complaint, please check the [Card Delivery Tracking][cardTrack] thread and read the
 instructions stated on the thread.
 
-By it status:
+To summarize, by checking the status:
 
-* If the status of the designer is 🎨 **designing**, and it is **less than 2 months** after the
-  thread closed:
+* If the status of the designer is 🎨 **designing**, and it has been **less than 2 months** after
+  the thread closed:
   > Please wait.
-* If the status of the designer is 🎨 **designing**, and it is **more than or equal to 2 months**
-  after the thread closed:
+* If the status of the designer is 🎨 **designing**, and it has been **more than or equal to 2
+  month** after the thread closed:
   > Send a MAL PM to [@nattadasu][nattadasu].
 * If the status of the designer is ✅ **delivered**, but did not receive the card:
   > Send a MAL PM to the respective designer.
@@ -431,9 +432,9 @@ If you are interested to know more, read the guide below:
 
 * The link should be on the left side of the signature content.
 * If the link to the blog was hyperlinked into the signature image:
-  * If you have multiple hyperlinked images, you **must explicitly state** which one is the correct
-    link by adding text into the image itself, OR you can state the link's location the on comment
-    query.
+  * If you have multiple hyperlinked images OR if the image was split into several parts, you **must
+    explicitly state** which one is the correct link by adding text into the image itself, OR you
+    can state the link's location the on comment query.
   * If you only have one image, you are not required to state the location.
 * Link to blog that hyperlinked into text **must**:
   * Visible by any background, white and dark.
@@ -466,43 +467,43 @@ We accept anything!<sup><a href="#fn5">5</a></sup>
 You can suggest **one** of your favorite anime/manga titles, directors, voice actors, events, or
 even general topics. <!-- pun unintended, ngl. -->
 
-Please note that the chances we picked specific director's/VA's works are very low, as we are more
-embracing in introducing animanga and Japanese culture to newcomers.
+Please note that the chances we pick specific director's/VA's works are very low, aas we embrace the
+idea of introducing animanga and Japanese culture to newcomers.
 
 ## 🙋‍♂️ Can I suggest more than one title/subject in one reply/request?
 
-Unfortunately, **no**. We want to be fair as possible, and considering of this club's primary
+Unfortunately, **no**. We want to be as fair as possible, and considering this club's primary
 purpose, this is our approach.
 
 ## 🕔 How long will the suggested edition take to be released?
 
-Imagine a *demand rate theory*' the more people want it (demand), the less time it takes to release
-the edition; thus, the rate is greater.
+According to the *demand rate theory*, the more people want it (demand), the less time it takes to
+release the edition; thus, the rate is greater.
 
 Due to how we implement the system, it is a little bit different.
 
-In TNC, there are three steps before the edition release, and it is happening after the second
-edition is released to the public:
+In TNC, there are three steps before the edition release, and it is happens after the second edition
+is released to the public:
 
 1. Requesters suggested the editions up to the minimum threshold.
    > The minimum threshold may vary by the general topic and/or audience of the suggestion is.
    >
-   > If the suggested topic is a recurrence event, the threshold will be skipped and automatically
+   > If the suggested topic is a recurring event, the threshold will be skipped and automatically
    > jump to the second step.
 2. When the threshold is reached, it will be listed as an option for the internal team tally. As the
    club will hold 2 editions in every month, votes in each tally are 4 up to 6.
 3. Any staff of the graphic designing and delivery team, deputies of each section, and admin of each
-   section will decide which edition will be released. The most votes will be released in the first
-   week.
+   section will decide which edition will be released. The edition with the most votes will be
+   released in the first week.
    > Also, staff might not vote the suggestion even if the edition was suggested double or more
    > times than the minimum threshold.
 
-As our suggestion list is growing faster, unfortunately, it will take 5 months up to a year if the
-demand rate is 0.5/month.<a href="#fn6"><sup>5</sup></a>
+As our suggestion list is growing faster, unfortunately, it will take from 5 months up to a year if
+the demand rate is 0.5/month.<a href="#fn6"><sup>5</sup></a>
 
 We want those suggestions to be released ultimately, but considering the club's primary purpose
-exists, it can't be helped. You might like to suggest your specific edition suggestion to another
-club whose primary purpose is collecting collectibles.
+exists, it can't be helped. You could also try suggesting your specific edition suggestion to
+another club whose primary purpose is collecting collectibles.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -516,7 +517,7 @@ club whose primary purpose is collecting collectibles.
 
 <img src="../assets/irasutoya/original/illustrator.png" width="200" align="right">
 
-### 🖌️ How do your team create the card?
+### 🖌️ How does your team create the card?
 
 We use Adobe Photoshop for our work, but it's not required.
 
@@ -543,7 +544,7 @@ We use this configuration for our cards:
     > Create your card with twice of resolution on your draft, and then rescale it back. This
     > method is to avoid any detail loss after you create it.
 * Recommended using 300dpi, minimum 90dpi.
-* The card should *at least* contains 3 (three) text fields/spaces:
+* The card should *at least* contain 3 (three) text fields/spaces:
   1. **Edition name**, e.g., "School Edition."
   2. **Club Name**, e.g., "The Newbie Club" or "TNC."
   3. **Username/Nickname**, This will be where we write the names of people who requested cards
@@ -603,7 +604,8 @@ and attach the requirements stated below:
 A slip card is a card that allows requesters to bypass the limit with the specified amount on the
 card itself. You can imagine slip card like a loyalty/membership card applied on stores.
 
-The reason why it exists is unclear, but by looking the pattern of usage, it becomes clear:
+The reason why it exists might seem unclear at first glance, but can be understood by looking at the
+pattern of its usage:
 
 1. The requester is a regular *customer*.
 2. The requester adores the design made by individual staff.
