@@ -69,7 +69,7 @@ We also provide translations for this documentation. To read this in your langua
 * [About: Delivery and Usage](#about-delivery-and-usage)
   * [🚛 When can I get my cards?](#-when-can-i-get-my-cards)
   * [😢 What should I do when I didn't receive the card?](#-what-should-i-do-when-i-didnt-receive-the-card)
-  * [🖼 Where can I put the cards?](#-where-can-i-put-the-cards)
+  * [🖼️ Where can I put the cards?](#️-where-can-i-put-the-cards)
 * [About: Signature Shortcut](#about-signature-shortcut)
   * [🔗 Can I ask the deliverer to look up the delivery link on my forum signature?](#-can-i-ask-the-deliverer-to-look-up-the-delivery-link-on-my-forum-signature)
   * [📜 Is there any guideline for it?](#-is-there-any-guideline-for-it)
@@ -85,7 +85,7 @@ We also provide translations for this documentation. To read this in your langua
     * [🤖 Writing one-by-one requester's names looks pretty tedious; isn't there any automation to do it?](#-writing-one-by-one-requesters-names-looks-pretty-tedious-isnt-there-any-automation-to-do-it)
   * [Staff](#staff)
     * [👥 How can I join as a Designer or Card Deliverer?](#-how-can-i-join-as-a-designer-or-card-deliverer)
-    * [🎖 I saw an ex-staff get their personalized card for their contribution; Can I apply to get it?](#-i-saw-an-ex-staff-get-their-personalized-card-for-their-contribution-can-i-apply-to-get-it)
+    * [🎖️ I saw an ex-staff get their personalized card for their contribution; Can I apply to get it?](#️-i-saw-an-ex-staff-get-their-personalized-card-for-their-contribution-can-i-apply-to-get-it)
   * [Slip card](#slip-card)
     * [➕ What is a slip card?](#-what-is-a-slip-card)
     * [📬 How to get a slip card?](#-how-to-get-a-slip-card)
@@ -97,7 +97,7 @@ We also provide translations for this documentation. To read this in your langua
 
 ## 🎉 Acknowledgement
 
-<img src="../assets/irasutoya/original/shinnen_aisatsu_man.png" align="right" width="150">
+<img src="../assets/irasutoya/original/shinnen_aisatsu_man.png" align="right" width="200">
 
 Thanks to these incredible people who helped us write this documentation. They are the best!
 
@@ -360,7 +360,7 @@ Please send a MAL PM to [@nattadasu][nattadasu] for further investigation.
 ## 🙅‍♂️ My content was being used without permission; where can I submit a takedown request?
 
 Please send a takedown request to [dmca@nattadasu.my.id][mailTo]. We will try our best to take it
-down within a day.
+down within a day or earlier.
 
 Unfortunately, the club does not have a dedicated email address at the moment.
 
@@ -404,7 +404,7 @@ To summarize, by checking the status:
 * If the status of the designer is ❌ **halted**:
   > Send a MAL PM to [@nattadasu][nattadasu].
 
-## 🖼 Where can I put the cards?
+## 🖼️ Where can I put the cards?
 
 As stated earlier on [💳 What is a card](#-what-is-a-card), you can put it wherever you want!
 
@@ -573,7 +573,7 @@ Thanks for your interest!
 
 Please head out to [Application Thread][staffRecruitment] if you want to join our team.
 
-### 🎖 I saw an ex-staff get their personalized card for their contribution; Can I apply to get it?
+### 🎖️ I saw an ex-staff get their personalized card for their contribution; Can I apply to get it?
 
 **Yes**, you can!
 
