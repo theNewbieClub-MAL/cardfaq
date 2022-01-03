@@ -29,7 +29,7 @@ jobs:
             mkdir docs
           fi
 
-          mv i18n/en_US.pdf docs/en_US.pdf
+          mv i18n/document.pdf docs/en_US.pdf
 
       - name: Commit docs
         uses: stefanzweifel/git-auto-commit-action@v4.12.0
