@@ -1,0 +1,40 @@
+name: Convert MD to PDF
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  push:
+    paths:
+      - "./i8n/en_US.md"
+    branches:
+      - "main"
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    name: Publish Document
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Publish PDF Document
+        uses: shrink/actions-document-publish@v1
+        id: publish-document
+        with:
+          sources: 'i18n/en_US.md'
+
+      - name: Move PDF to dedicated folder
+        run: |
+          if [[ ! -d "docs" ]]
+          then 
+            mkdir docs
+          fi
+
+          mv i18n/en_US.pdf docs/en_US.pdf
+
+      - name: Commit docs
+        uses: stefanzweifel/git-auto-commit-action@v4.12.0
+        with:
+          commit_message: Update PDF
+          commit_options: --allow-empty
+          file_pattern: .
+          branch: master
