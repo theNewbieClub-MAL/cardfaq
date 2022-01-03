@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD041 MD034 MD027 MD013 -->
+<!-- markdownlint-disable MD041 MD034 MD027 MD013 MD035 -->
 <!-- cSpell:ignore aisatsu, boushi, kangaechu, kouji, nimotsu, saikoro, sekaichizu, shinnen, takujou, touhyou, yuudoubou, chuui, senkyo -->
 
 <!-- CARDFAQ:PAGE 1 /-->
@@ -18,8 +18,8 @@
 **Selamat datang di Panduan The Newbie Club untuk permintaan kartu dan pertanyaan yang sering
 ditanyakan.**
 
-Dokumen ini akan membantu kamu dalam me-*request* kartu di klub ini dan beserta pertanyaan yang
-mungkin sering ditanya.
+Dokumen ini akan membantu kamu dalam meminta kartu di klub ini dan beserta pertanyaan yang mungkin
+sering ditanya.
 
 Untuk memulai, silakan baca konten di bawah satu per satu.
 
@@ -51,34 +51,34 @@ Kami juga menyediakan terjemahan untuk karya ini.Untuk membaca ini dalam bahasa 
   * [✉️ Bagaimana cara mendapatkan kartu?](#️-bagaimana-cara-mendapatkan-kartu)
   * [❓ Apa teks acak di dalam kurung kotak ini?](#-apa-teks-acak-di-dalam-kurung-kotak-ini)
   * [🤔 Bisakah saya menghapus "pertanyaan" di formulir itu?](#-bisakah-saya-menghapus-pertanyaan-di-formulir-itu)
-  * [↩️ Can I get cards from the previous edition?](#️-can-i-get-cards-from-the-previous-edition)
-  * [🉑 Do I still have a chance to get the card if I send the request after request limit and/or after the deadline?](#-do-i-still-have-a-chance-to-get-the-card-if-i-send-the-request-after-request-limit-andor-after-the-deadline)
-* [About: Limit](#about-limit)
-  * [🛑 What is the card limit?](#-what-is-the-card-limit)
-  * [⛔ What is the request limit?](#-what-is-the-request-limit)
-  * [🆙 Why is the card limit for staff greater than regular members?](#-why-is-the-card-limit-for-staff-greater-than-regular-members)
-* [About: Scheduling and Edition Theme](#about-scheduling-and-edition-theme)
-  * [🗓️ When is usually an edition released?](#️-when-is-usually-an-edition-released)
-  * [⌚ How long is the period for each edition release?](#-how-long-is-the-period-for-each-edition-release)
-  * [🎨 Which theme does The Newbie Club usually release for the card edition?](#-which-theme-does-the-newbie-club-usually-release-for-the-card-edition)
-* [About: Rules Enforcement](#about-rules-enforcement)
-  * [📕 What rules for requesting the cards? Can you explain it?](#-what-rules-for-requesting-the-cards-can-you-explain-it)
-  * [⚠️ Why did one of the staff send me a warning to my PM?](#️-why-did-one-of-the-staff-send-me-a-warning-to-my-pm)
-  * [🚶‍♂️ I saw someone *bypassed* the limit by adding plus (+), what is it?](#️-i-saw-someone-bypassed-the-limit-by-adding-plus--what-is-it)
-  * [🕵️‍♂️ I have an issue with one or more cards, where I can speak to?](#️️-i-have-an-issue-with-one-or-more-cards-where-i-can-speak-to)
-  * [🙅‍♂️ My content was being used without permission; where can I submit a takedown request?](#️-my-content-was-being-used-without-permission-where-can-i-submit-a-takedown-request)
-* [About: Delivery and Usage](#about-delivery-and-usage)
-  * [🚛 When can I get my cards?](#-when-can-i-get-my-cards)
-  * [😢 What should I do when I didn't receive the card?](#-what-should-i-do-when-i-didnt-receive-the-card)
-  * [🖼️ Where can I put the cards?](#️-where-can-i-put-the-cards)
-* [About: Signature Shortcut](#about-signature-shortcut)
-  * [🔗 Can I ask the deliverer to look up the delivery link on my forum signature?](#-can-i-ask-the-deliverer-to-look-up-the-delivery-link-on-my-forum-signature)
-  * [📜 Is there any guideline for it?](#-is-there-any-guideline-for-it)
-* [About: Suggestion](#about-suggestion)
-  * [🗳️ What is the edition suggestion?](#️-what-is-the-edition-suggestion)
-  * [✍ Which one can I suggest to the team?](#-which-one-can-i-suggest-to-the-team)
-  * [🙋‍♂️ Can I suggest more than one title/subject in one reply/request?](#️-can-i-suggest-more-than-one-titlesubject-in-one-replyrequest)
-  * [🕔 How long will the suggested edition take to be released?](#-how-long-will-the-suggested-edition-take-to-be-released)
+  * [↩️ Bisakah saya mendapatkan kartu dari edisi sebelumnya?](#️-bisakah-saya-mendapatkan-kartu-dari-edisi-sebelumnya)
+  * [🉑 Apakah saya masih memiliki kesempatan untuk mendapatkan kartu jika saya mengirim permintaan setelah batas permintaan dan/atau setelah tenggat waktu?](#-apakah-saya-masih-memiliki-kesempatan-untuk-mendapatkan-kartu-jika-saya-mengirim-permintaan-setelah-batas-permintaan-danatau-setelah-tenggat-waktu)
+* [Tentang: Limit](#tentang-limit)
+  * [🛑 Apa itu limit kartu?](#-apa-itu-limit-kartu)
+  * [⛔ Apa itu limit permintaan?](#-apa-itu-limit-permintaan)
+  * [🆙 Mengapa limit kartu untuk staf lebih besar dari anggota reguler?](#-mengapa-limit-kartu-untuk-staf-lebih-besar-dari-anggota-reguler)
+* [Tentang: Penjadwalan dan Tema Edisi](#tentang-penjadwalan-dan-tema-edisi)
+  * [🗓️ Kapan biasanya edisi dirilis?](#️-kapan-biasanya-edisi-dirilis)
+  * [⌚ Berapa lama periode untuk setiap rilis edisi?](#-berapa-lama-periode-untuk-setiap-rilis-edisi)
+* [🎨 Tema mana yang biasanya dirilis oleh Newbie Club untuk edisi kartu?](#-tema-mana-yang-biasanya-dirilis-oleh-newbie-club-untuk-edisi-kartu)
+* [Tentang: Penegakan Peratuan](#tentang-penegakan-peratuan)
+  * [📕 Peraturan apa saja untuk meminta kartu? Apa bisa dijelaskan lebih lanjut?](#-peraturan-apa-saja-untuk-meminta-kartu-apa-bisa-dijelaskan-lebih-lanjut)
+  * [⚠️ Mengapa salah satu staf mengirimi saya peringatan melalui PM?](#️-mengapa-salah-satu-staf-mengirimi-saya-peringatan-melalui-pm)
+  * [🚶‍♂️ Saya melihat seseorang *melewati* limit dengan menambahkan plus (+), apa itu?](#️-saya-melihat-seseorang-melewati-limit-dengan-menambahkan-plus--apa-itu)
+  * [🕵️‍♂️ Saya memiliki masalah dengan satu kartu atau lebih, ke siapa saya dapat bertanya?](#️️-saya-memiliki-masalah-dengan-satu-kartu-atau-lebih-ke-siapa-saya-dapat-bertanya)
+  * [🙅‍♂️ Konten saya digunakan tanpa izin; Ke siapa saya dapat mengajukan permintaan *takedown*?](#️-konten-saya-digunakan-tanpa-izin-ke-siapa-saya-dapat-mengajukan-permintaan-takedown)
+* [Tentang: Pengiriman dan Penggunaan](#tentang-pengiriman-dan-penggunaan)
+  * [🚛 Kapan saya bisa mendapatkan kartu saya?](#-kapan-saya-bisa-mendapatkan-kartu-saya)
+  * [😢 Apa yang harus saya lakukan ketika saya tidak menerima kartu?](#-apa-yang-harus-saya-lakukan-ketika-saya-tidak-menerima-kartu)
+  * [🖼️ Dimana saya bisa meletakkan kartu?](#️-dimana-saya-bisa-meletakkan-kartu)
+* [Tentang: Pintasan *Signature*](#tentang-pintasan-signature)
+  * [🔗 Dapatkah saya meminta staf untuk menggunakan tautan pengiriman pada *signature* forum saya?](#-dapatkah-saya-meminta-staf-untuk-menggunakan-tautan-pengiriman-pada-signature-forum-saya)
+  * [📜 Apakah ada pedoman?](#-apakah-ada-pedoman)
+* [Tentang: Saran](#tentang-saran)
+  * [🗳️ Apa itu saran edisi?](#️-apa-itu-saran-edisi)
+  * [✍ Yang mana yang bisa saya sarankan kepada tim?](#-yang-mana-yang-bisa-saya-sarankan-kepada-tim)
+  * [🙋‍♂️ Bisakah saya menyarankan lebih dari satu judul/topik dalam satu permintaan?](#️-bisakah-saya-menyarankan-lebih-dari-satu-judultopik-dalam-satu-permintaan)
+  * [🕔 Berapa lama edisi yang disarankan bakal dirilis?](#-berapa-lama-edisi-yang-disarankan-bakal-dirilis)
 * [About: Miscellaneous](#about-miscellaneous)
   * [Production](#production)
     * [🖌️ How does your team create the card?](#️-how-does-your-team-create-the-card)
@@ -145,9 +145,9 @@ Homepage/ホームページ: https://irasutoya.com
 
 <img src="../assets/irasutoya/original/job_illustrator_pc_man.png" align="right" width="200">
 
-Kartu adalah suatu hal dalam klub MyAnimeList yang sama sekali tidak memiliki tujuan yang konkrit,
-akan tetapi lebih mengarah ke koleksi yang mana kamu bisa simpan, memamerkan di *post blog MAL*,
-*memajangnya* di profil MAL kamu, *signature* forum kamu, dll.
+**Kartu** adalah suatu hal dalam klub MyAnimeList yang sama sekali tidak memiliki tujuan yang
+konkrit, akan tetapi lebih mengarah ke koleksi yang mana kamu bisa simpan, memamerkan di *post blog
+MAL*, *memajangnya* di profil MAL kamu, *signature* forum kamu, dll.
 
 Kami tidak tahu dengan pasti mengapa koleksi kartu menjadi suatu hal sekaligus di klub-klub lainnya.
 
@@ -173,7 +173,8 @@ Meminta kartu di TNC mudah dan dapat dilakukan dengan mengikuti langkah-langkah 
   > Instruksi ini akan membantu Anda meminta kartu sambil mematuhi aturan.
 1. Salin formulir yang sudah dilampirkan di *thread* edisi.
    > Dalam kasus tertentu, pengguna diminta untuk **tidak mengubah** templat sama sekali.
-2. Tuju ke bagian bawah/atas *thread*, dan cari tombol/tautan "Post New Reply" atau "Quick Reply," dan klik untuk membalas.
+2. Tuju ke bagian bawah/atas *thread*, dan cari tombol/tautan "Post New Reply" atau "Quick Reply,"
+   dan klik untuk membalas.
 3. Tempel formulir ke kotak teks, dan isi formulir berdasarkan apa yang disarankan oleh instruksi.
    > Pastikan jumlah total kartu yang Anda minta dari setiap staf tidak melebihi batas yang ditentukan.
 4. Kirimkan permintaan.
@@ -183,7 +184,8 @@ Meminta kartu di TNC mudah dan dapat dilakukan dengan mengikuti langkah-langkah 
 
 ## ❓ Apa teks acak di dalam kurung kotak ini?
 
-"Kode" yang kamu lihat itu dikenal sebagai tag BBCode. Bisa dikatakan kalau itu adalah instruksi untuk memberi tahu MyAnimeList teks mana yang ingin diformat.
+"Kode" yang kamu lihat itu dikenal sebagai tag BBCode. Bisa dikatakan kalau itu adalah instruksi
+untuk memberi tahu MyAnimeList teks mana yang ingin diformat.
 
 Contohnya, jika kita mau **menebalkan** teks, maka kita cukup mengetik:
 
@@ -203,22 +205,23 @@ Kamu dapat mempelajari BBCode lebih lanjut dari:
 
 Singkat cerita, **tidak bisa**.
 
-All of those questions, excluding comments, suggestions, and feedback (if any), are required in the
-request form.
+Semua pertanyaan yang terdapat di formulir tersebut, terkecuali komentar, saran, dan *feedback*
+(jika ada), diperlukan.
 
-In The Newbie Club, the structure must stay as it is due to the implementation of the bot.
+Di The Newbie Club, struktur templat mesti sama dikarenakan implementasi robot.
 
-However, you can leave it blank to avoid any conflict.
+Akan tetapi, kamu dapat mengosongkan pertanyaan itu untuk menghindari konflik.
 
-## ↩️ Can I get cards from the previous edition?
+## ↩️ Bisakah saya mendapatkan kartu dari edisi sebelumnya?
 
-**No**. It is impossible to get previous edition's cards, UNLESS there's an ongoing re-run event.
+**Tidak bisa**. Tidak memungkinkan untuk mendapatkan kartu dari edisi sebelumnya, TERKECUALI jika
+ada *event re-run*.
 
-However, the designing staff might reuse/carry the design language from the previous edition.
+Walapun begitu, staf desain bisa saja menggunakan kembali bahasa desain dari edisi sebelumnya.
 
-## 🉑 Do I still have a chance to get the card if I send the request after request limit and/or after the deadline?
+## 🉑 Apakah saya masih memiliki kesempatan untuk mendapatkan kartu jika saya mengirim permintaan setelah batas permintaan dan/atau setelah tenggat waktu?
 
-**No**. Your request will be considered invalid.
+**Tidak**. Permintaan kamu akan dinyatakan tidak sah.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -226,47 +229,47 @@ However, the designing staff might reuse/carry the design language from the prev
 
 <img src="../assets/irasutoya/original/kouji_yuudoubou_versawriter.png" align="left" width="120">
 
-# About: Limit
+# Tentang: Limit
 
-## 🛑 What is the card limit?
+## 🛑 Apa itu limit kartu?
 
 <!-- markdownlint-disable MD022 MD024 -->
 
-A card limit is the maximum number of cards a member can order/request from an individual designing
-staff OR edition.
+Limit kartu adalah jumlah maksimum kartu yang dapat diminta oleh anggota untuk setiap staf desain
+ATAU edisi.
 
-By default, The Newbie Club card limit is set to staff. But in some cases, the limit is set
-globally (applied to the edition).<sup><a href="#fn4">4</a></sup>
+Biasanya, limit kartu di The Newbie Club diatur per staf. Tapi dalam kasus tertentu, limit diatur
+secara menyeluruh (diterapkan untuk satu  edisi).<sup><a href="#fn4">4</a></sup>
 
-You can see the limit specified by staff under their name, usually written as:
+Kamu dapat melihat limit yang diberikan oleh staf di bawah nama mereka, biasanya tertulis seperti:
 > ## Samantha
 > **Member:** `x`/`y`\
 > **Staff:** `x`/`y`
 
-Or
+Atau
 
 > ## Nicolas
 > **Any:** `x`/`y`
 
-With `x` is the number of cards you can take, and `y` is the total number of cards available.
+Dengan `x` merupakan jumlah yang dapat kamu ambil, dan `y` adalah jumlah kartu yang tersedia.
 
 <!-- markdownlint-enable MD022 MD024 -->
 
-## ⛔ What is the request limit?
+## ⛔ Apa itu limit permintaan?
 
 <img src="../assets/irasutoya/original/businessman2_kangaechu.png" align="right" width="200">
 
-Request limit is the maximum amount of replies/requests in an edition.
+Limit permintaan merupakan jumlah maksimum permintaan yang dapat diterima dalam edisi.
 
-It is usually set to 100 requests per edition.
+Biasanya diatur 100 permintaan/balaasan per edisi.
 
-Please note that due to how MyAnimeList counts replies, you can calculate by subtracting replies
-with main/first post instead and another 2<sup>nd</sup> post by poster, if any.
+Harap diingat bahwa karena bagaimana MyAnimelist menghitung balasan, kamu dapat menghitungnya dengan
+mengurangi balasan pertama dan kedua (jika ada) dari *thread starter*.
 
-## 🆙 Why is the card limit for staff greater than regular members?
+## 🆙 Mengapa limit kartu untuk staf lebih besar dari anggota reguler?
 
-In short: they *work* for club, so it is absolutely understandable if they would like more cards
-compared to regular members.
+Secara singkat: mereka *bekerja* untuk klub, maka hal ini sangat dimaklumi jika mereka ingin kartu
+yang lebih banyak dibandingkan anggota reguler.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -274,25 +277,25 @@ compared to regular members.
 
 <img src="../assets/irasutoya/original/calender_takujou.png" align="left" width="120">
 
-# About: Scheduling and Edition Theme
+# Tentang: Penjadwalan dan Tema Edisi
 
-## 🗓️ When is usually an edition released?
+## 🗓️ Kapan biasanya edisi dirilis?
 
-We usually release the edition bi-weekly every 1st and 3rd week of the month on Sunday at 8:00 AM up
-to 11:00 AM UTC/GMT+0.
+Kami biasanya merilis edisi setiap dua minggu, minggu pertama dan ketiga setiap bulan pada hari
+Minggu pukul 8.00 hingga 11.00 UTC/GMT+0 (15.00 - 18.00 WIB).
 
-However, we might not release for a week or even a month to provide free time during the
-holiday/vacation period.
+Terkadang, kami bisa saja tidak merilis edisi untuk sepekan atau bahkan hingga sebulan untuk
+memberikan waktu luang saat hari libur.
 
-## ⌚ How long is the period for each edition release?
+## ⌚ Berapa lama periode untuk setiap rilis edisi?
 
-It is 5 days, counted from the second of edition released and ended on Thursday, UNLESS under some
-circumstance.
+Yakni 5 hari, hitungan dimulai seketika setelah edisi dipublikasi dan berakhir di hari Kamis,
+TERKECUALI di bawah beberapa keadaan.
 
-## 🎨 Which theme does The Newbie Club usually release for the card edition?
+# 🎨 Tema mana yang biasanya dirilis oleh Newbie Club untuk edisi kartu?
 
-Due to the club's nature, we are focusing on introducing animanga and Japanese culture to any
-newcomers.
+Dikarenakan alasan utama dari klub, kami memokuskan dalam mengenalkan budaya animanga dan Jepang ke
+pendatang baru.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -300,67 +303,110 @@ newcomers.
 
 <img src="../assets/irasutoya/original/document_rule_book.png" align="left" width="120">
 
-# About: Rules Enforcement
+# Tentang: Penegakan Peratuan
 
-## 📕 What rules for requesting the cards? Can you explain it?
+## 📕 Peraturan apa saja untuk meminta kartu? Apa bisa dijelaskan lebih lanjut?
 
-In TNC, we have rules for both regular members and club staff to acknowledge and obey before
-requesting the cards.
+Di TNC, kami memiliki peraturan untuk anggota reguler dan staf klub yang diharapkan dapat mematuhi
+sebelum meminta kartu.
 
-Below are the rules of each edition and their definition (if required):
+Berikut adalah peraturan, terjemahan, beserta penjelasan lebih lanjut:
 
 <!-- START: DO NOT TRANSLATE CLAUSES. ONLY DESCRIPTION ALLOWED, FEEL FREE TO ADD EXPLANATIONS -->
 
 1. Request your cards by <u>commenting on this forum thread</u> and using a list number instead of
    naming the card.
-   > This clause is self-explanatory.
+   > **Terjemahan:**\
+   > Minta kartu Anda dengan mengomentar di *thread* forum ini dan menggunakan nomor daftar
+   > ketimbang menamai kartunya.
    >
-   > However, for "using a list number instead of naming the card," we saw some members called the
-   > card by the featured figure on that card. This can result in ambiguity by bot, and the bot will
-   > ignore this as it assumes as a comment.
+   > ***********************************************************************************************
+   >
+   > Ayat ini cukup jelas.
+   >
+   > Namun, untuk "menggunakan nomor daftar ketimbang menamai kartunya," Kami memerhatikan beberapa
+   > anggota menamai kartu oleh tokoh dalam kartu itu. Ini dapat mengakibatkan ambiguitas dengan
+   > bot, dan bot akan mengabaikan itu karena dianggap sebagai komentar.
 2. Do not request cards if you have no intention of saving them AND/OR request for someone else.
-   > This clause is self-explanatory.
+   > **Terjemahan:**\
+   > Dilarang meminta kartu jika kamu tidak memiliki keinginan untuk menyimpannya DAN/ATAU meminta
+   > untuk orang lain.
+   >
+   > ***********************************************************************************************
+   >
+   > Ayat ini cukup jelas.
 3. Please **follow the format and respect the limits given by each card maker**, or the request
    will be deleted.
-   > The limit stated in this clause is the [card limit](#-what-is-the-card-limit).
+   > **Terjemahan:**\
+   > Dimohon untuk **mengikuti format templat dan menghargai limit yang diberikan dari setiap
+   > pembuat kartu**, atau permintaan akan dihapus.
+   >
+   > ***********************************************************************************************
+   >
+   > Limit yang dinyatakan dalam ayat ini ialah mengenai [limit kartu](#-apa-itu-limit-kartu).
 4. Due to our current automation limitation, **do not change or remove query names**. We will warn
    you if find any infringement.
-   > In short, anything inside the request template can not be deleted or modified. This behavior
-   > will affect our bot when fetching/taking data from a forum thread to a database.
+   > **Terjemahan:**\
+   > Dikarenakan limitasi pada sistem otomasi kami, **dilarang keras untuk mengubah atau menghapus
+   > nama kueri**. Kami akan memperingatkan Anda jika ditemukan pelanggaran.
+   >
+   > ***********************************************************************************************
+   >
+   > Secara singkat, apapun yang terdapat di templat permintaan tidak dapat dihapus ataupun
+   > dimodifikasi. Hal ini dapat mempengaruhi bot kami pada saat pengambilan data dari *threa* forum
+   > ke pangkalan data.
 5. If you want to claim additional card(s) using slip card AND/OR by requirement from designer,
    please use plus symbol (+) on additional card(s).
-   > See [Slip Card](#slip-card).
+   > **Terjemahan:**\
+   > Jika Anda ingin mengeklaim kartu tambahan menggunakan kartu slip DAN/ATAU persyaratan dari
+   > desainer, silakan gunakan simbol tambah (+) pada kartu tambahan.
+   >
+   > ***********************************************************************************************
+   >
+   > Lihat [Kartu Slip](#kartu-slip).
 6. In cases where your username is long and ensure your name fits, it's advised to **leave a short
    name/nickname no more than 12 characters/words**.
-   > Most card designs have limited space for text fields, usually only around 12 characters.
+   > **Terjemahan:**\
+   > Dalam kasus di mana nama pengguna Anda panjang dan memastikan apabila muat, disarankan untuk
+   > menggunakan nama panggilan (*nickname*) tidak lebih dari 12 karaker/huruf.
+   >
+   > ***********************************************************************************************
+   >
+   > Kebanyakan desain kartu memiliki ruang yang terbatas, biasanya hanya memuat 12 karakter.
 7. **Editions are limited to** *`x`* **requests**, so it's first come, first served!
-   > This clause is self-explanatory.
+   > **Terjemahan:**\
+   > **Edisi hanya dapat memampung hingga** *`x`* **permintaan**, siapa cepat, dia dapat.
+   >
+   > ***********************************************************************************************
+   >
+   > Ayat ini cukup jelas.
 
 <!-- END: TRANSLATION RESTRICTION -->
 
 <img src="../assets/irasutoya/original/mark_chuui.png" align="right" width="150">
 
-## ⚠️ Why did one of the staff send me a warning to my PM?
+## ⚠️ Mengapa salah satu staf mengirimi saya peringatan melalui PM?
 
-We found an error on your request and/or did not obey the rules stated in the edition.
+Kami menemukan eror pada permintaan kamu dan/atau tidak mematuhi peraturan yang tertera di edisi.
 
-Your request was either edited to comply with bot configuration by us OR deleted if there is
-exceeded amount of card requests on individual staff.
+Permintaan kamu mungkin saja sudah disunting oleh kami untuk bot dapat mengerti ATAU dihapus karena
+kartu yang diminta melebihi limit yang diberikan dari staf.
 
-## 🚶‍♂️ I saw someone *bypassed* the limit by adding plus (+), what is it?
+## 🚶‍♂️ Saya melihat seseorang *melewati* limit dengan menambahkan plus (+), apa itu?
 
-They used a slip card on their request. To learn more, see [Slip Card](#slip-card).
+Mereka menggunakan kartu slip di permintaan mereka. Lihat [Kartu Slip](#kartu-slip) untuk
+mempelajari lebih lanjut.
 
-## 🕵️‍♂️ I have an issue with one or more cards, where I can speak to?
+## 🕵️‍♂️ Saya memiliki masalah dengan satu kartu atau lebih, ke siapa saya dapat bertanya?
 
-Please send a MAL PM to [@nattadasu][nattadasu] for further investigation.
+Silakan kirimkan PM MAL ke [@nattadasu][nattadasu] untuk investigasi lebih lanjut.
 
-## 🙅‍♂️ My content was being used without permission; where can I submit a takedown request?
+## 🙅‍♂️ Konten saya digunakan tanpa izin; Ke siapa saya dapat mengajukan permintaan *takedown*?
 
-Please send a takedown request to [dmca@nattadasu.my.id][mailTo]. We will try our best to take it
-down within a day or earlier.
+Silakan ajukan permintaan *takedown* ke [dmca@nattadasu.my.id][mailTo]. Kami akan berusaha sebaik
+mungkin untuk menyelesaikan perkara dalam sehari.
 
-Unfortunately, the club does not have a dedicated email address at the moment.
+Sayangnya, klub tidak memiliki alamat surel terkhusus untuk sementara waktu.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -368,45 +414,47 @@ Unfortunately, the club does not have a dedicated email address at the moment.
 
 <img src="../assets/irasutoya/original/cardboard.png" align="left" width="125">
 
-# About: Delivery and Usage
+# Tentang: Pengiriman dan Penggunaan
 
-## 🚛 When can I get my cards?
+## 🚛 Kapan saya bisa mendapatkan kartu saya?
 
-Usually designer requires a week or more to finish all of the request, upload the files, and
-distribute the cards one by one to each requester.
+Biasanya desainer memerlukan waktu seminggu atau lebih untuk menyelesaikan semua permintaan,
+mengunggah berkas, dan mengirimkan kartu satu-per-satu ke setiap peminta.
 
-Since it was taking too much of the designers' time to deliver the cards by themselves, we
-facilitated by adding a new subsection: card deliverer.
+Karena hal ini memakan waktu yang sangat banyak untuk desainer menyelesaikan satu pekerjaan, kami
+sudah memfasilitasi dengan membuat baru subseksi: *card deliverer* (pengirim kartu).
 
-However, in some cases, the designer cannot finish it in a week and probably will take months to
-complete due to works they need to finish first.
+Akan tetapi, dalam kasus tertentu, desainer tidak dapat menyelesaikan pekerjaan dalam seminggu, dan
+mungkin dapat menghabiskan berbulan-bulan dikarenakan hal yang mereka perlu kerjakan terlebih
+dahulu.
 
-Note that most of our club staff are teenagers and undergraduate students, and we focus more on our
-education.
+Harap diingat bahwa kebanyakan dari staf klub kami ialah remaja dan mahasiswa sarjana, dan kami
+memprioritaskan pendidikan kami.
 
-## 😢 What should I do when I didn't receive the card?
+## 😢 Apa yang harus saya lakukan ketika saya tidak menerima kartu?
 
-Before filing a complaint, please check the [Card Delivery Tracking][cardTrack] thread and read the
-instructions stated on the thread.
+Sebelum mengajukan keluhan, silakan periksa *thread* [Card Delivery Tracking][cardTrack] (bahasa
+Inggris) dan baca instruksi yang tertera.
 
-To summarize, by checking the status:
+Ringkasnya, dengan memeriksa status:
 
-* If the status of the designer is 🎨 **designing**, and it has been **less than 2 months** after
-  the thread closed:
-  > Please wait.
-* If the status of the designer is 🎨 **designing**, and it has been **more than or equal to 2
-  month** after the thread closed:
-  > Send a MAL PM to [@nattadasu][nattadasu].
-* If the status of the designer is ✅ **delivered**, but did not receive the card:
-  > Send a MAL PM to the respective designer.
-* If the status of the designer is ❌ **halted**:
-  > Send a MAL PM to [@nattadasu][nattadasu].
+* Jika status desainer 🎨 **designing**, dan sudah **kurang dari 2 bulan** setelah *thread* ditutup:
+  > Mohon tunggu.
+* Jika status desainer 🎨 **designing**, dan sudah **lebih dari atau sama dengan 2 bulan** setelah
+  *thread* ditutup:
+  > Kirimkan PM MAL ke [@nattadasu][nattadasu]
+* Jika status desainer ✅ **delivered**, tetapi tidak dapat kartu:
+  > Kirimkan PM MAL ke staf yang bersangkutan
+* Jika status desainer ❌ **halted**:
+  > Kirimkan PM MAL ke [@nattadasu][nattadasu]
 
-## 🖼️ Where can I put the cards?
+## 🖼️ Dimana saya bisa meletakkan kartu?
 
-As stated earlier on [💳 What is a card](#-what-is-a-card), you can put it wherever you want!
+Seperti yang telah disebutkan di [💳 Apa itu kartu](#-apa-itu-kartu), kamu dapat menaruhnya dimana
+saja!
 
-You can put it on your MAL Blog, Profile Bio, or even create a separate website just for the album.
+Kamu dapat menaruhnya di Blog MAL kamu, Bio Profil, bahkan hingga membuat situs web terpisah khusus
+untuk album koleksi.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -414,32 +462,32 @@ You can put it on your MAL Blog, Profile Bio, or even create a separate website 
 
 <img src="../assets/irasutoya/original/mark_chain_kusari.png" align="left" width="120">
 
-# About: Signature Shortcut
+# Tentang: Pintasan *Signature*
 
-## 🔗 Can I ask the deliverer to look up the delivery link on my forum signature?
+## 🔗 Dapatkah saya meminta staf untuk menggunakan tautan pengiriman pada *signature* forum saya?
 
-**Yes**, you can! But we still recommend you to at least hyperlink "LIS"/"Blog Post" to your
-respective delivery blog instead.
+**Tentu saja** kamu boleh! Akan tetapi kami tetap merekomendasi kamu untuk setidaknya menautkan
+jawaban di kolom "Deliver to" dengan tautan blog pengiriman kamu.
 
-## 📜 Is there any guideline for it?
+## 📜 Apakah ada pedoman?
 
-We have guides for it, but it is most likely common sense or gives the designer/deliverer more
-accessibility.
+Kami memiliki pedoman untuk ini, tetapi hal ini merupakan *common sense* atau memberikan
+desainer/pengirim lebih banyak aksesibilitas.
 
-If you are interested to know more, read the guide below:
+Jika kamu tertarik mengetahuinya, silakan baca pedoman berikut:
 
-* The link should be on the left side of the signature content.
-* If the link to the blog was hyperlinked into the signature image:
-  * If you have multiple hyperlinked images OR if the image was split into several parts, you **must
-    explicitly state** which one is the correct link by adding text into the image itself, OR you
-    can state the link's location the on comment query.
-  * If you only have one image, you are not required to state the location.
-* Link to blog that hyperlinked into text **must**:
-  * Visible by any background, white and dark.
-    > The lightness of the color must not be below 25% and above 90%.
-  * Avoid font size below 40% of MyAnimeList's 13px.
-  * Avoid any *fancy* font style to ensure Unicode compatibility on the designer/deliverer's end
-    machine.
+* Tautan harus terletak di bagian kiri dari konten *signature*.
+* Jika tautan ke blog ditautkan ke gambar *signature*:
+  * Jika kamu memiliki beberapa gambar bertaut ATAU jika gambar terdiri dari beberapa bagian, kamu
+    **mesti menyatakan secara jelas** gambar bertaut mana yang benar pada gambar tersebut, ATAU kamu
+    dapat menyatakan melalui kolom komentar.
+  * Jika kamu hanya memiliki satu gambar, kamu tidak diperlukan untuk menyatakan lokasi.
+* Teks bertaut ke blog **mesti**:
+  * Terlihat di latar belakang apapun, terang dan gelap.
+    > Pencahayaan (*lightness*) warna mesti tidak boleh dibawah 25% dan di atas 90%.
+  * Menghindari ukuran fon dibawah 40% dari *default* MyAnimeList yakni 13px.
+  * Menghindari segala gaya fon *fancy* untuk memastikan kompatibilitas Unicode pada gawai
+    desainer/pengirim.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -447,41 +495,40 @@ If you are interested to know more, read the guide below:
 
 <img src="../assets/irasutoya/original/senkyo_bako.png" align="left" width="80">
 
-# About: Suggestion
+# Tentang: Saran
 
-## 🗳️ What is the edition suggestion?
+## 🗳️ Apa itu saran edisi?
 
-Edition suggestion is a suggestion to help us which topic will be released next.
+Saran edisi adalah saran yang membantu kami topik apa yang akan dirilis nantinya.
 
-The suggestion field is open for everyone, including staff, and each of them can suggest one
-topic/title per submission.
+Kolom saran terbuka untuk semuanya, termasuk staff, dan setiap satu orang dapat menyarankan satu
+topik/judul per permintaan.
 
-## ✍ Which one can I suggest to the team?
+## ✍ Yang mana yang bisa saya sarankan kepada tim?
 
 <img src="../assets/irasutoya/original/touhyou_man.png" width="200" align="right">
 
-We accept anything!<sup><a href="#fn5">5</a></sup>
+Kami menerima apapun!<sup><a href="#fn5">5</a></sup>
 
-You can suggest **one** of your favorite anime/manga titles, directors, voice actors, events, or
-even general topics. <!-- pun unintended, ngl. -->
+Kamu dapat menyarankan **satu** dari anime/manga favorit, sutradara, pengisi suara (seiyuu),
+acara/peringatan, atau bahkan topik umum.
 
-Please note that the chances we pick specific director's/VA's works are very low, aas we embrace the
-idea of introducing animanga and Japanese culture to newcomers.
+Perlu diingat bahwa peluang kami untuk mengambil karya sutradara/seiyuu sangat minim, karena kami
+lebih mengutamakan dalam mengenalkan budaya animanga dan Jepang ke pendatang baru.
 
-## 🙋‍♂️ Can I suggest more than one title/subject in one reply/request?
+## 🙋‍♂️ Bisakah saya menyarankan lebih dari satu judul/topik dalam satu permintaan?
 
-Unfortunately, **no**. We want to be as fair as possible, and considering this club's primary
-purpose, this is our approach.
+Sayangnya **tidak**. Kami ingin seadil mungkin, dan mengingat tujuan utama klub ini, inilah langkah
+yang kami ambil.
 
-## 🕔 How long will the suggested edition take to be released?
+## 🕔 Berapa lama edisi yang disarankan bakal dirilis?
 
-According to the *demand rate theory*, the more people want it (demand), the less time it takes to
-release the edition; thus, the rate is greater.
+Berdasarkan *teori tingkat permintaan*, semakin banyak orang yang menginginkannya, semakin cepat
+waktu yang dibutuhkan untuk merilis edisi; maka, tingkat semakin besar.
 
-Due to how we implement the system, it is a little bit different.
+Dikarenakan bagaimana kami mengimplementasi sistem, ada sedikit perbedaan.
 
-In TNC, there are three steps before the edition release, and it is happens after the second edition
-is released to the public:
+Di TNC, ada 3 langkah sebelum edisi rilis, dan ini terjadi setelah edisi kedua dirilis ke publik:
 
 1. Requesters suggested the editions up to the minimum threshold.
    > The minimum threshold may vary by the general topic and/or audience of the suggestion is.
@@ -638,13 +685,15 @@ they have a slip card store.
 
 # Footnotes
 
-1. <a id="fn1"></a> [Keywords for use in RFCs to Indicate Requirement Levels][rfc2119]
-2. <a id="fn2"></a> [The Newbie Club Discussion - FAQs][faq]
-3. <a id="fn3"></a> [TY answers regarding cards][tyDiscord]
-4. <a id="fn4"></a> [\[CARDS\] \[CLOSED\] 🎃 TNC X HNE Halloween Collab][tncCollab]
-5. <a id="fn5"></a> It must be inside ACG (Animation, Comic, Game) and Japanese culture.
-6. <a id="fn6"></a> 1 person requested that particular edition in each release, and assuming the
-   threshold is 10.
+1. <a id="fn1"></a>
+   [Kata kunci untuk digunakan dalam RFC untuk menunjukkan tingkat persyaratan][rfc2119] (Bahasa
+   Inggris)
+2. <a id="fn2"></a> [The Newbie Club Discussion - FAQs][faq] (Bahasa Inggris)
+3. <a id="fn3"></a> [Jawaban TY tentang kartu][tyDiscord] (Bahasa Inggris)
+4. <a id="fn4"></a> [\[CARDS\] \[CLOSED\] 🎃 TNC X HNE Halloween Collab][tncCollab] (Bahasa Inggris)
+5. <a id="fn5"></a> Mesti di dalam ACG (animasi, komik, permainan) dan budaya Jepang.
+6. <a id="fn6"></a> 1 orang meminta edisi tertentu di setiap rilis, dan dengan asumsi ambang adalah
+   10.
 
 <!-- LINKS -->
 [cardTrack]: https://myanimelist.net/forum/?topicid=1981019
