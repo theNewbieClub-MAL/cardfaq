@@ -37,4 +37,4 @@ jobs:
           commit_message: Update PDF
           commit_options: --allow-empty
           file_pattern: .
-          branch: master
+          branch: main
