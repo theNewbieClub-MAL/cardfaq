@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD041 MD034 MD027 MD013 -->
+<!-- markdownlint-disable MD041 MD034 MD027 MD013 MD035 -->
 <!-- cSpell:ignore aisatsu, boushi, kangaechu, kouji, nimotsu, saikoro, sekaichizu, shinnen, takujou, touhyou, yuudoubou, chuui, senkyo -->
 
 <!-- CARDFAQ:PAGE 1 /-->
@@ -467,7 +467,7 @@ We accept anything!<sup><a href="#fn5">5</a></sup>
 You can suggest **one** of your favorite anime/manga titles, directors, voice actors, events, or
 even general topics. <!-- pun unintended, ngl. -->
 
-Please note that the chances we pick specific director's/VA's works are very low, aas we embrace the
+Please note that the chances we pick specific director's/VA's works are very low, as we embrace the
 idea of introducing animanga and Japanese culture to newcomers.
 
 ## 🙋‍♂️ Can I suggest more than one title/subject in one reply/request?
