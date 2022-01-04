@@ -15,9 +15,11 @@
     "editor.rulers": [
       100
     ],
+    "editor.unicodeHighlight.invisibleCharacters": false,
   },
   "[bbcode]": {
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "editor.unicodeHighlight.invisibleCharacters": false,
   },
   "files.associations": {
     "ATTRIBUTION": "yaml",
