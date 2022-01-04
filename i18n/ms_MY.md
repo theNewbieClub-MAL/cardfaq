@@ -9,48 +9,47 @@
   <a href="https://myanimelist.net/profile/Yes_Im_Lumzing">@Yes_Im_Lumzing</a>
 </em></sup>
 
-# Panduan dan FAQ Kartu The Newbie Club
+# Panduan dan Soalan Lazim Kad The Newbie Club
 
-## 💬 Pengantar
+## 💬 Pengenalan
 
 <img src="../assets/irasutoya/original/aisatsu_boushi_nimotsu.png" width="150" align="right">
 
-**Selamat datang di Panduan The Newbie Club untuk permintaan kartu dan pertanyaan yang sering
-ditanyakan.**
+**Selamat datang ke Panduan The Newbie Club untuk permintaan kad dan soalan lazim.**
 
-Dokumen ini akan membantu kamu dalam meminta kartu di klub ini dan beserta pertanyaan yang mungkin
+Dokumen ini akan membantu anda meminta kad di kelab ini dan bersama-sama dengan soalan yang mungkin
 sering ditanya.
 
-Untuk memulai, silakan baca konten di bawah satu per satu.
+Untuk memulakan, sila baca kandungan di bawah satu persatu.
 
-*Kami menyarankan kamu menggunakan versi* desktop *untuk pengalaman membaca yang lebih baik.*
+*Anda digalakkan menggunakan versi desktop untuk pengalaman membaca yang lebih baik.*
 
 <img src="../assets/irasutoya/original/sekaichizu.png" width="200" align="left">
 
 ### 🌐 Terjemahan
 
-Kami juga menyediakan terjemahan untuk karya ini.Untuk membaca ini dalam bahasa kamu, kunjungi
+Kami juga menyediakan terjemahan untuk dokumen ini. Untuk membaca ini dalam bahasa anda, lawati
 [languageContent.md][i18n].
 
 <br /><br />
 
-## 📃 Daftar Isi
+## 📃 Senarai Kandungan
 
 <!-- cSpell:disable -->
 
-<details><summary>Lihat daftar isi</summary>
+<details><summary>Lihat senarai kandungan</summary>
 
-* [Panduan dan FAQ Kartu The Newbie Club](#panduan-dan-faq-kartu-the-newbie-club)
-  * [💬 Pengantar](#-pengantar)
+* [Panduan dan Soalan Lazim Kad The Newbie Club](#panduan-dan-soalan-lazim-kad-the-newbie-club)
+  * [💬 Pengenalan](#-pengenalan)
     * [🌐 Terjemahan](#-terjemahan)
-  * [📃 Daftar Isi](#-daftar-isi)
+  * [📃 Senarai Kandungan](#-senarai-kandungan)
   * [🎉 Ucapan Terima Kasih](#-ucapan-terima-kasih)
-  * [⚖️ Hukum](#️-hukum)
-* [Tentang: Kartu](#tentang-kartu)
-  * [💳 Apa itu kartu?](#-apa-itu-kartu)
-  * [✉️ Bagaimana cara mendapatkan kartu?](#️-bagaimana-cara-mendapatkan-kartu)
-  * [❓ Apa teks acak di dalam kurung kotak ini?](#-apa-teks-acak-di-dalam-kurung-kotak-ini)
-  * [🤔 Bisakah saya menghapus "pertanyaan" di formulir itu?](#-bisakah-saya-menghapus-pertanyaan-di-formulir-itu)
+  * [⚖️ Undang-Undang](#️-undang-undang)
+* [Tentang: Kad](#tentang-kad)
+  * [💳 Apakah kad itu?](#-apakah-kad-itu)
+  * [✉️ Bagaimana anda mendapat kad?](#️-bagaimana-anda-mendapat-kad)
+  * [❓ Apakah teks rawak dalam kurungan kotak ini?](#-apakah-teks-rawak-dalam-kurungan-kotak-ini)
+  * [🤔 Boleh saya memadamkan "pertanyaan" pada borang itu?](#-boleh-saya-memadamkan-pertanyaan-pada-borang-itu)
   * [↩️ Bisakah saya mendapatkan kartu dari edisi sebelumnya?](#️-bisakah-saya-mendapatkan-kartu-dari-edisi-sebelumnya)
   * [🉑 Apakah saya masih memiliki kesempatan untuk mendapatkan kartu jika saya mengirim permintaan setelah batas permintaan dan/atau setelah tenggat waktu?](#-apakah-saya-masih-memiliki-kesempatan-untuk-mendapatkan-kartu-jika-saya-mengirim-permintaan-setelah-batas-permintaan-danatau-setelah-tenggat-waktu)
 * [Tentang: Limit](#tentang-limit)
@@ -113,18 +112,17 @@ yang terbaik!
 * [Tachiiiii](https://myanimelist.net/profile/Tachiiiii) — Proofread
 * [Yes_Im_Lumzing](https://myanimelist.net/profile/Yes_Im_Lumzing) — Proofread
 
-## ⚖️ Hukum
+## ⚖️ Undang-Undang
 
 <img src="../assets/irasutoya/original/auction_hammer.png" align="right" width="150">
 
 Kata kunci `MESTI`, `MESTI TIDAK`, `DIPERLUKAN`, `HARUS`, `HARUS TIDAK`, `SEBAIKNYA`,
-`SEBAIKNYA TIDAK`, `DISARANKAN`, `MUNGKIN`, dan `OPSIONAL` Dalam dokumen ini harus diartikan
-sebagaimana dijelaskan dalam RFC 2119.<sup><a href="#fn1">1</a></sup>
+`SEBAIKNYA TIDAK`, `DISYORKAN`, `MUNGKIN`, dan `PILIHAN` dalam dokumen ini mesti ditafsirkan
+seperti yang dijelaskan dalam RFC 2119.<sup><a href="#fn1">1</a></sup>
 
-Karya ini dipublikasikan di bawah lisensi [Creative Commons Atribusi (BY) 4.0][CCBY40].
+Dokumen ini diterbitkan di bawah lesen [Creative Commons Atribusi (BY) 4.0][CCBY40].
 
-*Clip art* dalam karya ini merupakan materi berhak cipta yang digunakan di bawah tujuan
-non-komersial.
+*Clip art* dalam karya ini adalah bahan berhak cipta yang digunakan di bawah tujuan bukan komersil.
 
 <!-- START: DO NOT TRANSLATE THIS COPYRIGHT NOTICE -->
 **COPYRIGHT © 2021 Irasutoya. All Rights Reserved.**\
@@ -139,55 +137,57 @@ Homepage/ホームページ: https://irasutoya.com
 
 <img src="../assets/irasutoya/original/money_ic_card.png" align="left" width="125">
 
-# Tentang: Kartu
+# Tentang: Kad
 
-## 💳 Apa itu kartu?
+## 💳 Apakah kad itu?
 
 <img src="../assets/irasutoya/original/job_illustrator_pc_man.png" align="right" width="200">
 
-**Kartu** adalah suatu hal dalam klub MyAnimeList yang sama sekali tidak memiliki tujuan yang
-konkrit, akan tetapi lebih mengarah ke koleksi yang mana kamu bisa simpan, memamerkan di *post blog
-MAL*, *memajangnya* di profil MAL kamu, *signature* forum kamu, dll.
+**Kad** adalah sesuatu di kelab MyAnimeList yang sama sekali tidak mempunyai tujuan konkrit, tetapi
+ia lebih ditujukan kepada koleksi di mana anda boleh menyimpan, mempamerkan di post blog MAL,
+profile MAL anda, signature forum anda dan lain-lain.
 
-Kami tidak tahu dengan pasti mengapa koleksi kartu menjadi suatu hal sekaligus di klub-klub lainnya.
+Kami tidak tahu pasti mengapa koleksi kad adalah satu perkara sekaligus di kelab-kelab lain.
 
-Anggota mengoleksi kartu karena alasan berikut:
+Ahli mengumpul kad untuk sebab-sebab berikut:
 
-1. Memarkan di blog.
-2. Demi memiliki koleksi.
-3. Menggagumi kartu yang dibuat oleh desainer yang berbeda.
+1. Memamerkan di blog.
+2. Demi mempunyai koleksi.
+3. Mengagumi kad yang yang dibuat oleh pereka yang berbeza.
 
-Desain kartu yang akan kamu dapatkan adalah sama dengan apa yang kamu minta, tetapi dengan nama
-pengguna kamu di dalamnya.<sup><a href="#fn3">3</a></sup>
+Reka bentuk kad yang akan anda dapatkan adalah sama seperti yang anda minta, tetapi dengan nama
+pengguna anda di dalamnya.<sup><a href="#fn3">3</a></sup>
 
-## ✉️ Bagaimana cara mendapatkan kartu?
+## ✉️ Bagaimana anda mendapat kad?
 <!-- markdownlint-disable MD032 -->
-Meminta kartu di TNC mudah dan dapat dilakukan dengan mengikuti langkah-langkah ini:
+
+Meminta kad di TNC mudah dan boleh dilakukan dengan mengikuti langkah-langkah berikut:
 
 <img src="../assets/irasutoya/original/computer_mail.png" align="right" width="200">
 
-* **Pastikan edisi masih buka.**
-  > Kamu dapat memastikan hanya dengan membaca judul *thread* forum. Jika tertulis `[CLOSED]` atau
-  > `[HALTED]`, maka kamu sedang tidak beruntung. ;-;
-* **Baca instruksi dan aturan yang ada di *thread* edisi dengan hati-hati.**
-  > Instruksi ini akan membantu Anda meminta kartu sambil mematuhi aturan.
-1. Salin formulir yang sudah dilampirkan di *thread* edisi.
-   > Dalam kasus tertentu, pengguna diminta untuk **tidak mengubah** templat sama sekali.
-2. Tuju ke bagian bawah/atas *thread*, dan cari tombol/tautan "Post New Reply" atau "Quick Reply,"
-   dan klik untuk membalas.
-3. Tempel formulir ke kotak teks, dan isi formulir berdasarkan apa yang disarankan oleh instruksi.
-   > Pastikan jumlah total kartu yang Anda minta dari setiap staf tidak melebihi batas yang ditentukan.
-4. Kirimkan permintaan.
-5. Kamu selesai!
+* **Pastikan edisi masih terbuka.**
+  > Anda boleh mengesahkan hanya dengan membaca Tajuk Forum edisi. Jika ia ditulis `[CLOSED]` atau
+  > `[HALTED]`, maka anda tidak bernasib baik. ;-;
+* **Baca arahan dan peraturan dalam thread edisi dengan berhati-hati.**
+  > Arahan ini akan membantu anda meminta Kad semasa mematuhi peraturan.
+1. Salin borang yang telah dilampirkan dalam thread edisi.
+   > Dalam kes-kes tertentu, pengguna diminta untuk **tidak menukar** templat sama sekali.
+2. Pergi ke bawah/atas thread, dan cari butang "Post New Reply" atau "Quick Reply," dan klik untuk
+   membalas.
+3. Tampalkan borang ke kotak teks, dan isikan borang berdasarkan apa yang digalakkan oleh arahan.
+   > Pastikan jumlah kad yang anda minta daripada setiap kakitangan tidak melebihi had yang
+   > ditentukan.
+4. Hantar permintaan.
+5. Anda selesai!
 
 <!-- markdownlint-enable MD032 -->
 
-## ❓ Apa teks acak di dalam kurung kotak ini?
+## ❓ Apakah teks rawak dalam kurungan kotak ini?
 
-"Kode" yang kamu lihat itu dikenal sebagai tag BBCode. Bisa dikatakan kalau itu adalah instruksi
-untuk memberi tahu MyAnimeList teks mana yang ingin diformat.
+"Kod" yang anda lihat dikenali sebagai tag BBCode. Boleh dikatakan jika ia adalah arahan untuk
+memberitahu MyAnimeList teks apa yang anda mahu format.
 
-Contohnya, jika kita mau **menebalkan** teks, maka kita cukup mengetik:
+Sebagai contoh, jika kita mahu **menebal** teks, maka kita menaip cukup:
 
 ```css
 [b]tebal[/b]
@@ -199,7 +199,7 @@ Kamu dapat mempelajari BBCode lebih lanjut dari:
 * [Tips Format Resmi MyAnimeList][malBBCode]
 * [Petunjuk BBCode oleh Shishio (dengan video)][shishioBBCode]
 
-## 🤔 Bisakah saya menghapus "pertanyaan" di formulir itu?
+## 🤔 Boleh saya memadamkan "pertanyaan" pada borang itu?
 
 <img src="../assets/irasutoya/original/dame_man.png" align="left" width="125">
 
@@ -317,7 +317,7 @@ Berikut adalah peraturan, terjemahan, beserta penjelasan lebih lanjut:
 1. Request your cards by <u>commenting on this forum thread</u> and using a list number instead of
    naming the card.
    > **Terjemahan:**\
-   > Minta kartu Anda dengan mengomentar di *thread* forum ini dan menggunakan nomor daftar
+   > Minta kartu Anda dengan mengomentar di thread forum ini dan menggunakan nomor daftar
    > ketimbang menamai kartunya.
    >
    > ***********************************************************************************************
@@ -434,15 +434,15 @@ memprioritaskan pendidikan kami.
 
 ## 😢 Apa yang harus saya lakukan ketika saya tidak menerima kartu?
 
-Sebelum mengajukan keluhan, silakan periksa *thread* [Card Delivery Tracking][cardTrack] (bahasa
+Sebelum mengajukan keluhan, silakan periksa thread [Card Delivery Tracking][cardTrack] (bahasa
 Inggris) dan baca instruksi yang tertera.
 
 Ringkasnya, dengan memeriksa status:
 
-* Jika status desainer 🎨 **designing**, dan sudah **kurang dari 2 bulan** setelah *thread* ditutup:
+* Jika status desainer 🎨 **designing**, dan sudah **kurang dari 2 bulan** setelah thread ditutup:
   > Mohon tunggu.
 * Jika status desainer 🎨 **designing**, dan sudah **lebih dari atau sama dengan 2 bulan** setelah
-  *thread* ditutup:
+  thread ditutup:
   > Kirimkan PM MAL ke [@nattadasu][nattadasu]
 * Jika status desainer ✅ **delivered**, tetapi tidak dapat kartu:
   > Kirimkan PM MAL ke staf yang bersangkutan
