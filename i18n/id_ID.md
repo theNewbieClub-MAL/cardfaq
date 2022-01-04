@@ -64,33 +64,33 @@ Kami juga menyediakan terjemahan untuk karya ini.Untuk membaca ini dalam bahasa 
 * [Tentang: Penegakan Peratuan](#tentang-penegakan-peratuan)
   * [📕 Peraturan apa saja untuk meminta kartu? Apa bisa dijelaskan lebih lanjut?](#-peraturan-apa-saja-untuk-meminta-kartu-apa-bisa-dijelaskan-lebih-lanjut)
   * [⚠️ Mengapa salah satu staf mengirimi saya peringatan melalui PM?](#️-mengapa-salah-satu-staf-mengirimi-saya-peringatan-melalui-pm)
-  * [🚶‍♂️ Saya melihat seseorang *melewati* limit dengan menambahkan plus (+), apa itu?](#️-saya-melihat-seseorang-melewati-limit-dengan-menambahkan-plus--apa-itu)
-  * [🕵️‍♂️ Saya memiliki masalah dengan satu kartu atau lebih, ke siapa saya dapat bertanya?](#️️-saya-memiliki-masalah-dengan-satu-kartu-atau-lebih-ke-siapa-saya-dapat-bertanya)
-  * [🙅‍♂️ Konten saya digunakan tanpa izin; Ke siapa saya dapat mengajukan permintaan *takedown*?](#️-konten-saya-digunakan-tanpa-izin-ke-siapa-saya-dapat-mengajukan-permintaan-takedown)
+  * [🚶‍♂️ Saya melihat seseorang *melewati* limit dengan menambahkan simbol tambah (+), apa itu?](#️-saya-melihat-seseorang-melewati-limit-dengan-menambahkan-simbol-tambah--apa-itu)
+  * [🕵️‍♂️ Saya memiliki masalah dengan satu kartu atau lebih, kepada siapa saya dapat bertanya?](#️️-saya-memiliki-masalah-dengan-satu-kartu-atau-lebih-kepada-siapa-saya-dapat-bertanya)
+  * [🙅‍♂️ Konten saya digunakan tanpa izin; Kepada siapa saya dapat mengajukan permintaan *takedown*?](#️-konten-saya-digunakan-tanpa-izin-kepada-siapa-saya-dapat-mengajukan-permintaan-takedown)
 * [Tentang: Pengiriman dan Penggunaan](#tentang-pengiriman-dan-penggunaan)
   * [🚛 Kapan saya bisa mendapatkan kartu saya?](#-kapan-saya-bisa-mendapatkan-kartu-saya)
   * [😢 Apa yang harus saya lakukan ketika saya tidak menerima kartu?](#-apa-yang-harus-saya-lakukan-ketika-saya-tidak-menerima-kartu)
   * [🖼️ Dimana saya bisa meletakkan kartu?](#️-dimana-saya-bisa-meletakkan-kartu)
 * [Tentang: Pintasan *Signature*](#tentang-pintasan-signature)
   * [🔗 Dapatkah saya meminta staf untuk menggunakan tautan pengiriman pada *signature* forum saya?](#-dapatkah-saya-meminta-staf-untuk-menggunakan-tautan-pengiriman-pada-signature-forum-saya)
-  * [📜 Apakah ada pedoman?](#-apakah-ada-pedoman)
+  * [📜 Apa ada pedoman untuk hal ini?](#-apa-ada-pedoman-untuk-hal-ini)
 * [Tentang: Saran](#tentang-saran)
   * [🗳️ Apa itu saran edisi?](#️-apa-itu-saran-edisi)
-  * [✍ Yang mana yang bisa saya sarankan kepada tim?](#-yang-mana-yang-bisa-saya-sarankan-kepada-tim)
+  * [✍ Apa saja yang bisa saya sarankan kepada tim?](#-apa-saja-yang-bisa-saya-sarankan-kepada-tim)
   * [🙋‍♂️ Bisakah saya menyarankan lebih dari satu judul/topik dalam satu permintaan?](#️-bisakah-saya-menyarankan-lebih-dari-satu-judultopik-dalam-satu-permintaan)
   * [🕔 Berapa lama edisi yang disarankan bakal dirilis?](#-berapa-lama-edisi-yang-disarankan-bakal-dirilis)
-* [About: Miscellaneous](#about-miscellaneous)
-  * [Production](#production)
-    * [🖌️ How does your team create the card?](#️-how-does-your-team-create-the-card)
-    * [🔎 Can I know the technical information to create a card?](#-can-i-know-the-technical-information-to-create-a-card)
-    * [🤖 Writing one-by-one requester's names looks pretty tedious; isn't there any automation to do it?](#-writing-one-by-one-requesters-names-looks-pretty-tedious-isnt-there-any-automation-to-do-it)
-  * [Staff](#staff)
-    * [👥 How can I join as a Designer or Card Deliverer?](#-how-can-i-join-as-a-designer-or-card-deliverer)
-    * [🎖️ I saw an ex-staff get their personalized card for their contribution; Can I apply to get it?](#️-i-saw-an-ex-staff-get-their-personalized-card-for-their-contribution-can-i-apply-to-get-it)
-  * [Slip card](#slip-card)
-    * [➕ What is a slip card?](#-what-is-a-slip-card)
-    * [📬 How to get a slip card?](#-how-to-get-a-slip-card)
-* [Footnotes](#footnotes)
+* [Tentang: Aneka Ragam](#tentang-aneka-ragam)
+  * [Produksi](#produksi)
+    * [🖌️ Bagaimana tim Anda membuat kartu?](#️-bagaimana-tim-anda-membuat-kartu)
+    * [🔎 Bisakah saya mengetahui informasi teknis untuk membuat kartu?](#-bisakah-saya-mengetahui-informasi-teknis-untuk-membuat-kartu)
+    * [🤖 Menulis nama peminta satu-per-satu terlihat sangat melelahkan; Bukannya ada otomasi agar membantu pekerjaan?](#-menulis-nama-peminta-satu-per-satu-terlihat-sangat-melelahkan-bukannya-ada-otomasi-agar-membantu-pekerjaan)
+  * [Staf](#staf)
+    * [👥 Bagaimana saya bisa bergabung sebagai desainer atau pengirim kartu?](#-bagaimana-saya-bisa-bergabung-sebagai-desainer-atau-pengirim-kartu)
+    * [🎖️ Saya melihat mantan staf mendapatkan kartu pribadi mereka atas kontribusi mereka; Bisakah saya mendaftar untuk mendapatkannya?](#️-saya-melihat-mantan-staf-mendapatkan-kartu-pribadi-mereka-atas-kontribusi-mereka-bisakah-saya-mendaftar-untuk-mendapatkannya)
+  * [Kartu slip](#kartu-slip)
+    * [➕ Apa itu kartu slip?](#-apa-itu-kartu-slip)
+    * [📬 Bagaimana cara mendapatkan kartu slip?](#-bagaimana-cara-mendapatkan-kartu-slip)
+* [Catatan Kaki](#catatan-kaki)
 
 </details>
 
@@ -261,7 +261,7 @@ Dengan `x` merupakan jumlah yang dapat kamu ambil, dan `y` adalah jumlah kartu y
 
 Limit permintaan merupakan jumlah maksimum permintaan yang dapat diterima dalam edisi.
 
-Biasanya diatur 100 permintaan/balaasan per edisi.
+Biasanya diatur 100 permintaan/balasan per edisi.
 
 Harap diingat bahwa karena bagaimana MyAnimelist menghitung balasan, kamu dapat menghitungnya dengan
 mengurangi balasan pertama dan kedua (jika ada) dari *thread starter*.
@@ -387,21 +387,22 @@ Berikut adalah peraturan, terjemahan, beserta penjelasan lebih lanjut:
 
 ## ⚠️ Mengapa salah satu staf mengirimi saya peringatan melalui PM?
 
-Kami menemukan eror pada permintaan kamu dan/atau tidak mematuhi peraturan yang tertera di edisi.
+Kami menemukan kesalahan pada permintaan kamu dan/atau tidak mematuhi peraturan yang tertera di
+edisi.
 
 Permintaan kamu mungkin saja sudah disunting oleh kami untuk bot dapat mengerti ATAU dihapus karena
 kartu yang diminta melebihi limit yang diberikan dari staf.
 
-## 🚶‍♂️ Saya melihat seseorang *melewati* limit dengan menambahkan plus (+), apa itu?
+## 🚶‍♂️ Saya melihat seseorang *melewati* limit dengan menambahkan simbol tambah (+), apa itu?
 
 Mereka menggunakan kartu slip di permintaan mereka. Lihat [Kartu Slip](#kartu-slip) untuk
 mempelajari lebih lanjut.
 
-## 🕵️‍♂️ Saya memiliki masalah dengan satu kartu atau lebih, ke siapa saya dapat bertanya?
+## 🕵️‍♂️ Saya memiliki masalah dengan satu kartu atau lebih, kepada siapa saya dapat bertanya?
 
 Silakan kirimkan PM MAL ke [@nattadasu][nattadasu] untuk investigasi lebih lanjut.
 
-## 🙅‍♂️ Konten saya digunakan tanpa izin; Ke siapa saya dapat mengajukan permintaan *takedown*?
+## 🙅‍♂️ Konten saya digunakan tanpa izin; Kepada siapa saya dapat mengajukan permintaan *takedown*?
 
 Silakan ajukan permintaan *takedown* ke [dmca@nattadasu.my.id][mailTo]. Kami akan berusaha sebaik
 mungkin untuk menyelesaikan perkara dalam sehari.
@@ -469,7 +470,7 @@ untuk album koleksi.
 **Tentu saja** kamu boleh! Akan tetapi kami tetap merekomendasi kamu untuk setidaknya menautkan
 jawaban di kolom "Deliver to" dengan tautan blog pengiriman kamu.
 
-## 📜 Apakah ada pedoman?
+## 📜 Apa ada pedoman untuk hal ini?
 
 Kami memiliki pedoman untuk ini, tetapi hal ini merupakan *common sense* atau memberikan
 desainer/pengirim lebih banyak aksesibilitas.
@@ -504,7 +505,7 @@ Saran edisi adalah saran yang membantu kami topik apa yang akan dirilis nantinya
 Kolom saran terbuka untuk semuanya, termasuk staff, dan setiap satu orang dapat menyarankan satu
 topik/judul per permintaan.
 
-## ✍ Yang mana yang bisa saya sarankan kepada tim?
+## ✍ Apa saja yang bisa saya sarankan kepada tim?
 
 <img src="../assets/irasutoya/original/touhyou_man.png" width="200" align="right">
 
@@ -530,25 +531,25 @@ Dikarenakan bagaimana kami mengimplementasi sistem, ada sedikit perbedaan.
 
 Di TNC, ada 3 langkah sebelum edisi rilis, dan ini terjadi setelah edisi kedua dirilis ke publik:
 
-1. Requesters suggested the editions up to the minimum threshold.
-   > The minimum threshold may vary by the general topic and/or audience of the suggestion is.
+1. Para peminta menyarankan edisi hingga ambang minimum.
+   > Ambang minimum bervariasi berdasarkan topik/audiens umum dari saranan itu.
    >
-   > If the suggested topic is a recurring event, the threshold will be skipped and automatically
-   > jump to the second step.
-2. When the threshold is reached, it will be listed as an option for the internal team tally. As the
-   club will hold 2 editions in every month, votes in each tally are 4 up to 6.
-3. Any staff of the graphic designing and delivery team, deputies of each section, and admin of each
-   section will decide which edition will be released. The edition with the most votes will be
-   released in the first week.
-   > Also, staff might not vote the suggestion even if the edition was suggested double or more
-   > times than the minimum threshold.
+   > Jika topik yang disarankan merupakan acara yang berulang, maka pengumpulan berdasarkan ambang
+   > akan dilewati, dan langsung ke langkah kedua.
+2. Ketika ambang tercapai, edisi akan terdaftar sebagai opsi untuk pemungutan suara internal.
+   Dikarenakan klub akan mengadakan 2 edisi tiap bulan, pilihan di setiap surat suara ada 4 hingga
+3. Setiap staf di tim desain grafis dan pengiriman, deputi, dan admin di setiap bagian akan memilih
+   edisi apa yang akan dirilis. Edisi yang memiliki suara terbanyak akan dirilis pada minggu
+   pertama.
+   > Juga, staf mungkin saja tidak memilih saran yang diberikan walaupun edisi tersebut yang
+   > disarankan sudah mencapai dua kali lipat atau lebih dari ambang minimum.
 
-As our suggestion list is growing faster, unfortunately, it will take from 5 months up to a year if
-the demand rate is 0.5/month.<a href="#fn6"><sup>5</sup></a>
+Sebagaimana daftar saran kami terus bertambah cepat, sayangnya, ini dapat menghabiskan 5 bulan
+hingga setahun jika tingkat permintaan yakni 0.5/bulan.<a href="#fn6"><sup>5</sup></a>
 
-We want those suggestions to be released ultimately, but considering the club's primary purpose
-exists, it can't be helped. You could also try suggesting your specific edition suggestion to
-another club whose primary purpose is collecting collectibles.
+Tentu saja kami ingin merilis edisi yang disarankan sebanyak-banyaknya, tetapi mengingat tujuan
+utama klub ini hadir, hal ini tidak dapat dipungkiri. Kamu mungkin bisa mencoba menyarankan edisi
+yang kamu inginkan ke klub lain yang tujuan utamanya ialah untuk mengumpulkan koleksi.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -556,134 +557,141 @@ another club whose primary purpose is collecting collectibles.
 
 <img src="../assets/irasutoya/original/saikoro_3set.png" align="left" width="120">
 
-# About: Miscellaneous
+# Tentang: Aneka Ragam
 
-## Production
+## Produksi
 
 <img src="../assets/irasutoya/original/illustrator.png" width="200" align="right">
 
-### 🖌️ How does your team create the card?
+### 🖌️ Bagaimana tim Anda membuat kartu?
 
-We use Adobe Photoshop for our work, but it's not required.
+Kami menggunakan Adobe Photoshop untuk karya kami, tetapi tidak diperlukan.
 
-We allow staff to use apps other than Photoshop, like Affinity Designer, Krita, GIMP, Paint.NET,
-ibisPaint, etc.
+Kami membolehkan staf untuk menggunkan aplikasi selain Photoshop, seperti Affinity Designer, Krita,
+GIMP, Paint.NET, ibisPaint, etc.
 
-*Heck*, the GFX head himself <!--, @nattadasu, --> uses Microsoft Office PowerPoint to design his
-cards, and barely anyone noticed it.
+Bahkan, ketua GFX sendiri menggunakan Microsoft Office PowerPoint untuk mendesain kartunya, dan
+hampir tidak ada satupun nyang menyadarinya.
 
-### 🔎 Can I know the technical information to create a card?
+### 🔎 Bisakah saya mengetahui informasi teknis untuk membuat kartu?
 
-Sure!
+Tentu saja!
 
-We use this configuration for our cards:
+Kami menggunakan konfigurasi ini untuk kartu kami:
 
-* Allowed file format for card: PNG, A-PNG (Animated PNG), GIF, and JPEG. However, PNG is
-  recommended.
-* Ratio (orientation) can be landscape, portrait, or square (1:1).
-* Resolution/size for the card can not exceed, based on orientation:
-  * Landscape: 360x240px (3:2).
-  * Portrait: 240x360px (2:3).
-  * Square: 240x240px (1:1).
-    > **Note:**\
-    > Create your card with twice of resolution on your draft, and then rescale it back. This
-    > method is to avoid any detail loss after you create it.
-* Recommended using 300dpi, minimum 90dpi.
-* The card should *at least* contain 3 (three) text fields/spaces:
-  1. **Edition name**, e.g., "School Edition."
-  2. **Club Name**, e.g., "The Newbie Club" or "TNC."
-  3. **Username/Nickname**, This will be where we write the names of people who requested cards
-     from the edition before delivering them.
+* Format berkas yang dibolehkan untuk kartu: PNG, A-PNG (PNG Animasi), GIF, dan JPEG. PNG
+  disarankan.
+* Rasio (orientasi) bisa melebar (*landscape*), memanjang (*portrait*), atau kotak.
+* Ukuran/resolusi untuk kartu tidak boleh lebih, berdasarkan orientasi:
+  * Melebar: 360x240px (3:2).
+  * Memanjang: 240x360px (2:3).
+  * Kotak: 240x240 (1:1).
+    > **NB:**\
+    > Buatlah kartu dengan resolusi dua kali lebih besar untuk draf kamu, lalu ubah ukurannya
+    > kembali. Metode ini digunakan untuk menghindari hilangnya detail pada saat kamu selesai
+    > membuat.
+* Disarankan menggunakan 300dpi, minimum 90dpi.
+* Kartu harus memiliki *kurang lebih* 3 kolom teks:
+  1. **Nama edisi**, contoh, "*School Edition*."
+  2. **Nama klub**, contoh, "The Newbie Club" atau "TNC."
+  3. **Nama pengguna/panggilan**. Di sinilah tempat yang mana kami tulis nama orang-orang yang
+     meminta kartu dalam edisi sebelum mengirimkannya.
 
-Visit [The Newbie Club's GFX Encyclopedia][encyclopedia] if you want to learn more.
+Kunjungi [Ensiklopedi GFX The Newbie Club][encyclopedia] untuk mempelajari lebih lanjut.
 
 <img src="../assets/irasutoya/original/ai_computer_sousa_robot.png" width="210" align="left">
 
-### 🤖 Writing one-by-one requester's names looks pretty tedious; isn't there any automation to do it?
+### 🤖 Menulis nama peminta satu-per-satu terlihat sangat melelahkan; Bukannya ada otomasi agar membantu pekerjaan?
 
-As you expect, **yes**, there is an automation method to ease creating cards.
+Seperti yang kamu pikirkan, **iya**, kami memiliki paduan otomasi untuk memudahkan dalam membuat
+kartu.
 
-However, this method is currently limited to Adobe Photoshop. We can't find any automation feature
-or script for another program.
+Tetapi, paduan tersebut terbatas untuk Adobe Photoshop untuk sementara waktu. Kami tidak dapat
+menemukan fitur otomasi ataupun skrip untuk aplikasi lainnya.
 
-Visit [The Newbie Club's GFX Encyclopedia][encyclopedia] if you want to learn more.
+Kunjungi [Ensiklopedi GFX The Newbie Club][encyclopedia] untuk mempelajari lebih lanjut.
 
-## Staff
+## Staf
 
 <img src="../assets/irasutoya/original/job_staff_jumper_man.png" width="150" align="right">
 
-### 👥 How can I join as a Designer or Card Deliverer?
+### 👥 Bagaimana saya bisa bergabung sebagai desainer atau pengirim kartu?
 
-Thanks for your interest!
+Terimakasih untuk ketertarikannya!
 
-Please head out to [Application Thread][staffRecruitment] if you want to join our team.
+Silakan tuju ke [*Thread* Aplikasi][staffRecruitment] (Bahasa Inggris) jika kamu ingin bergabung ke
+tim kami.
 
-### 🎖️ I saw an ex-staff get their personalized card for their contribution; Can I apply to get it?
+### 🎖️ Saya melihat mantan staf mendapatkan kartu pribadi mereka atas kontribusi mereka; Bisakah saya mendaftar untuk mendapatkannya?
 
-**Yes**, you can!
+**Kamu bisa!**
 
-However, we have some requirements that need to be fulfilled by the ex-staff before getting the
-honor card:
+Namun, kami memiliki beberapa persyaratan yang perlu dipenuhi oleh mantan staf sebelum mendapatkan
+kartu kehormatan:
 
-1. User must contribute as TNC Staff in any sections for at least 6 months or older.
-   > Note: This clause will be skipped if the user was an admin or deputy of each section.
-2. User must join the staff-only Discord server (S.S Remaining) during contribution, and have at
-   least 1 message sent to one channel.
-3. Both Discord and MAL accounts must be active/not deleted during and after the contribution.
+1. Kamu mesti telah berkontribusi sebagai staf TNC di bagian apapun untuk setidaknya 6 bulan atau
+   lebih.
+   > Catatan: Ayat ini akan dilewati jika kamu merupakan admin atau deputi di bagian tersebut.
+2. Kamu mesti telah bergabung ke peladen (*server*) Discord khusus staf (S.S Remaining) semasa
+   kontribusi, dan setidaknya telah mengirimkan 1 pesan di satu kanal.
+3. Kedua akun Discord dan MAL mesti aktif/tidak dihapus semasa dan sesudah kontribusi.
 
-To apply, please send a MAL PM to [@nattadasu][nattadasu] with the title "Honor Card Application"
-and attach the requirements stated below:
+Untuk mendaftar, silakan kirim PM MAL ke [@nattadasu][nattadasu] dengan judul pesan "Aplikasi Kartu
+Kehormatan" dan lampirkan persyaratan yang disebutkan berikut.
 
-1. Your current MAL Username and former (if any).
-2. Your current Discord Username and former (if any).
-3. Your Discord User ID.
-   > To get your User ID, please follow the instruction [**here**][discEncyclopediaUserID].
-4. Your former contributed section.
+1. Nama pengguna MAL kamu sekarang dan terdahulu (jika ada).
+2. Nama pengguna Discord kamu sekarang dan terdahulu (jika ada).
+3. Nomor identifikasi pengguna (*user ID*) Discord kamu.
+   > Untuk mengambil nomor identifikasi pengguna, silakan ikuti instruksi
+   > [**di sini**][discEncyclopediaUserID] (Bahasa Inggris).
+4. Bagian yang kamu kontribusi terdahulu.
 
-## Slip card
+## Kartu slip
 
-### ➕ What is a slip card?
+### ➕ Apa itu kartu slip?
 
 <img src="../assets/irasutoya/original/pointcard.png" width="150" align="right">
 
-A slip card is a card that allows requesters to bypass the limit with the specified amount on the
-card itself. You can imagine slip card like a loyalty/membership card applied on stores.
+Kartu slip adalah kartu yang membolehkan peminta untuk melewati limit dengan jumlah yang tertera
+pada kartu itu sendiri. Kamu bisa membayangkan kartu slip seperti kartu *loyalty*/keanggotaan yang
+bisa diambil di toko supermarket.<!-- Kayak Alfamidi -->
 
-The reason why it exists might seem unclear at first glance, but can be understood by looking at the
-pattern of its usage:
+Alasan mengapa itu hadir mungkin terlihat kurang jelas pada awalnya, tetapi bisa dimengerti dengan
+melihat pola penggunaannya, seperti:
 
-1. The requester is a regular *customer*.
-2. The requester adores the design made by individual staff.
-3. They just like to collect cards.
+1. Peminta merupakan pelanggan setia.
+2. Peminta menyukai desain yang dibuat oleh staf tertentu.
+3. Peminta hanya menyukai mengoleksi kartu sebanyak-banyaknya.
 
-On TNC, you can attach your slip card to your request by adding an image inside the spoiler box and
-then explicitly stating if they own a slip card by adding an addition (+) symbol to cards.
+Di TNC, kamu dapat melampirkan kartu slip ke permintaan kamu hanya dengan menambahkan kartu dalam
+kotak spoiler dan menyatakan secara jelas jika kamu memiliki kartu slip dengan menambahkan simbol
+tambah (+) ke permintaan tambahan.
 
-For example:
+Contohnya:
 
 ```css
 [...]
 Natsu: 1, 3 + 5, 7 [spoiler="slip card"][img]https://i.imgur.com/CqaSw61.png[/img][/spoiler]
 ```
 
-The above code snippet will be rendered as:
+Cuplikan kode di atas akan ditampilkan di MAL sebagai:
 
 > Natsu: 1, 3 + 5, 7
 > <details><summary>Show slip card</summary><img src="https://i.imgur.com/CqaSw61.png"></details>
 
-### 📬 How to get a slip card?
+### 📬 Bagaimana cara mendapatkan kartu slip?
 
-You can get the slip card by checking the designer's profile. The club does not provide a
-first-party slip card store, and you must check it manually.
+Kamu bisa mendapatkan kartu slip dengan memeriksa profil desainer. Klub tidak menyediakan toko kartu
+slip pihak pertama, dan Kamu harus memeriksanya secara manual.
 
-To ease the progress, check any links given by the designer/deliverer in their delivery message if
-they have a slip card store.
+Untuk memudahkan pencarian, periksa tautan apa pun yang diberikan oleh desainer/pengirim kartu dalam
+pesan pengiriman mereka jika mereka memiliki toko kartu slip.
 
 ----------------------------------------------------------------------------------------------------
 
 <!-- CARDFAQ:PAGE 10 /-->
 
-# Footnotes
+# Catatan Kaki
 
 1. <a id="fn1"></a>
    [Kata kunci untuk digunakan dalam RFC untuk menunjukkan tingkat persyaratan][rfc2119] (Bahasa
@@ -691,9 +699,9 @@ they have a slip card store.
 2. <a id="fn2"></a> [The Newbie Club Discussion - FAQs][faq] (Bahasa Inggris)
 3. <a id="fn3"></a> [Jawaban TY tentang kartu][tyDiscord] (Bahasa Inggris)
 4. <a id="fn4"></a> [\[CARDS\] \[CLOSED\] 🎃 TNC X HNE Halloween Collab][tncCollab] (Bahasa Inggris)
-5. <a id="fn5"></a> Mesti di dalam ACG (animasi, komik, permainan) dan budaya Jepang.
-6. <a id="fn6"></a> 1 orang meminta edisi tertentu di setiap rilis, dan dengan asumsi ambang adalah
-   10.
+5. <a id="fn5"></a> Mesti di dalam ruang lingkup budaya ACG (animasi, komik, permainan) dan Jepang.
+6. <a id="fn6"></a> 1 orang meminta edisi tertentu di setiap perilisan edisi, dengan asumsi 10
+   adalah ambang.
 
 <!-- LINKS -->
 [cardTrack]: https://myanimelist.net/forum/?topicid=1981019
