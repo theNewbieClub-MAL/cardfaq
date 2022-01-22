@@ -420,7 +420,7 @@ Sayangnya, klub tidak memiliki alamat surel terkhusus untuk sementara waktu.
 ## 🚛 Kapan saya bisa mendapatkan kartu saya?
 
 Biasanya desainer memerlukan waktu seminggu atau lebih untuk menyelesaikan semua permintaan,
-mengunggah berkas, dan mengirimkan kartu satu-per-satu ke setiap peminta.
+mengunggah berkas, dan mengirimkan kartu satu-per-satu ke setiap peminta setelah *thread* ditutup.
 
 Karena hal ini memakan waktu yang sangat banyak untuk desainer menyelesaikan satu pekerjaan, kami
 sudah memfasilitasi dengan membuat baru subseksi: *card deliverer* (pengirim kartu).

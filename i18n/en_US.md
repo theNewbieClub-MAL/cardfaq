@@ -375,7 +375,7 @@ Unfortunately, the club does not have a dedicated email address at the moment.
 ## 🚛 When can I get my cards?
 
 Usually designer requires a week or more to finish all of the request, upload the files, and
-distribute the cards one by one to each requester.
+distribute the cards one by one to each requester after the thread is closed.
 
 Since it was taking too much of the designers' time to deliver the cards by themselves, we
 facilitated by adding a new subsection: card deliverer.
