@@ -50,12 +50,12 @@ Kami juga menyediakan terjemahan untuk dokumen ini. Untuk membaca ini dalam baha
   * [✉️ Bagaimana anda mendapat kad?](#️-bagaimana-anda-mendapat-kad)
   * [❓ Apakah teks rawak dalam kurungan kotak ini?](#-apakah-teks-rawak-dalam-kurungan-kotak-ini)
   * [🤔 Boleh saya memadamkan "pertanyaan" pada borang itu?](#-boleh-saya-memadamkan-pertanyaan-pada-borang-itu)
-  * [↩️ Bisakah saya mendapatkan kartu dari edisi sebelumnya?](#️-bisakah-saya-mendapatkan-kartu-dari-edisi-sebelumnya)
-  * [🉑 Apakah saya masih memiliki kesempatan untuk mendapatkan kartu jika saya mengirim permintaan setelah batas permintaan dan/atau setelah tenggat waktu?](#-apakah-saya-masih-memiliki-kesempatan-untuk-mendapatkan-kartu-jika-saya-mengirim-permintaan-setelah-batas-permintaan-danatau-setelah-tenggat-waktu)
+  * [↩️ Bolehkah saya mendapatkan kad dari edisi sebelumnya?](#️-bolehkah-saya-mendapatkan-kad-dari-edisi-sebelumnya)
+  * [🉑 Adakah saya masih mempunyai peluang untuk mendapatkan kad jika saya menghantar permintaan selepas limit permintaan dan/atau tarikh akhir?](#-adakah-saya-masih-mempunyai-peluang-untuk-mendapatkan-kad-jika-saya-menghantar-permintaan-selepas-limit-permintaan-danatau-tarikh-akhir)
 * [Tentang: Limit](#tentang-limit)
-  * [🛑 Apa itu limit kartu?](#-apa-itu-limit-kartu)
+  * [🛑 Apa itu limit kad?](#-apa-itu-limit-kad)
   * [⛔ Apa itu limit permintaan?](#-apa-itu-limit-permintaan)
-  * [🆙 Mengapa limit kartu untuk staf lebih besar dari anggota reguler?](#-mengapa-limit-kartu-untuk-staf-lebih-besar-dari-anggota-reguler)
+  * [🆙 Kenapa limit kad untuk staf lebih besar daripada anggota?](#-kenapa-limit-kad-untuk-staf-lebih-besar-daripada-anggota)
 * [Tentang: Penjadwalan dan Tema Edisi](#tentang-penjadwalan-dan-tema-edisi)
   * [🗓️ Kapan biasanya edisi dirilis?](#️-kapan-biasanya-edisi-dirilis)
   * [⌚ Berapa lama periode untuk setiap rilis edisi?](#-berapa-lama-periode-untuk-setiap-rilis-edisi)
@@ -149,7 +149,7 @@ profile MAL anda, signature forum anda dan lain-lain.
 
 Kami tidak tahu pasti mengapa koleksi kad adalah satu perkara sekaligus di kelab-kelab lain.
 
-Ahli mengumpul kad untuk sebab-sebab berikut:
+Anggota mengumpul kad untuk sebab-sebab berikut:
 
 1. Memamerkan di blog.
 2. Demi mempunyai koleksi.
@@ -175,8 +175,7 @@ Meminta kad di TNC mudah dan boleh dilakukan dengan mengikuti langkah-langkah be
 2. Pergi ke bawah/atas thread, dan cari butang "Post New Reply" atau "Quick Reply," dan klik untuk
    membalas.
 3. Tampalkan borang ke kotak teks, dan isikan borang berdasarkan apa yang digalakkan oleh arahan.
-   > Pastikan jumlah kad yang anda minta daripada setiap kakitangan tidak melebihi had yang
-   > ditentukan.
+   > Pastikan jumlah kad yang anda minta daripada setiap staf tidak melebihi limit yang ditentukan.
 4. Hantar permintaan.
 5. Anda selesai!
 
@@ -203,25 +202,25 @@ Kamu dapat mempelajari BBCode lebih lanjut dari:
 
 <img src="../assets/irasutoya/original/dame_man.png" align="left" width="125">
 
-Singkat cerita, **tidak bisa**.
+Singkatnya, **tidak boleh**.
 
-Semua pertanyaan yang terdapat di formulir tersebut, terkecuali komentar, saran, dan *feedback*
-(jika ada), diperlukan.
+Semua soalan yang terkandung dalam bentuk, kecuali komen, saranan, dan maklum balas (jika ada),
+diperlukan.
 
-Di The Newbie Club, struktur templat mesti sama dikarenakan implementasi robot.
+Di The Newbie Club, struktur templat mesti serupa disebabkan oleh penggunaan robot.
 
-Akan tetapi, kamu dapat mengosongkan pertanyaan itu untuk menghindari konflik.
+Walau bagaimanapun, anda boleh mengosongkan soalan untuk mengelakkan masalah.
 
-## ↩️ Bisakah saya mendapatkan kartu dari edisi sebelumnya?
+## ↩️ Bolehkah saya mendapatkan kad dari edisi sebelumnya?
 
-**Tidak bisa**. Tidak memungkinkan untuk mendapatkan kartu dari edisi sebelumnya, TERKECUALI jika
-ada *event re-run*.
+**Tidak boleh**. Tidak mungkin untuk mendapatkan kad dari edisi sebelumnya, KECUALI jika terdapat
+acara semula.
 
-Walapun begitu, staf desain bisa saja menggunakan kembali bahasa desain dari edisi sebelumnya.
+Walaupun begitu, staf boleh dapat menggunakan semula bahasa reka bentuk dari edisi sebelumnya.
 
-## 🉑 Apakah saya masih memiliki kesempatan untuk mendapatkan kartu jika saya mengirim permintaan setelah batas permintaan dan/atau setelah tenggat waktu?
+## 🉑 Adakah saya masih mempunyai peluang untuk mendapatkan kad jika saya menghantar permintaan selepas limit permintaan dan/atau tarikh akhir?
 
-**Tidak**. Permintaan kamu akan dinyatakan tidak sah.
+**Tidak**. Permintaan anda akan diisytiharkan tidak sah.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -231,17 +230,17 @@ Walapun begitu, staf desain bisa saja menggunakan kembali bahasa desain dari edi
 
 # Tentang: Limit
 
-## 🛑 Apa itu limit kartu?
+## 🛑 Apa itu limit kad?
 
 <!-- markdownlint-disable MD022 MD024 -->
 
-Limit kartu adalah jumlah maksimum kartu yang dapat diminta oleh anggota untuk setiap staf desain
-ATAU edisi.
+Limit kad adalah bilangan maksimum kad yang boleh diminta oleh anggota untuk setiap staf ATAU edisi.
 
-Biasanya, limit kartu di The Newbie Club diatur per staf. Tapi dalam kasus tertentu, limit diatur
-secara menyeluruh (diterapkan untuk satu  edisi).<sup><a href="#fn4">4</a></sup>
+Biasanya, limit kad di The Newbie Club ditetapkan setiap staf. Tetapi dalam kes-kes tertentu, limit
+ditetapkan secara global (digunakan untuk satu edisi).<sup><a href="#fn4">4</a></sup>
 
-Kamu dapat melihat limit yang diberikan oleh staf di bawah nama mereka, biasanya tertulis seperti:
+Anda boleh melihat limit yang disediakan oleh staf di bawah nama mereka, biasanya ditulis
+seperti:
 > ## Samantha
 > **Member:** `x`/`y`\
 > **Staff:** `x`/`y`
@@ -251,7 +250,7 @@ Atau
 > ## Nicolas
 > **Any:** `x`/`y`
 
-Dengan `x` merupakan jumlah yang dapat kamu ambil, dan `y` adalah jumlah kartu yang tersedia.
+Dengan `X` adalah jumlah yang anda boleh ambil, dan `y` adalah bilangan kad yang ada.
 
 <!-- markdownlint-enable MD022 MD024 -->
 
@@ -259,17 +258,17 @@ Dengan `x` merupakan jumlah yang dapat kamu ambil, dan `y` adalah jumlah kartu y
 
 <img src="../assets/irasutoya/original/businessman2_kangaechu.png" align="right" width="200">
 
-Limit permintaan merupakan jumlah maksimum permintaan yang dapat diterima dalam edisi.
+Limit permintaan adalah bilangan maksimum permintaan yang boleh diterima dalam edisi.
 
-Biasanya diatur 100 permintaan/balasan per edisi.
+Biasanya ditetapkan 100 permintaan/balasan setiap edisi.
 
-Harap diingat bahwa karena bagaimana MyAnimelist menghitung balasan, kamu dapat menghitungnya dengan
-mengurangi balasan pertama dan kedua (jika ada) dari *thread starter*.
+Sila ingat bahawa kerana bagaimana MyAnimeList mengira balasan, anda boleh mengira dengan
+mengurangkan balasan pertama dan kedua (jika ada) dari thread starter.
 
-## 🆙 Mengapa limit kartu untuk staf lebih besar dari anggota reguler?
+## 🆙 Kenapa limit kad untuk staf lebih besar daripada anggota?
 
-Secara singkat: mereka *bekerja* untuk klub, maka hal ini sangat dimaklumi jika mereka ingin kartu
-yang lebih banyak dibandingkan anggota reguler.
+Secara ringkas: Mereka *bekerja* untuk kelab, maka ini sangat mudah difahami jika mereka mahukan
+lebih banyak kad daripada anggota.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -548,7 +547,7 @@ Sebagaimana daftar saran kami terus bertambah cepat, sayangnya, ini dapat mengha
 hingga setahun jika tingkat permintaan yakni 0.5/bulan.<a href="#fn6"><sup>5</sup></a>
 
 Tentu saja kami ingin merilis edisi yang disarankan sebanyak-banyaknya, tetapi mengingat tujuan
-utama klub ini hadir, hal ini tidak dapat dipungkiri. Kamu mungkin bisa mencoba menyarankan edisi
+utama klub ini limitir, hal ini tidak dapat dipungkiri. Kamu mungkin bisa mencoba menyarankan edisi
 yang kamu inginkan ke klub lain yang tujuan utamanya ialah untuk mengumpulkan koleksi.
 
 ----------------------------------------------------------------------------------------------------
@@ -656,7 +655,7 @@ Kartu slip adalah kartu yang membolehkan peminta untuk melewati limit dengan jum
 pada kartu itu sendiri. Kamu bisa membayangkan kartu slip seperti kartu *loyalty*/keanggotaan yang
 bisa diambil di toko supermarket.<!-- Kayak Alfamidi -->
 
-Alasan mengapa itu hadir mungkin terlihat kurang jelas pada awalnya, tetapi bisa dimengerti dengan
+Alasan mengapa itu limitir mungkin terlihat kurang jelas pada awalnya, tetapi bisa dimengerti dengan
 melihat pola penggunaannya, seperti:
 
 1. Peminta merupakan pelanggan setia.
