@@ -109,7 +109,7 @@ yang terbaik!
 * [kunminer123](https://myanimelist.net/profile/kunminer123) — FAQ Provider
 * [RockValRon](https://myanimelist.net/profile/RockValRon) — Proofread
 * [Sp3ctr](https://myanimelist.net/profile/Sp3ctr) — Quality Check &amp; FAQ Provider
-* [Tachiiiii](https://myanimelist.net/profile/Tachiiiii) — Proofread
+* [Tachi_Kun](https://myanimelist.net/profile/Tachi_Kun) — Proofread
 * [Yes_Im_Lumzing](https://myanimelist.net/profile/Yes_Im_Lumzing) — Proofread
 
 ## ⚖️ Undang-Undang
