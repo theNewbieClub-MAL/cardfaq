@@ -34,10 +34,13 @@ of configurations and plugins were set up there. 😔
 * Format the document as if.
 * Do not modify link aliases.
 * You can modify slightly the document overall to accommodate local interpretation.
-* Do not modify timezone, but you can add description in local time and modify styling.
+* Do not modify UTC time, but you can add description in local time and modify styling based on
+  grammatical rule on the language.
   > **Example:**
-  > | Original | Indonesian |
-  > | :------: | :--------: |
-  > | 1:00 PM UTC/GMT+0 | 13.00 UTC/GMT+0 (20.00 WIB) |
+  > | Locale | Culture Code | Time Notation |
+  > | -----: | :----------: | :------------ |
+  > | Original | `en_US` | 1:00 PM UTC/GMT+0 |
+  > | Indonesia | `id_ID` | 13.00 UTC/GMT+0 (20.00 WIB) |
+  > | Japanese | `ja_JP` | 午後13:00（UTC）、午後22:00（JST） |
 * In any links that redirect to a page using foreign language, it is wise to describe what language
   used in the link.
