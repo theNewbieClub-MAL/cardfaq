@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/theNewbieClub-MAL/cardfaq#readme",
   "devDependencies": {
-    "markdownlint-cli": "^0.30.0"
+    "markdownlint-cli": "^0.31.0"
   }
 }
