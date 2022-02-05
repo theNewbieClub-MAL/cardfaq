@@ -108,7 +108,7 @@ Thanks to these incredible people who helped us write this documentation. They a
 * [kunminer123](https://myanimelist.net/profile/kunminer123) — FAQ Provider
 * [RockValRon](https://myanimelist.net/profile/RockValRon) — Proofread
 * [Sp3ctr](https://myanimelist.net/profile/Sp3ctr) — Quality Check &amp; FAQ Provider
-* [Tachiiiii](https://myanimelist.net/profile/Tachiiiii) — Proofread
+* [Tachi_Kun](https://myanimelist.net/profile/Tachi_Kun) — Proofread
 * [Yes_Im_Lumzing](https://myanimelist.net/profile/Yes_Im_Lumzing) — Proofread
 
 ## ⚖️ Legal
@@ -143,9 +143,8 @@ Homepage/ホームページ: https://irasutoya.com
 <img src="../assets/irasutoya/original/job_illustrator_pc_man.png" align="right" width="200">
 
 **Cards** or **card editions** are a club thing that doesn't serve a real purpose, but are rather
-collectibles that you can, for example, just save, show off in a blog post on MAL such as in this
-example here, or display them on your MAL profile, your forum signature,
-etc.<sup><a href="#fn2">2</a></sup>
+collectibles that you can, for example, just save, show off in a blog post on MAL, or display them
+on your MAL profile, your forum signature, etc.<sup><a href="#fn2">2</a></sup>
 
 We don't have a definite answer on how it became a thing but it's in many other clubs as well; this
 is just one of them.
