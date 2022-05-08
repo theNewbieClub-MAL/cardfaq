@@ -69,6 +69,8 @@ We also provide translations for this documentation. To read this in your langua
 * [About: Delivery and Usage](#about-delivery-and-usage)
   * [🚛 When can I get my cards?](#-when-can-i-get-my-cards)
   * [😢 What should I do when I didn't receive the card?](#-what-should-i-do-when-i-didnt-receive-the-card)
+  * [� How can I download the card?](#-how-can-i-download-the-card)
+  * [📥 Somehow I lost/did not download the card, and the link sent by staff is invalid. Where can I look for the archive from club?](#-somehow-i-lostdid-not-download-the-card-and-the-link-sent-by-staff-is-invalid-where-can-i-look-for-the-archive-from-club)
   * [🖼️ Where can I put the cards?](#️-where-can-i-put-the-cards)
 * [About: Signature Shortcut](#about-signature-shortcut)
   * [🔗 Can I ask the deliverer to look up the delivery link on my forum signature?](#-can-i-ask-the-deliverer-to-look-up-the-delivery-link-on-my-forum-signature)
@@ -89,6 +91,12 @@ We also provide translations for this documentation. To read this in your langua
   * [Slip card](#slip-card)
     * [➕ What is a slip card?](#-what-is-a-slip-card)
     * [📬 How to get a slip card?](#-how-to-get-a-slip-card)
+  * [Card Archival Project](#card-archival-project)
+    * [🤔 What is this project on GitHub as repository?](#-what-is-this-project-on-github-as-repository)
+    * [🚶‍♂️ How to navigate the project repo? I am a newcomer on GitHub.](#️-how-to-navigate-the-project-repo-i-am-a-newcomer-on-github)
+      * [Directly using GitHub](#directly-using-github)
+      * [Using mirror site](#using-mirror-site)
+    * [When I visited certain designer's folder, why I saw either .gitkeep or README.md with Attention as title?](#when-i-visited-certain-designers-folder-why-i-saw-either-gitkeep-or-readmemd-with-attention-as-title)
 * [Footnotes](#footnotes)
 
 </details>
@@ -310,7 +318,7 @@ requesting the cards.
 
 Below are the rules of each edition and their definition (if required):
 
-<!-- START: DO NOT TRANSLATE CLAUSES. ONLY DESCRIPTION ALLOWED, FEEL FREE TO ADD EXPLANATIONS -->
+<!-- START: DO NOT TRANSLATE CLAUSES. ONLY DESCRIPTIONS ALLOWED, FEEL FREE TO ADD EXPLANATIONS -->
 
 1. Request your cards by <u>commenting on this forum thread</u> and using a list number instead of
    naming the card.
@@ -334,8 +342,16 @@ Below are the rules of each edition and their definition (if required):
 6. In cases where your username is long and ensure your name fits, it's advised to **leave a short
    name/nickname no more than 12 characters/words**.
    > Most card designs have limited space for text fields, usually only around 12 characters.
-7. **Editions are limited to** *`x`* **requests**, so it's first come, first served!
+7. Nickname is prioritized for card naming than username if filled.
+   > This clause is self-explanatory. We can not accept any complaints if the requester input their
+   > nickname instead of username but wanted their card to be named by their username.
+8. **Editions are limited to** *`x`* **requests**, so it's first come, first served!
    > This clause is self-explanatory.
+9. If you have any question regarding requesting the cards, how it works, or any general questions,
+   please check [Card Guide and FAQ][cardFaq] forum thread.
+   > This clause is self-explanatory.
+10. To check delivery progress, please refer to [Card Delivery Tracking][cardTrack] thread.
+    > This clause is self-explanatory.
 
 <!-- END: TRANSLATION RESTRICTION -->
 
@@ -358,10 +374,8 @@ Please send a MAL PM to [@nattadasu][nattadasu] for further investigation.
 
 ## 🙅‍♂️ My content was being used without permission; where can I submit a takedown request?
 
-Please send a takedown request to [dmca@nattadasu.my.id][mailTo]. We will try our best to take it
-down within a day or earlier.
-
-Unfortunately, the club does not have a dedicated email address at the moment.
+Please send a takedown request to [dmca@thenewbieclub.my.id][mailTo]. We will try our best to take
+it down within a day or earlier.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -399,9 +413,32 @@ To summarize, by checking the status:
   month** after the thread closed:
   > Send a MAL PM to [@nattadasu][nattadasu].
 * If the status of the designer is ✅ **delivered**, but did not receive the card:
-  > Send a MAL PM to the respective designer.
+  >
+  > 1. Try to check the archive status of the card. If it is **archived**, click the link provided
+  >    to jump to the archive page.
+  > 2. Send a MAL PM to the respective designer.
+  >
 * If the status of the designer is ❌ **halted**:
-  > Send a MAL PM to [@nattadasu][nattadasu].
+  > Unfortunately, we cannot help you.
+
+## 💾 How can I download the card?
+
+Depending on where the cards were hosted, you can download the card(s) by:
+
+1. Right-clicking/hold on the card image and select "Save Image As...".
+2. Select "Download" from the context menu/toolbar.
+
+## 📥 Somehow I lost/did not download the card, and the link sent by staff is invalid. Where can I look for the archive from club?
+
+Visit [The Newbie Club's Card Archive][archiveSite] site or [GitHub Repo][archiveRepo] to find the
+card.
+
+Please note that some cards might not archived/be available due to:
+
+* The link is invalid by the time of archive project started (Feb 2022),
+* Cards unable to recovered from designer's end,
+* Repo maintainer unable to contact retired staff about missing cards, or
+* Removed due to copyright infringement.
 
 ## 🖼️ Where can I put the cards?
 
@@ -627,11 +664,49 @@ The above code snippet will be rendered as:
 
 ### 📬 How to get a slip card?
 
-You can get the slip card by checking the designer's profile. The club does not provide a
+You can get the slip card by checking the designer's profile. The club officially does not provide a
 first-party slip card store, and you must check it manually.
 
 To ease the progress, check any links given by the designer/deliverer in their delivery message if
 they have a slip card store.
+
+## Card Archival Project
+
+*FAQ taken from [Archive Repo README][archiveRepo]*
+
+### 🤔 What is this project on GitHub as repository?
+
+`theNewbieClub-MAL/cardArchive` is archival repository for cards that have been delivered by
+designer themselves, or assisted by deliverer team member. Aimed for giving an inspiration for new
+staff or returning on designing their own cards, and also for those who are looking for a way to
+retrieving back their cards when link given by designer/deliverer is broken/expired.
+
+### 🚶‍♂️ How to navigate the project repo? I am a newcomer on GitHub.
+
+To navigate/explore, you can choose any method below:
+
+#### Directly using GitHub
+
+1. Click <kbd>Go on file</kbd> on top toolbar, or click this
+   [link](https://github.com/theNewbieClub-MAL/cardArchive/find/main)
+2. Start searching!
+
+#### Using mirror site
+
+1. First, visit [this link][archiveSite] to go to the mirror
+   site.
+2. On right top, there is a search box, type in your search query, and click `Search`.
+3. Start searching!
+
+### 📝 When I visited certain designer's folder, why I saw either .gitkeep or README.md with Attention as title?
+
+Those files are placeholder for Git read "empty" directory. By default, empty directory is not shown
+on Git, so you need to add `.gitkeep` file on that folder. We use it as placeholder of currently
+designing cards or released soon cards.
+
+However, for `README.md` file, there is an additional note why the folder is empty. Mostly it is due
+to the link designer/deliverer has given is expired, but it also can be due to the designer
+resigned from the club.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -648,13 +723,16 @@ they have a slip card store.
    threshold is 10.
 
 <!-- LINKS -->
+[archiveRepo]: https://github.com/theNewbieClub-MAL/cardArchive
+[archiveSite]: https://archive.thenewbieclub.my.id
+[cardFaq]: https://myanimelist.net/forum/?topicid=1983981
 [cardTrack]: https://myanimelist.net/forum/?topicid=1981019
 [CCBY40]: ../LICENSE
 [discEncyclopediaUserID]: https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
 [encyclopedia]: https://thenewbieclub-mal.github.io/gfxEncyclopedia
 [faq]: https://myanimelist.net/forum/?topicid=1779538
 [i18n]: languageContent.md
-[mailTo]: mailto:dmca@nattadasu.my.id?subject=The%20Newbie%20Club%3A%20Takedown%20Request
+[mailTo]: mailto:dmca@thenewbieclub.my.id?subject=The%20Newbie%20Club%3A%20Takedown%20Request
 [malBBCode]: https://myanimelist.net/info.php?go=bbcode
 [nattadasu]: https://myanimelist.net/profile/nattadasu
 [rfc2119]: https://datatracker.ietf.org/doc/html/rfc2119

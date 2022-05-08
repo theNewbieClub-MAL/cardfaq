@@ -312,7 +312,7 @@ sebelum meminta kartu.
 
 Berikut adalah peraturan, terjemahan, beserta penjelasan lebih lanjut:
 
-<!-- START: DO NOT TRANSLATE CLAUSES. ONLY DESCRIPTION ALLOWED, FEEL FREE TO ADD EXPLANATIONS -->
+<!-- START: DO NOT TRANSLATE CLAUSES. ONLY DESCRIPTIONS ALLOWED, FEEL FREE TO ADD EXPLANATIONS -->
 
 1. Request your cards by <u>commenting on this forum thread</u> and using a list number instead of
    naming the card.
@@ -373,13 +373,38 @@ Berikut adalah peraturan, terjemahan, beserta penjelasan lebih lanjut:
    > ***********************************************************************************************
    >
    > Kebanyakan desain kartu memiliki ruang yang terbatas, biasanya hanya memuat 12 karakter.
-7. **Editions are limited to** *`x`* **requests**, so it's first come, first served!
+7. Nickname is prioritized for card naming than username if filled.
+   > **Terjemahan:**\
+   > Nama panggilan (*nickname*) lebih diutamakan dalam penamaan kartu ketimbang nama pengguna
+   > (*username*) apablila diisi.
+   >
+   > ***********************************************************************************************
+   >
+   > Ayat ini cukup jelas. Kami tidak dapat menerima komplain jika peminta menggunakan nama
+   > panggilan ketimbang nama pengguna tetapi ingin kartunya menggunakan nama pengguna.
+8. **Editions are limited to** *`x`* **requests**, so it's first come, first served!
    > **Terjemahan:**\
    > **Edisi hanya dapat memampung hingga** *`x`* **permintaan**, siapa cepat, dia dapat.
    >
    > ***********************************************************************************************
    >
    > Ayat ini cukup jelas.
+9. If you have any question regarding requesting the cards, how it works, or any general questions,
+   please check [Card Guide and FAQ][cardFaq] forum thread.
+   > **Terjemahan:**\
+   > Jika Anda memiliki pertanyaan mengenai permintaan kartu, bagaimana cara kerja, ataupun
+   > pertanyaan umum, silakan periksa di utas forum [Card Guide and FAQ][cardFaq].
+   > ***********************************************************************************************
+   >
+   > Ayat ini cukup jelas.
+10. To check delivery progress, please refer to [Card Delivery Tracking][cardTrack] thread.
+    > **Terjemahan:**\
+    > Untuk mengecek progres pengiriman, silakan periksa di utas
+    > [Card Delivery Tracking][cardTrack].
+    >
+    > **********************************************************************************************
+    >
+    > Ayat ini cukup jelas.
 
 <!-- END: TRANSLATION RESTRICTION -->
 
@@ -404,10 +429,8 @@ Silakan kirimkan PM MAL ke [@nattadasu][nattadasu] untuk investigasi lebih lanju
 
 ## 🙅‍♂️ Konten saya digunakan tanpa izin; Kepada siapa saya dapat mengajukan permintaan *takedown*?
 
-Silakan ajukan permintaan *takedown* ke [dmca@nattadasu.my.id][mailTo]. Kami akan berusaha sebaik
-mungkin untuk menyelesaikan perkara dalam sehari.
-
-Sayangnya, klub tidak memiliki alamat surel terkhusus untuk sementara waktu.
+Silakan ajukan permintaan *takedown* ke [dmca@thenewbieclub.my.id][mailTo]. Kami akan berusaha
+sebaik mungkin untuk menyelesaikan perkara dalam sehari.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -445,9 +468,33 @@ Ringkasnya, dengan memeriksa status:
   *thread* ditutup:
   > Kirimkan PM MAL ke [@nattadasu][nattadasu]
 * Jika status desainer ✅ **delivered**, tetapi tidak dapat kartu:
-  > Kirimkan PM MAL ke staf yang bersangkutan
+  >
+  > 1. Coba periksa status *archive* kartu tersebut. Jika statusnya ***archived***, maka ketuk/klik
+  >    tautan yang tertera untuk langsung lompat ke laman *archive* kartu tersebut.
+  > 2. Kirim PM MAL ke desainer.
+  >
 * Jika status desainer ❌ **halted**:
-  > Kirimkan PM MAL ke [@nattadasu][nattadasu]
+  > Sayangnya, kami tidak dapat membantu kamu.
+
+## 💾 Bagaimana saya bisa unduh kartu?
+
+Tergantung pada lokasi di mana desainer menyimpan kartu, kamu dapat mengunduh kartu dengan cara:
+
+1. Klik kanan/pendam gambar kartu dan pilih "*Save Image As*"/"Simpan Gambar Sebagai".
+2. Pilih "Unduh"/"*Download*" dari menu konteks/*toolbar*.
+
+## 📥 Entah bagaimana, kartu saya hilang/lupa diunduh, dan tautan yang dikirim oleh staff sudah tidak bisa diakses; Kemana saya mengambil kartu dari pihak klub?
+
+Kunjungi [Proyek *Archive* Kartu The Newbie Club][archiveSite] atau [Repositori GitHub][archiveRepo]
+untuk mengambil kartu.
+
+Mohon untuk diketahui bahwa beberapa kartu mungkin tidak ada dalam repositori berikut dikarenakan:
+
+* Tautan ke kartu sudah tidak bisa diakses pada saat proyek *archival* dimulai (Feb 2022),
+* Kartu sudah tidak dapat diakses oleh desainer karena adanya kesalahan pada desainer seperti
+  terhapus,
+* Pengelola repositori tidak bisa menghubungi staff yang mengundurkan diri, atau
+* Dihapus dikarenakan pelanggaran hak cipta.
 
 ## 🖼️ Dimana saya bisa meletakkan kartu?
 
@@ -681,11 +728,52 @@ Cuplikan kode di atas akan ditampilkan di MAL sebagai:
 
 ### 📬 Bagaimana cara mendapatkan kartu slip?
 
-Kamu bisa mendapatkan kartu slip dengan memeriksa profil desainer. Klub tidak menyediakan toko kartu
-slip pihak pertama, dan Kamu harus memeriksanya secara manual.
+Kamu bisa mendapatkan kartu slip dengan memeriksa profil desainer. Klub secara resmi tidak
+menyediakan toko kartu slip pihak pertama, dan kamu harus memeriksanya secara manual.
 
 Untuk memudahkan pencarian, periksa tautan apa pun yang diberikan oleh desainer/pengirim kartu dalam
 pesan pengiriman mereka jika mereka memiliki toko kartu slip.
+
+## Proyek *Archival* Kartu
+
+*Sesi Tanya Jawab diambil dari* [*Repositori* Archival *Kartu*][archiveRepo] (Bahasa Inggris) dan di
+alih terjemahkan*
+
+### 🤔 Proyek apa ini di GitHub sebagai repositori?
+
+`theNewbieClub-MAL/cardArchive` merupakan repositori *archival* untuk kartu yang dikirimkan oleh
+para desainer tersendiri, atau dibantu oleh anggota tim pengiriman. Ditujukan untuk memberikan
+inspirasi kepada para desainer baru ataupun lama untuk mendesain kartu, dan juga bagi orang-orang
+yang ingin mengunduh kartu kembali ketika tautan yang diberikan oleh desainer/pengirim kartu
+tidak dapat diakses lagi.
+
+### 🚶‍♂️ Bagaimana cara saya untuk menavigasi repositori? Saya pendatang baru di GitHub.
+
+Untuk menavigasi/eksplorisasi repositori, kamu dapat memilih salah satu metode berikut:
+
+#### Langsung menggunakan GitHub
+
+1. Klik tombol <kbd><em>Go on file</em></kbd> di *toolbar* atas, atau klik
+   [tautan berikut](https://github.com/theNewbieClub-MAL/cardArchive/find/main).
+2. Mulailah pencarian!
+
+#### Melalui situs cermin
+
+1. Pertama-tama, kunjungi [tautan ini][archiveSite] untuk menuju ke situs cermin.
+2. Di kanan atas, terdapat kotak pencarian. Ketikkan kueri pencarian kamu, dan ketuk
+   <kbd>Search</kbd>.
+3. Mulailah pencarian!
+
+### 📝 Ketika saya mengunjungi folder desainer tertentu, kenapa ada beberapa folder berkasnya hanya .gitkeep atau README.md dengan judul *Attention*?
+
+Berkas berikut merupakan berkas *placeholder* agar aplikasi Git dapat membaca folder "kosong".
+Secara umum, folder kosong tidak dibaca oleh Git, maka pengelola mesti menambahkan berkas seperti
+`.gitkeep` di folder tersebut. Kami menggunakan untuk sebagai *placeholder* folder kartu yang sedang
+didesain ataupun akan dirilis.
+
+Akan tetapi, untuk berkas `README.md`, terdapat catatan lebih lanjut mengapa folder ini kosong.
+Biasanya dikarenakan tautan yang dikirim oleh desainer/pengirim kartu tidak dapat diakses, tetapi
+bisa juga desainer mengundurkan diri dari klub sebelum mereka sempat mengirim kartu.
 
 ----------------------------------------------------------------------------------------------------
 
@@ -704,13 +792,16 @@ pesan pengiriman mereka jika mereka memiliki toko kartu slip.
    adalah ambang.
 
 <!-- LINKS -->
+[archiveRepo]: https://github.com/theNewbieClub-MAL/cardArchive
+[archiveSite]: https://archive.thenewbieclub.my.id
+[cardFaq]: https://myanimelist.net/forum/?topicid=1983981
 [cardTrack]: https://myanimelist.net/forum/?topicid=1981019
 [CCBY40]: ../LICENSE
 [discEncyclopediaUserID]: https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
 [encyclopedia]: https://thenewbieclub-mal.github.io/gfxEncyclopedia
 [faq]: https://myanimelist.net/forum/?topicid=1779538
 [i18n]: languageContent.md
-[mailTo]: mailto:dmca@nattadasu.my.id?subject=The%20Newbie%20Club%3A%20Takedown%20Request
+[mailTo]: mailto:dmca@thenewbieclub.my.id?subject=The%20Newbie%20Club%3A%20Takedown%20Request
 [malBBCode]: https://myanimelist.net/info.php?go=bbcode
 [nattadasu]: https://myanimelist.net/profile/nattadasu
 [rfc2119]: https://datatracker.ietf.org/doc/html/rfc2119
