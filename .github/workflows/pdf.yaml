@@ -32,7 +32,7 @@ jobs:
           mv i18n/document.pdf docs/en_US.pdf
 
       - name: Commit docs
-        uses: stefanzweifel/git-auto-commit-action@v4.13.1
+        uses: stefanzweifel/git-auto-commit-action@v4.15.3
         with:
           commit_message: Update PDF
           commit_options: --allow-empty
